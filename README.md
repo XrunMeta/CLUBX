@@ -8,3 +8,6 @@
 - Voicechat tested and works with multiplayer
 - Text chat is functional but still using old UI
 - Lobby is functional but still requires visual tweaks
+
+# Tri Work
+- Doing synchronized music playback for all connected players in server according to UTC time, fixing bugs in hair not showing properly - 08 Aug 2023
