@@ -7,10 +7,12 @@
 - namely the code confirmation popup in the OTP still appears when logging in, when an incorrect login is still logged in - 10 Agustus 2023
 - the ID when we save it returns to default. It doesn't match from database - 10 Agustus 2023
 - adds regions for some countries - 10 Agustus 2023
+- Migrate Database - 11 Agustus 2023
+- Finished add region in all country (90) - 11 Agustus 2023
 
 # Tri Work (08 aug 2023)
 
-- Started implementing UI for gameplay and implement autoconnect to voicechat, mute functionality (press Enter to mute / unmute)
+- Started implementing UI for gameplay and im`plement autoconnect to voicechat, mute functionality (press Enter to mute / unmute)
 - Voicechat tested and works with multiplayer
 - Text chat is functional but still using old UI
 - Lobby is functional but still requires visual tweaks
