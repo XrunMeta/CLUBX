@@ -10,13 +10,12 @@
 - Migrate Database - 11 Agustus 2023
 - Finished add region in all country (90) - 11 Agustus 2023
 
-# Tri Work (08 aug 2023)
+# Tri Work
 
 - Started implementing UI for gameplay and im`plement autoconnect to voicechat, mute functionality (press Enter to mute / unmute)
 - Voicechat tested and works with multiplayer
 - Text chat is functional but still using old UI
 - Lobby is functional but still requires visual tweaks
-
-# Tri Work
-
 - Doing synchronized music playback for all connected players in server according to UTC time, fixing bugs in hair not showing properly - 08 Aug 2023
+- Preparing logic for NPC, NPC Spawner.
+- Inserting temporary dancing and sitting test NPC (non interactible)
