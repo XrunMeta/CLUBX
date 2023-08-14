@@ -17,5 +17,5 @@
 - Text chat is functional but still using old UI
 - Lobby is functional but still requires visual tweaks
 - Doing synchronized music playback for all connected players in server according to UTC time, fixing bugs in hair not showing properly - 08 Aug 2023
-- Preparing logic for NPC, NPC Spawner.
-- Inserting temporary dancing and sitting test NPC (non interactible)
+- Preparing logic for NPC, NPC Spawner. - 14 Aug 2023
+- Inserting temporary dancing and sitting test NPC (non interactible) - 14 Aug 2023
