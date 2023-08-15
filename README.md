@@ -19,3 +19,5 @@
 - Doing synchronized music playback for all connected players in server according to UTC time, fixing bugs in hair not showing properly - 08 Aug 2023
 - Preparing logic for NPC, NPC Spawner. - 14 Aug 2023
 - Inserting temporary dancing and sitting test NPC (non interactible) - 14 Aug 2023
+- Placing animated character in level for preparation for recording - 15 Aug 2023
+- Setup graphic Settings for in-game - 15 Aug 2023
