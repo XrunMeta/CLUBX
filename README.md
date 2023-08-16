@@ -21,3 +21,8 @@
 - Inserting temporary dancing and sitting test NPC (non interactible) - 14 Aug 2023
 - Placing animated character in level for preparation for recording - 15 Aug 2023
 - Setup graphic Settings for in-game - 15 Aug 2023
+- Bug Fixing as per notion bug lists - 16 Aug 2023
+- Package windows exe for Client & Server (Clubx PreAlpha version 0.01 release 16 Aug 2023) - 16 Aug 2023
+- Upload server to AWS instance and run the server (ready to connect from anywhere) - 16 Aug 2023
+- Uploade the client exe to google drive (anyone can download) - 16 Aug 2023
+- Introduced new bug in camera collision - 16 Aug 2023
