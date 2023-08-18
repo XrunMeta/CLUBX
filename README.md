@@ -26,3 +26,12 @@
 - Upload server to AWS instance and run the server (ready to connect from anywhere) - 16 Aug 2023
 - Uploade the client exe to google drive (anyone can download) - 16 Aug 2023
 - Introduced new bug in camera collision - 16 Aug 2023
+
+- Release New Build: Clubx Release Notes Pre Alpha Version 0.02 (Alpha.002) - 18 Aug 2023
+  Release Notes:
+  - Change voice chat icon to mic (instead of speaker icon) - 18aug
+  - Removed player list in login menu - 18aug
+  BUG FIXED
+  - Player & camera collision fixed (fixed 18aug)
+  - In Lobby, When player height is very tall or very short, camera does not follow to head (fixed 18aug)
+  - Elevator Only work 1, the rest is not working (fixed 18aug)
