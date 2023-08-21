@@ -10,7 +10,7 @@
 - Migrate Database - 11 Agustus 2023
 - Finished add region in all country (90) - 11 Agustus 2023
 - Change resend code duration, from 30s to 60s - 21 Agustus 2023
-- Change resend code duration, from 30s to 60s - 21 Agustus 2023
+- Add button back, go to login - 21 Agustus 2023
 - Created a new API to store login history from a user, and also an API to retrieve data with a certain member id along with the history data - 21 Agustus 2023
 
 # Tri Work
