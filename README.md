@@ -9,6 +9,9 @@
 - adds regions for some countries - 10 Agustus 2023
 - Migrate Database - 11 Agustus 2023
 - Finished add region in all country (90) - 11 Agustus 2023
+- Change resend code duration, from 30s to 60s - 21 Agustus 2023
+- Change resend code duration, from 30s to 60s - 21 Agustus 2023
+- Created a new API to store login history from a user, and also an API to retrieve data with a certain member id along with the history data - 21 Agustus 2023
 
 # Tri Work
 
@@ -31,7 +34,7 @@
   Release Notes:
   - Change voice chat icon to mic (instead of speaker icon) - 18aug
   - Removed player list in login menu - 18aug
-  BUG FIXED
+    BUG FIXED
   - Player & camera collision fixed (fixed 18aug)
   - In Lobby, When player height is very tall or very short, camera does not follow to head (fixed 18aug)
   - Elevator Only work 1, the rest is not working (fixed 18aug)
