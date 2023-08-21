@@ -38,3 +38,6 @@
   - Player & camera collision fixed (fixed 18aug)
   - In Lobby, When player height is very tall or very short, camera does not follow to head (fixed 18aug)
   - Elevator Only work 1, the rest is not working (fixed 18aug)
+
+- Implemented User login history in Server GameMode and send to API - 21 AUg 2023
+- Playtesting and minor bug fixing - 21 AUg 2023
