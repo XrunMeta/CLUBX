@@ -72,6 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+<<<<<<< HEAD
 
 # Custom Ignore
 Binaries 
@@ -85,3 +86,5 @@ Platforms
 Saved
 *.zip
 *.txt
+=======
+>>>>>>> 32fd41503b11c909179043f3f4c023584f6b8a2a
