@@ -87,6 +87,8 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 
 - Tri - 21 Aug 2023	- Implemented User login history in Server GameMode and send to API - 21 AUg 2023
 - Tri - 21 Aug 2023	- Playtesting and minor bug fixing - 21 AUg 2023
+![blueprints](https://github.com/XrunMeta/CLUBX/blob/main/img/21aug.jpg?raw=true)
+![database](https://github.com/XrunMeta/CLUBX/blob/main/img/21aug2.jpg?raw=true)
 <br><br>
 
 - Rian - 21 Aug 2023 - Created a new API to store login history from a user, and also an API to retrieve data with a certain member id along with the history data
