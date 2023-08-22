@@ -2,6 +2,8 @@
 
 More Information: https://www.xrun.run/clubx_homepage/
 ## <b>Download our Pre Alpha release here:</b><br>
+## <b>https://github.com/XrunMeta/CLUBX/releases/tag/v0.0.2-preAlpha</b><br>
+or alternatively you can download it here: 
 ## <b>https://drive.google.com/drive/folders/1piRk6Ork2lT7MaGiqFz59WHm9ox7EGii?usp=sharing</b>
 
 
