@@ -103,8 +103,8 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 - Rian - 21 Aug 2023 - Created a new API to store login history from a user, and also an API to retrieve data with a certain member id along with the history data
 - Rian - 21 Aug 2023 - Add button back, go to login
 - Rian - 21 Aug 2023 - Change resend code duration, from 30s to 60s
-  ![report](https://github.com/XrunMeta/CLUBX/blob/main/img/rian-22-aug%20(1).png)
-  ![report](https://github.com/XrunMeta/CLUBX/blob/main/img/rian-22-aug%20(2).png)
+  ![report](https://github.com/XrunMeta/CLUBX/blob/main/img/rian-22-aug-1.png?raw=true)
+  ![report](https://github.com/XrunMeta/CLUBX/blob/main/img/rian-22-aug-2.png?raw=true)
 <br><br>
 
 - Tri - 18 Aug 2023	- Release New Build: Clubx Release Notes Pre Alpha Version 0.02 (Alpha.002) - 18 Aug 2023
