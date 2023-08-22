@@ -87,6 +87,14 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 <br><br><br>
 # Developer Daily Updates
 
+- Tri - 22 Aug 2023 - Updating readme in github
+- Tri - 22 Aug 2023 - Upload v0.0.2-PreAlpha build to github
+- Tri - 22 Aug 2023 - Hide chat interface in lobby (Lobby is not connected to server so chat does not work)
+- Tri - 22 Aug 2023 - Fix Voice chat Mute Button (works)
+- Tri - 22 Aug 2023 - Chat UI (on progress...)
+![chatUI](https://github.com/XrunMeta/CLUBX/blob/main/img/tri-22aug-img1.png?raw=true)
+<br><br>
+
 - Tri - 21 Aug 2023	- Implemented User login history in Server GameMode and send to API - 21 AUg 2023
 - Tri - 21 Aug 2023	- Playtesting and minor bug fixing - 21 AUg 2023
 ![blueprints](https://github.com/XrunMeta/CLUBX/blob/main/img/21aug.jpg?raw=true)
