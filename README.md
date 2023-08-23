@@ -81,6 +81,11 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 <br><br><br>
 # Developer Daily Updates
 
+- Tri - 23 Aug 2023 - Chat UI (done)
+- Tri - 23 Aug 2023 - Female Character setup (on progress...)
+![female character](https://github.com/XrunMeta/CLUBX/blob/main/img/23aug1.jpg?raw=true)
+<br><br>
+
 - Tri - 22 Aug 2023 - Updating readme in github
 - Tri - 22 Aug 2023 - Upload v0.0.2-PreAlpha build to github
 - Tri - 22 Aug 2023 - Hide chat interface in lobby (Lobby is not connected to server so chat does not work)
