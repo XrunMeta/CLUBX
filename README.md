@@ -99,6 +99,22 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 ![blueprints](https://github.com/XrunMeta/CLUBX/blob/main/img/21aug.jpg?raw=true)
 <br><br>
 
+- Rian - 23 Aug 2023 - When a notification appears in the profile section, you can't do anything before clicking ok on the notification
+- Rian - 23 Aug 2023 - Repair text to visible in chat game lobby
+- Rian - 23 Aug 2023 - Repair bug overflow text clothes, set to be ellipsis and show all text when hover
+
+  ![report](https://github.com/XrunMeta/CLUBX/blob/main/img/rian-23-aug-1.png?raw=true)
+  ![report](https://github.com/XrunMeta/CLUBX/blob/main/img/rian-23-aug-2.png?raw=true)
+<br><br>
+
+- Rian - 22 Aug 2023 - removed the back button in the signup form, when selecting a country
+- Rian - 22 Aug 2023 - moved the api url, to fix the problematic send otp to whatsapp and in the confirmation notification section, added a button to close the confirmation notification.
+- Rian - 22 Aug 2023 - make the signup widget transparent, so that when logging in after a successful signup, the signup widget doesn't appear
+
+  ![report](https://github.com/XrunMeta/CLUBX/blob/main/img/rian-22-aug-1.png?raw=true)
+  ![report](https://github.com/XrunMeta/CLUBX/blob/main/img/rian-22-aug-2.png?raw=true)
+<br><br>
+
 - Rian - 21 Aug 2023 - Created a new API to store login history from a user, and also an API to retrieve data with a certain member id along with the history data
 - Rian - 21 Aug 2023 - Add button back, go to login
 - Rian - 21 Aug 2023 - Change resend code duration, from 30s to 60s
