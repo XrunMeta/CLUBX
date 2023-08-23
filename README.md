@@ -1,12 +1,6 @@
 # Clubx Readme
 
 More Information: https://www.xrun.run/clubx_homepage/
-## <b>Download our Pre Alpha release here:</b><br>
-## <b>https://github.com/XrunMeta/CLUBX/releases/tag/v0.0.2-preAlpha</b><br>
-or alternatively you can download it here: 
-## <b>https://drive.google.com/drive/folders/1piRk6Ork2lT7MaGiqFz59WHm9ox7EGii?usp=sharing</b>
-
-
 
 ###############################################################
 ### Clubx Release Notes Pre Alpha Version 0.02 (Alpha.002)
@@ -86,6 +80,11 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 
 <br><br><br>
 # Developer Daily Updates
+
+- Tri - 23 Aug 2023 - Chat UI (done)
+- Tri - 23 Aug 2023 - Female Character setup (on progress...)
+![female character](https://github.com/XrunMeta/CLUBX/blob/main/img/23aug1.jpg?raw=true)
+<br><br>
 
 - Tri - 22 Aug 2023 - Updating readme in github
 - Tri - 22 Aug 2023 - Upload v0.0.2-PreAlpha build to github
