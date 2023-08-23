@@ -86,19 +86,6 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 ![female character](https://github.com/XrunMeta/CLUBX/blob/main/img/23aug1.jpg?raw=true)
 <br><br>
 
-- Tri - 22 Aug 2023 - Updating readme in github
-- Tri - 22 Aug 2023 - Upload v0.0.2-PreAlpha build to github
-- Tri - 22 Aug 2023 - Hide chat interface in lobby (Lobby is not connected to server so chat does not work)
-- Tri - 22 Aug 2023 - Fix Voice chat Mute Button (works)
-- Tri - 22 Aug 2023 - Chat UI (on progress...)
-![chatUI](https://github.com/XrunMeta/CLUBX/blob/main/img/tri-22aug-img1.png?raw=true)
-<br><br>
-
-- Tri - 21 Aug 2023	- Implemented User login history in Server GameMode and send to API - 21 AUg 2023
-- Tri - 21 Aug 2023	- Playtesting and minor bug fixing - 21 AUg 2023
-![blueprints](https://github.com/XrunMeta/CLUBX/blob/main/img/21aug.jpg?raw=true)
-<br><br>
-
 - Rian - 23 Aug 2023 - When a notification appears in the profile section, you can't do anything before clicking ok on the notification
 - Rian - 23 Aug 2023 - Repair text to visible in chat game lobby
 - Rian - 23 Aug 2023 - Repair bug overflow text clothes, set to be ellipsis and show all text when hover
@@ -107,12 +94,25 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
   ![report](https://github.com/XrunMeta/CLUBX/blob/main/img/rian-23-aug-2.png?raw=true)
 <br><br>
 
+- Tri - 22 Aug 2023 - Updating readme in github
+- Tri - 22 Aug 2023 - Upload v0.0.2-PreAlpha build to github
+- Tri - 22 Aug 2023 - Hide chat interface in lobby (Lobby is not connected to server so chat does not work)
+- Tri - 22 Aug 2023 - Fix Voice chat Mute Button (works)
+- Tri - 22 Aug 2023 - Chat UI (on progress...)
+![chatUI](https://github.com/XrunMeta/CLUBX/blob/main/img/tri-22aug-img1.png?raw=true)
+<br><br>
+
 - Rian - 22 Aug 2023 - removed the back button in the signup form, when selecting a country
 - Rian - 22 Aug 2023 - moved the api url, to fix the problematic send otp to whatsapp and in the confirmation notification section, added a button to close the confirmation notification.
 - Rian - 22 Aug 2023 - make the signup widget transparent, so that when logging in after a successful signup, the signup widget doesn't appear
 
   ![report](https://github.com/XrunMeta/CLUBX/blob/main/img/rian-22-aug-1.png?raw=true)
   ![report](https://github.com/XrunMeta/CLUBX/blob/main/img/rian-22-aug-2.png?raw=true)
+<br><br>
+
+- Tri - 21 Aug 2023	- Implemented User login history in Server GameMode and send to API - 21 AUg 2023
+- Tri - 21 Aug 2023	- Playtesting and minor bug fixing - 21 AUg 2023
+![blueprints](https://github.com/XrunMeta/CLUBX/blob/main/img/21aug.jpg?raw=true)
 <br><br>
 
 - Rian - 21 Aug 2023 - Created a new API to store login history from a user, and also an API to retrieve data with a certain member id along with the history data
