@@ -81,6 +81,11 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 <br><br><br>
 # Developer Daily Updates
 
+- Tri - 24 Aug 2023 - Female Character setup (on progress...)
+- Tri - 24 Aug 2023 - Music volume lower / mute button when want to voice chat (on progress...)
+![clubx](https://github.com/XrunMeta/CLUBX/blob/main/img/tri_24aug.jpeg?raw=true)
+<br><br>
+
 - Tri - 23 Aug 2023 - Chat UI (done)
 - Tri - 23 Aug 2023 - Female Character setup (on progress...)
 ![female character](https://github.com/XrunMeta/CLUBX/blob/main/img/23aug1.jpg?raw=true)
