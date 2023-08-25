@@ -3,12 +3,17 @@
 More Information: https://www.xrun.run/clubx_homepage/
 
 ###################################
-###								
-### Clubx Build Release	Notes
-###								
+
+###
+
+### Clubx Build Release Notes
+
+###
+
 ###################################
 
 ### Release v0.0.3-PreAlpha 25 Aug 2023
+
 - 18 Aug 2023 - Change voice chat icon to mic (instead of speaker icon)
 - 18 Aug 2023 - Removed player list in login menu
 - 21 Aug 2023 - Implemented User login history in Server GameMode and send to API
@@ -19,14 +24,15 @@ More Information: https://www.xrun.run/clubx_homepage/
 - 25 Aug 2023 - Toggle Music volume lower / mute button when want to voice chat (done)
 - 25 Aug 2023 - Song before the fast is not correctly timed (Ben Song duration FIXED)
 
-
 BUG FIXED
+
 - Player & camera collision fixed (fixed 18aug)
 - In Lobby, When player height is very tall or very short, camera does not follow to head (fixed 18aug)
 - Elevator Only work 1, the rest is not working (fixed 18aug)
-- 
+-
 
 BUG LIST:
+
 - Small Elevator buggy
 - menu back dari wallet
 - camera tembus pantat
@@ -35,18 +41,18 @@ BUG LIST:
 - Outside road collision still raw (jalan di luar ngambang kaya tuyul)
 - ada collision di kepala character
 
-
 TODO LIST FOR NEXT RELEASE:
+
 - Sit down
 - Dialog System Planned for v0.30
 - Shop System (for clothes)
 - Point & Digital Currency System
-- 
-
+-
 
 ## CURRENT PROGRESS
 
 ### Intro Level (Local)
+
 - Clubx Splash Screen
 
 - Register Done -> Save data from Unreal to database via API
@@ -55,6 +61,7 @@ TODO LIST FOR NEXT RELEASE:
 - After login email & Password, user will be redirected to Lobby Level
 
 ### Lobby Level (Local)
+
 - Loading data from DB
 - Customize your character
 - Facial profile (face, eyes, ears, nose, mouth)
@@ -68,12 +75,14 @@ TODO LIST FOR NEXT RELEASE:
 - Change Password
 
 Select Room / Session
+
 - Local Development Multiplayer Server
 - Online Multiplayer (AWS Multiplayer Dedicated Server)
 
-
 ### Game Level (Multiplayer Server)
+
 Features:
+
 - Walk, Run, Jump, Dance
 - Enter Lobby Elevator to the club 2nd floor
 - Functional Text Chat by pressing Slash (/)
@@ -81,32 +90,32 @@ Features:
 - Press Enter to toggle Mute your microphone
 - Press Backslash to toggle reduce music volume (useful when voice chat)
 - Music is scheduled according to UTC time (Greenwich Mean Time GMT+0)
-Server triggers the music to all connected players when the song schedule is time.
-Song is replayed the same time every hour
+  Server triggers the music to all connected players when the song schedule is time.
+  Song is replayed the same time every hour
 
 Song Schedule:
 
-Song 1 - Oliver               = 00.00 - 02.25
-Song 2 - Lies                 = 02.27 - 05.37
-Song 3 - Ben Fox              = 05.39 - 08.32
-Song 4 - I've been Thinking   = 08.34 - 11.19
-Song 5 - AlexMake Music       = 11.21 - 13.36
-Song 6 - Evgeny               = 13.38 - 16.40
-Song 7 - Naems                = 16.42 - 20.22
+Song 1 - Oliver = 00.00 - 02.25
+Song 2 - Lies = 02.27 - 05.37
+Song 3 - Ben Fox = 05.39 - 08.32
+Song 4 - I've been Thinking = 08.34 - 11.19
+Song 5 - AlexMake Music = 11.21 - 13.36
+Song 6 - Evgeny = 13.38 - 16.40
+Song 7 - Naems = 16.42 - 20.22
 
-Song 8 - Oliver               = 22.00 - 24.25
-Song 9 - Lies                 = 24.27 - 27.37
-Song 10 - Ben Fox             = 27.39 - 30.32
-Song 11 - I've been Thinking  = 30.34 - 33.19
-Song 12 - AlexMake Music      = 33.21 - 35.36
-Song 13 - Evgeny              = 35.38 - 38.40
-Song 14 - Naems               = 38.42 - 42.22
+Song 8 - Oliver = 22.00 - 24.25
+Song 9 - Lies = 24.27 - 27.37
+Song 10 - Ben Fox = 27.39 - 30.32
+Song 11 - I've been Thinking = 30.34 - 33.19
+Song 12 - AlexMake Music = 33.21 - 35.36
+Song 13 - Evgeny = 35.38 - 38.40
+Song 14 - Naems = 38.42 - 42.22
 
-Song 15 - Oliver              = 44.00 - 46.25
-Song 16 - Lies                = 46.27 - 49.37
-Song 17 - Ben Fox             = 49.39 - 52.32
-Song 18 - I've been Thinking  = 52.34 - 55.19
-Song 19 - AlexMake Music      = 55.21 - 57.36
+Song 15 - Oliver = 44.00 - 46.25
+Song 16 - Lies = 46.27 - 49.37
+Song 17 - Ben Fox = 49.39 - 52.32
+Song 18 - I've been Thinking = 52.34 - 55.19
+Song 19 - AlexMake Music = 55.21 - 57.36
 
 Rest until 59.59, and then go back to minutes 00.00 song 1 again
 
@@ -120,9 +129,18 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 - Tri - 25 Aug 2023 - Female Character setup (done)
 - Tri - 25 Aug 2023 - Toggle Music volume lower / mute button when want to voice chat (done)
 - Tri 25 Aug 2023 - Song before the fast is not correctly timed (Ben Song duration FIXED)
-Video walkthrough: https://drive.google.com/file/d/1Zy0Dt8M7XDdLlohOA2iHZh9ygTrimX-R/view?usp=sharing
- <br><br>
- 
+  Video walkthrough: https://drive.google.com/file/d/1Zy0Dt8M7XDdLlohOA2iHZh9ygTrimX-R/view?usp=sharing
+  <br><br>
+
+- Rian - 25 Aug 2023 - Solve bug: if you save data in the profile, the initial character is male. When you enter the game, you become a woman instead
+- Rian - 25 Aug 2023 - Solve bug: delete the clubx intro that still concerns, when you have successfully logged in
+- Rian - 25 Aug 2023 - Set graphic by check: low, medium, high and ultra. But still not call API
+- Rian - 25 Aug 2023 - Solve bug: Repair OTP in forgot password page
+
+  ![report](https://github.com/XrunMeta/CLUBX/blob/main/img/rian-25-aug-1.png?raw=true)
+  ![report](https://github.com/XrunMeta/CLUBX/blob/main/img/rian-25-aug-2.png?raw=true)
+  <br><br>
+
 - Tri - 24 Aug 2023 - Female Character setup (on progress...)
 - Tri - 24 Aug 2023 - Music volume lower / mute button when want to voice chat (on progress...)
   ![clubx](https://github.com/XrunMeta/CLUBX/blob/main/img/tri_24aug.jpeg?raw=true)
