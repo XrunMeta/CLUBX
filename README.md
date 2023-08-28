@@ -125,6 +125,11 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 
 # Developer Daily Updates
 
+- Rian - 25 Aug 2023 - Save and load graphic settings, but not yet implement in game lobby
+
+  ![report](https://github.com/XrunMeta/CLUBX/blob/main/img/rian-28-aug-1.png?raw=true)
+  <br><br>
+
 - Uploaded New v0.0.3-PreAlpha Build
 - Tri - 25 Aug 2023 - Female Character setup (done)
 - Tri - 25 Aug 2023 - Toggle Music volume lower / mute button when want to voice chat (done)
@@ -149,7 +154,6 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 - Rian - 24 Aug 2023 - Add resolution scale, view distance, anti aliasing, post processing, shadows, textures, effects, detail mode in setting, then load settings already success
 
   ![report](https://github.com/XrunMeta/CLUBX/blob/main/img/rian-24-aug-1.png?raw=true)
-  ![report](https://github.com/XrunMeta/CLUBX/blob/main/img/rian-24-aug-2.png?raw=true)
   <br><br>
 
 - Tri - 23 Aug 2023 - Chat UI (done)
