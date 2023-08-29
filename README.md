@@ -125,14 +125,22 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 
 # Developer Daily Updates
 
+- Rian - 29 Aug 2023 - Fix bug: Forget password, phone number with two option. Using code country or not
+  Sign up page just add hint text in input phone number
+- Rian - 29 Aug 2023 - Implement setting to UI in gameplay lobby
+- Rian - 29 Aug 2023 - Set notifications in settings, when on or off
+
+  ![report](https://github.com/XrunMeta/CLUBX/blob/main/img/rian-29-aug-1.png?raw=true)
+  <br><br>
+
 <br><br>
+
 - Tri - 28 Aug 2023 - I'm preparing facial animation. Due to bone incompatibility, It is required to reimport all NPC asset with compatible facial animation.
 - Tri - 28 Aug 2023 - Reimport base character to Unreal
 - Tri - 28 Aug 2023 - Creating and setup New IK Rig for the skeleton
 - Tri - 28 Aug 2023 - Creating and setup New IK Retargeter
 - Tri - 28 Aug 2023 - Retarget and check required animation
-<br><br>
-
+  <br><br>
 
 - Rian - 28 Aug 2023 - Save and load graphic settings, but not yet implement in game lobby
 
