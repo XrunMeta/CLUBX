@@ -125,13 +125,16 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 
 # Developer Daily Updates
 
-<br><Br>
 - Rian - 30 Aug 2023 - Add text for loading screen after login, but just sample
 - Rian - 30 Aug 2023 - Add sound click, for choose room Online or Local
 - Rian - 30 Aug 2023 - Implement save and load settings in gameplay (Still have bugs)
 <br><Br>
 
+- Tri - 30 Aug 2023 - Facial Animation Part-5: Logic Setup in blueprints in what condition facial animation is played
+- Tri - 30 Aug 2023 - Facial Animation Part-6: Testing the logic in Editor if the animation work as expected
+- Tri - 30 Aug 2023 - Facial Animation Part-7: Testing Replication in Multiplayer if the logic works in multiplayer system
 <br><Br>
+
 - Tri - 29 Aug 2023 - Facial Animation Part-2: Retargeting Animation
 - Tri - 29 Aug 2023 - Facial Animation Part-3: Re-setup NPC Character using New Actorcore Mesh
 - Tri - 29 Aug 2023 - Facial Animation Part-4: Prepare Character facial animation
