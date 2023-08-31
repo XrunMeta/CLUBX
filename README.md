@@ -125,6 +125,11 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 
 # Developer Daily Updates
 
+Thu, 31 Aug 2023
+- Tri - 31 Aug 2023 - Sit down part-1: Setup Sitdown logic, animation, animBP
+<br><Br>
+
+- Tri - 31 Aug 2023 - Sit down part-1: Setup Sitdown logic, animation, animBP
 - Rian - 31 Aug 2023 - Fix bug: Save and load setting graphic in gameplay
 - Rian - 31 Aug 2023 - Add function slider for music, but still have bugs
   <br><Br>
