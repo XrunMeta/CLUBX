@@ -125,27 +125,32 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 
 # Developer Daily Updates
 
+- Rian - 31 Aug 2023 - Fix bug: Save and load setting graphic in gameplay
+- Rian - 31 Aug 2023 - Add function slider for music, but still have bugs
+  <br><Br>
+
 - Rian - 30 Aug 2023 - Add text for loading screen after login, but just sample
 - Rian - 30 Aug 2023 - Add sound click, for choose room Online or Local
 - Rian - 30 Aug 2023 - Implement save and load settings in gameplay (Still have bugs)
-<br><Br>
+  <br><Br>
 
 - Tri - 30 Aug 2023 - Facial Animation Part-5: Logic Setup in blueprints in what condition facial animation is played
 - Tri - 30 Aug 2023 - Facial Animation Part-6: Testing the logic in Editor if the animation work as expected
 - Tri - 30 Aug 2023 - Facial Animation Part-7: Testing Replication in Multiplayer if the logic works in multiplayer system
-<br><Br>
+  <br><Br>
 
 - Tri - 29 Aug 2023 - Facial Animation Part-2: Retargeting Animation
 - Tri - 29 Aug 2023 - Facial Animation Part-3: Re-setup NPC Character using New Actorcore Mesh
 - Tri - 29 Aug 2023 - Facial Animation Part-4: Prepare Character facial animation
-<br><Br>
+  <br><Br>
 
 <br><br>
+
 - Rian - 29 Aug 2023 - Fix bug: Forget password, phone number with two option. Using code country or not
   Sign up page just add hint text in input phone number
 - Rian - 29 Aug 2023 - Implement setting to UI in gameplay lobby
 - Rian - 29 Aug 2023 - Set notifications in settings, when on or off
-<br><br>
+  <br><br>
 
   ![report](https://github.com/XrunMeta/CLUBX/blob/main/img/rian-29-aug-1.png?raw=true)
   <br><br>
