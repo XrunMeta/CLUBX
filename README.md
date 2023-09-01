@@ -125,9 +125,15 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 
 # Developer Daily Updates
 
+- Rian - 1 Sept 2023 - Set music sound: Take according to the last rule, Can using slider, Can with button default sound
+- Rian - 1 Sept 2023 - Change guide help gameplay
+  ![report](https://github.com/XrunMeta/CLUBX/blob/main/img/rian-1-sept-1.png?raw=true)
+  <br><br>
+
 Thu, 31 Aug 2023
+
 - Tri - 31 Aug 2023 - Sit down part-1: Setup Sitdown logic, animation, animBP
-<br><Br>
+  <br><Br>
 
 - Tri - 31 Aug 2023 - Sit down part-1: Setup Sitdown logic, animation, animBP
 - Rian - 31 Aug 2023 - Fix bug: Save and load setting graphic in gameplay
