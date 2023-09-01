@@ -125,6 +125,11 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 
 # Developer Daily Updates
 
+Fri, 01 Sep 2023<br>
+- Tri - 01 Sep 2023 - Sit down part-3: Test in Multiplayer system
+![image](https://github.com/XrunMeta/CLUBX/assets/14313339/704ea9eb-c88d-4d42-b2d1-87b44902a565)
+<br><br>
+
 - Rian - 1 Sept 2023 - Set music sound: Take according to the last rule, Can using slider, Can with button default sound
 - Rian - 1 Sept 2023 - Change guide help gameplay
   ![report](https://github.com/XrunMeta/CLUBX/blob/main/img/rian-1-sept-1.png?raw=true)
@@ -135,7 +140,6 @@ Thu, 31 Aug 2023
 - Tri - 31 Aug 2023 - Sit down part-1: Setup Sitdown logic, animation, animBP
   <br><Br>
 
-- Tri - 31 Aug 2023 - Sit down part-1: Setup Sitdown logic, animation, animBP
 - Rian - 31 Aug 2023 - Fix bug: Save and load setting graphic in gameplay
 - Rian - 31 Aug 2023 - Add function slider for music, but still have bugs
   <br><Br>
