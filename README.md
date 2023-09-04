@@ -125,10 +125,16 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 
 # Developer Daily Updates
 
+- Rian - 4 Sept 2023 - Load flag profile in gameplay
+- Rian - 4 Sept 2023 - create loading screen (just after login)
+  ![report](https://github.com/XrunMeta/CLUBX/blob/main/img/rian-4-sept-1.png?raw=true)
+  <br><br>
+
 Fri, 01 Sep 2023<br>
+
 - Tri - 01 Sep 2023 - Sit down part-3: Test in Multiplayer system
-![image](https://github.com/XrunMeta/CLUBX/assets/14313339/704ea9eb-c88d-4d42-b2d1-87b44902a565)
-<br><br>
+  ![image](https://github.com/XrunMeta/CLUBX/assets/14313339/704ea9eb-c88d-4d42-b2d1-87b44902a565)
+  <br><br>
 
 - Rian - 1 Sept 2023 - Set music sound: Take according to the last rule, Can using slider, Can with button default sound
 - Rian - 1 Sept 2023 - Change guide help gameplay
