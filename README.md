@@ -126,8 +126,9 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 # Developer Daily Updates
 - Bilal - 4 Sept 2023 - Call Coin & Poin API
 - Bilal - 4 Sept 2023 - Loop Item Shop + Price
- ![Get Wallet API   Show to Info Wallet](https://github![Get Wallet API   Show to Info UI](https://github.com/XrunMeta/CLUBX/assets/85775620/90ed1a2b-2591-4b41-bc76-2409143f5508)
-.com/XrunMeta/CLUBX/assets/85775620/b2e2627a-b4ca-445a-8e2f-89beab2bd801)
+![Get Wallet API   Show to Info Wallet](https://github.com/XrunMeta/CLUBX/assets/85775620/ac9a6b77-91b4-475b-b3f8-8e2d3a3add84)
+![Get Wallet API   Show to Info UI](https://github.com/XrunMeta/CLUBX/assets/85775620/b90bb06a-52c5-44cf-a95f-d534b163b06a)
+
 <br><br>
 
 
