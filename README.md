@@ -124,6 +124,15 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 <br><br><br>
 
 # Developer Daily Updates
+
+Mon, 04 Sep 2023
+- Tri - 04 Sep 2023 - Add new NPC & Setting up in Unreal Engine
+- Tri - 04 Sep 2023 - Setup LOD for All NPC
+- Tri - 04 Sep 2023 - Setup IK Rig and retargeter for CC4 character
+![WhatsApp Image 2023-09-04 at 17 54 15](https://github.com/XrunMeta/CLUBX/assets/14313339/9134e74e-f5a6-452a-bedf-ec73cb197723)
+![WhatsApp Image 2023-09-04 at 17 53 55](https://github.com/XrunMeta/CLUBX/assets/14313339/be3b756e-eb56-45e3-9320-ddb71544f56c)
+<br><br>
+
 - Bilal - 4 Sept 2023 - Call Coin & Poin API
 - Bilal - 4 Sept 2023 - Loop Item Shop + Price
 ![Get Wallet API   Show to Info Wallet](https://github.com/XrunMeta/CLUBX/assets/85775620/ac9a6b77-91b4-475b-b3f8-8e2d3a3add84)
