@@ -124,11 +124,18 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 <br><br><br>
 
 # Developer Daily Updates
+- Bilal - 4 Sept 2023 - Call Coin & Poin API
+- Bilal - 4 Sept 2023 - Loop Item Shop + Price
+ ![Get Wallet API   Show to Info Wallet](https://github![Get Wallet API   Show to Info UI](https://github.com/XrunMeta/CLUBX/assets/85775620/90ed1a2b-2591-4b41-bc76-2409143f5508)
+.com/XrunMeta/CLUBX/assets/85775620/b2e2627a-b4ca-445a-8e2f-89beab2bd801)
+<br><br>
+
 
 - Rian - 4 Sept 2023 - Load flag profile in gameplay
 - Rian - 4 Sept 2023 - create loading screen (just after login)
   ![report](https://github.com/XrunMeta/CLUBX/blob/main/img/rian-4-sept-1.png?raw=true)
   <br><br>
+
 
 Fri, 01 Sep 2023<br>
 
