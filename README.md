@@ -125,6 +125,10 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 
 # Developer Daily Updates
 
+- Bilal - 5 Sept 2023 - Item Click Function
+- Bilal - 5 Sept 2023 - Count price as price in DB
+  <br><br>
+
 - Rian - 5 Sept 2023 - Show settings using Escape
 - Rian - 5 Sept 2023 - Add loading screen after join gameplay
   <br><br>
