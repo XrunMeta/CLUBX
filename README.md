@@ -125,6 +125,18 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 
 # Developer Daily Updates
 
+Tue, 05 Sep 2023<br>
+- Tri - 05 Sep 2023 - Fixing LOD character
+- Tri - 05 Sep 2023 - Add New Dance Asset
+- Tri - 05 Sep 2023 - Add New Facial Expression Asset
+- Tri - 05 Sep 2023 - Implement Facial Expression to Character NPC
+- Tri - 05 Sep 2023 - Implement Dance variation to NPC
+- Tri - 05 Sep 2023 - Add 2 New Character C_Opik & Zantik
+- Tri - 05 Sep 2023 - Add Chairs to level
+- Tri - 05 Sep 2023 - Fix Camera Collision with Character
+![image](https://github.com/XrunMeta/CLUBX/assets/14313339/1fbe37d5-d06d-425c-ba0d-f130edacde3b)
+![image](https://github.com/XrunMeta/CLUBX/assets/14313339/45b257d2-2e10-4069-aa1c-9f2a332a4505)
+
 - Bilal - 5 Sept 2023 - Item Click Function
 - Bilal - 5 Sept 2023 - Count price as price in DB
   <br><br>
