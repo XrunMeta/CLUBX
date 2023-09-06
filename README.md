@@ -124,11 +124,22 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 <br><br><br>
 
 # Developer Daily Updates
+
+Wed, 06 Sep 2023
+- Tri - 06 Sep 2023 - Add Dance Selection System
+- Tri - 06 Sep 2023 - Implement Dance Selection to Character
+- Tri - 06 Sep 2023 - Build Test-Build Client & Server
+- Tri - 06 Sep 2023 - Fix Chair Interaction & views
+![image](https://github.com/XrunMeta/CLUBX/assets/14313339/212cb549-35b5-4db7-a43a-ce29cd67c40f)
+![image](https://github.com/XrunMeta/CLUBX/assets/14313339/ae29c34d-d0c9-43e7-8123-39553e949043)
+<br><br>
+
+
 Wed, 06 Sep 2023<br>
 - Bilal - 6 Sept 2023 - Get ID from Purchased Item
 - Bilal - 6 Sept 2023 - Increase User Amount After Buy
 - Bilal - 6 Sept 2023 - Update Latest Coin After Buy
-
+<br><br>
 Tue, 05 Sep 2023<br>
 - Tri - 05 Sep 2023 - Fixing LOD character
 - Tri - 05 Sep 2023 - Add New Dance Asset
