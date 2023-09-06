@@ -125,22 +125,30 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 
 # Developer Daily Updates
 
+- Rian - 6 Sept 2023 - Add other 50 country
+- Rian - 6 Sept 2023 - New loading screen
+- Rian - 6 Sept 2023 - Open phone number box auto focus input search country and press country, auto focus input phone number
+- Rian - 6 Sept 2023 - Change graphic low and medium/middle
+  ![report](https://github.com/XrunMeta/CLUBX/blob/main/img/rian-6-sept-1.png?raw=true)
+  <br><br>
+
 Wed, 06 Sep 2023
+
 - Tri - 06 Sep 2023 - Add Dance Selection System
 - Tri - 06 Sep 2023 - Implement Dance Selection to Character
 - Tri - 06 Sep 2023 - Build Test-Build Client & Server
 - Tri - 06 Sep 2023 - Fix Chair Interaction & views
-![image](https://github.com/XrunMeta/CLUBX/assets/14313339/212cb549-35b5-4db7-a43a-ce29cd67c40f)
-![image](https://github.com/XrunMeta/CLUBX/assets/14313339/ae29c34d-d0c9-43e7-8123-39553e949043)
-<br><br>
-
+  ![image](https://github.com/XrunMeta/CLUBX/assets/14313339/212cb549-35b5-4db7-a43a-ce29cd67c40f)
+  ![image](https://github.com/XrunMeta/CLUBX/assets/14313339/ae29c34d-d0c9-43e7-8123-39553e949043)
+  <br><br>
 
 Wed, 06 Sep 2023<br>
+
 - Bilal - 6 Sept 2023 - Get ID from Purchased Item
 - Bilal - 6 Sept 2023 - Increase User Amount After Buy
 - Bilal - 6 Sept 2023 - Update Latest Coin After Buy
-<br><br>
-Tue, 05 Sep 2023<br>
+  <br><br>
+  Tue, 05 Sep 2023<br>
 - Tri - 05 Sep 2023 - Fixing LOD character
 - Tri - 05 Sep 2023 - Add New Dance Asset
 - Tri - 05 Sep 2023 - Add New Facial Expression Asset
@@ -149,8 +157,8 @@ Tue, 05 Sep 2023<br>
 - Tri - 05 Sep 2023 - Add 2 New Character C_Opik & Zantik
 - Tri - 05 Sep 2023 - Add Chairs to level
 - Tri - 05 Sep 2023 - Fix Camera Collision with Character
-![image](https://github.com/XrunMeta/CLUBX/assets/14313339/1fbe37d5-d06d-425c-ba0d-f130edacde3b)
-![image](https://github.com/XrunMeta/CLUBX/assets/14313339/45b257d2-2e10-4069-aa1c-9f2a332a4505)
+  ![image](https://github.com/XrunMeta/CLUBX/assets/14313339/1fbe37d5-d06d-425c-ba0d-f130edacde3b)
+  ![image](https://github.com/XrunMeta/CLUBX/assets/14313339/45b257d2-2e10-4069-aa1c-9f2a332a4505)
 
 - Bilal - 5 Sept 2023 - Item Click Function
 - Bilal - 5 Sept 2023 - Count price as price in DB
