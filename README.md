@@ -124,6 +124,10 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 <br><br><br>
 
 # Developer Daily Updates
+Wed, 06 Sep 2023<br>
+- Bilal - 6 Sept 2023 - Get ID from Purchased Item
+- Bilal - 6 Sept 2023 - Increase User Amount After Buy
+- Bilal - 6 Sept 2023 - Update Latest Coin After Buy
 
 Tue, 05 Sep 2023<br>
 - Tri - 05 Sep 2023 - Fixing LOD character
