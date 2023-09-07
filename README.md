@@ -125,7 +125,16 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 
 # Developer Daily Updates
 
+Thu, 07 Sep 2023<br>
+
+- Rian - Complete country
+- Rian - Add sg.ViewDistanceQuality 3, so that the face is not disfigured
+- Rian - Add loading screen after join in gameplay
+  ![report](https://github.com/XrunMeta/CLUBX/blob/main/img/rian-7-sept-1.png?raw=true)
+  <br><br>
+
 # Thu, 07 Sep 2023
+
 - Tri - 07 Sep 2023 - Implement Dance Change in Multiplayer
 - Tri - 07 Sep 2023 - Testing Dance change in multiplayer
 - Tri - 07 Sep 2023 - Reimport & Resetup NPC Character (Last import is problem)
@@ -133,16 +142,17 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 - Tri - 07 Sep 2023 - Research Audio Streaming (Will be using Voice Chat)
 - Tri - 07 Sep 2023 - Add Idle animation variation for NPC
 - Tri - 07 Sep 2023 - Added Facial Animation for Player
-<br><br>
+  <br><br>
 
 - Bilal - Fix error on female shop
 - Bilal - Make sure user just buy 1 clothes, Not double
 - Bilal - Displays only items that the user doesn't own in the store
 - Bilal - Update Clothes to DB
 - ![BP - Disable Double Buying(2)](https://github.com/XrunMeta/CLUBX/assets/85775620/b50a7e7e-b5f7-4fe7-8800-3a68e51d54c9)
-<br><br>
+  <br><br>
 
 Wed, 06 Sep 2023<br>
+
 - Rian - 6 Sept 2023 - Add other 50 country
 - Rian - 6 Sept 2023 - New loading screen
 - Rian - 6 Sept 2023 - Open phone number box auto focus input search country and press country, auto focus input phone number
