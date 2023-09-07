@@ -124,7 +124,17 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 <br><br><br>
 
 # Developer Daily Updates
-Thu, 07 Sep 2023<br>
+
+# Thu, 07 Sep 2023
+- Tri - 07 Sep 2023 - Implement Dance Change in Multiplayer
+- Tri - 07 Sep 2023 - Testing Dance change in multiplayer
+- Tri - 07 Sep 2023 - Reimport & Resetup NPC Character (Last import is problem)
+- Tri - 07 Sep 2023 - NPC Character LOD setup
+- Tri - 07 Sep 2023 - Research Audio Streaming (Will be using Voice Chat)
+- Tri - 07 Sep 2023 - Add Idle animation variation for NPC
+- Tri - 07 Sep 2023 - Added Facial Animation for Player
+<br><br>
+
 - Bilal - Fix error on female shop
 - Bilal - Make sure user just buy 1 clothes, Not double
 - Bilal - Displays only items that the user doesn't own in the store
