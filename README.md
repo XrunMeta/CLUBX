@@ -127,17 +127,22 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 
 ### Fri, 08 Sep 2023<br>
 
+- Rian - 08 Sep 2023 - Show/Hide settings with Escape
+- Rian - 08 Sep 2023 - Help bilal after buy in shop success, automatic save in clothes inventory
+  <br><br>
+
+### Fri, 08 Sep 2023<br>
+
 - Tri - 08 Sep 2023 - Fixing Character LOD
 - Tri - 08 Sep 2023 - Testing Release build v0.0.4-PreAlpha (found new bugs, will fix on monday)
-![image](https://github.com/XrunMeta/CLUBX/assets/14313339/e2b0d3be-c00e-4976-a65a-06aca5fc4032)
-![image](https://github.com/XrunMeta/CLUBX/assets/14313339/71dec7b3-b746-4d51-9c4d-41d5f20a4106)
-<br><br>
+  ![image](https://github.com/XrunMeta/CLUBX/assets/14313339/e2b0d3be-c00e-4976-a65a-06aca5fc4032)
+  ![image](https://github.com/XrunMeta/CLUBX/assets/14313339/71dec7b3-b746-4d51-9c4d-41d5f20a4106)
+  <br><br>
 
 - Bilal - Parse data shop for remove
 - Bilal - Sort Item shop as ID
 - Bilal - Create Map for Parse data shop
   <br><br>
-
 
 ### Thu, 07 Sep 2023<br>
 
