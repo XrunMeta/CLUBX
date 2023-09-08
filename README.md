@@ -124,22 +124,28 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 <br><br><br>
 
 # Developer Daily Updates
-Fri, 08 Sep 2023<br>
+
+### Fri, 08 Sep 2023<br>
+
+- Tri - 08 Sep 2023 - Fixing Character LOD
+- Tri - 08 Sep 2023 - Testing Release build v0.0.4-PreAlpha (found new bugs, will fix on monday)
+![image](https://github.com/XrunMeta/CLUBX/assets/14313339/e2b0d3be-c00e-4976-a65a-06aca5fc4032)
+![image](https://github.com/XrunMeta/CLUBX/assets/14313339/71dec7b3-b746-4d51-9c4d-41d5f20a4106)
+<br><br>
+
 - Bilal - Parse data shop for remove
 - Bilal - Sort Item shop as ID
 - Bilal - Create Map for Parse data shop
   <br><br>
 
 
-Thu, 07 Sep 2023<br>
+### Thu, 07 Sep 2023<br>
 
 - Rian - Complete country
 - Rian - Add sg.ViewDistanceQuality 3, so that the face is not disfigured
 - Rian - Add loading screen after join in gameplay
   ![report](https://github.com/XrunMeta/CLUBX/blob/main/img/rian-7-sept-1.png?raw=true)
   <br><br>
-
-# Thu, 07 Sep 2023
 
 - Tri - 07 Sep 2023 - Implement Dance Change in Multiplayer
 - Tri - 07 Sep 2023 - Testing Dance change in multiplayer
