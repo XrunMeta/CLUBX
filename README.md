@@ -124,6 +124,12 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 <br><br><br>
 
 # Developer Daily Updates
+Fri, 08 Sep 2023<br>
+- Bilal - Parse data shop for remove
+- Bilal - Sort Item shop as ID
+- Bilal - Create Map for Parse data shop
+  <br><br>
+
 
 Thu, 07 Sep 2023<br>
 
