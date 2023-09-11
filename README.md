@@ -126,13 +126,16 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 # Developer Daily Updates
 
 ### Mon, 11 Sep 2023<br>
+- Tri - 11 Sep 2023 - Fixing Focus problem in Lobby (Change aperture to 12)
+- Tri - 11 Sep 2023 - Fixing Bug NPC not Dancing (Remove Idle Anim Variation Logic)
+- Tri - 11 Sep 2023 - Researching on Custom Morph Target
+![image](https://github.com/XrunMeta/CLUBX/assets/14313339/5b1ed805-cb43-495d-ae12-de78f6cfbc0d)
+<br><br>
 
 - Rian - 11 Sep 2023 - Add in database and load View Distance Quality
 - Rian - 11 Sep 2023 - Add in database and load Global Illumination Quality
 - Rian - 11 Sep 2023 - Solve trouble settings in lobby and gameplay
   <br><br>
-
-### Mon, 11 Sep 2023<br>
 
 - Bilal - 11 Sep 2023 - Remove purchased item
 - Bilal - 11 Sep 2023 - Unset clothes unpaid in clothes
