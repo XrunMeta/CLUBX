@@ -127,7 +127,7 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 
 ### Mon, 11 Sep 2023<br>
 - Bilal - 11 Sep 2023 - Remove purchased item
-- Bilal - 11 Sep 2023 - Unset clothes unpay in clothes
+- Bilal - 11 Sep 2023 - Unset clothes unpaid in clothes
 - Bilal - 11 Sep 2023 - Load function
 - Bilal - 11 Sep 2023 - API save transaction
   <br><br>
