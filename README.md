@@ -135,6 +135,7 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 - Rian - 12 Sep 2023 - Block escalator so user cannot go upstair
 - Rian - 12 Sep 2023 - Add notification in escalator
 - Rian - 12 Sep 2023 - Trigger for show notification
+  ![report](https://github.com/XrunMeta/CLUBX/blob/main/img/rian-12-sept-2.png?raw=true)
 
 ### Mon, 11 Sep 2023<br>
 
