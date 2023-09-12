@@ -126,18 +126,23 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 # Developer Daily Updates
 
 ### Tue, 12 Sep 2023<br>
+
 - Tri - 12 Sep 2023 - Block escalator so user cannot go upstair
 - Tri - 12 Sep 2023 - Bug: Seat UI Press E not shown after sitdown and stand up 1 time
 - Tri - 12 Sep 2023 - Fix Elevator to Club & Replicate the 4 elevator and transforms
 - Tri - 12 Sep 2023 - Add sound to Elevator transition
 
+- Rian - 12 Sep 2023 - Block escalator so user cannot go upstair
+- Rian - 12 Sep 2023 - Add notification in escalator
+- Rian - 12 Sep 2023 - Trigger for show notification
 
 ### Mon, 11 Sep 2023<br>
+
 - Tri - 11 Sep 2023 - Fixing Focus problem in Lobby (Change aperture to 12)
 - Tri - 11 Sep 2023 - Fixing Bug NPC not Dancing (Remove Idle Anim Variation Logic)
 - Tri - 11 Sep 2023 - Researching on Custom Morph Target
-![image](https://github.com/XrunMeta/CLUBX/assets/14313339/5b1ed805-cb43-495d-ae12-de78f6cfbc0d)
-<br><br>
+  ![image](https://github.com/XrunMeta/CLUBX/assets/14313339/5b1ed805-cb43-495d-ae12-de78f6cfbc0d)
+  <br><br>
 
 - Rian - 11 Sep 2023 - Add in database and load View Distance Quality
 - Rian - 11 Sep 2023 - Add in database and load Global Illumination Quality
