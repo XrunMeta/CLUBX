@@ -125,6 +125,13 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 
 # Developer Daily Updates
 
+### Tue, 12 Sep 2023<br>
+- Tri - 12 Sep 2023 - Block escalator so user cannot go upstair
+- Tri - 12 Sep 2023 - Bug: Seat UI Press E not shown after sitdown and stand up 1 time
+- Tri - 12 Sep 2023 - Fix Elevator to Club & Replicate the 4 elevator and transforms
+- Tri - 12 Sep 2023 - Add sound to Elevator transition
+
+
 ### Mon, 11 Sep 2023<br>
 - Tri - 11 Sep 2023 - Fixing Focus problem in Lobby (Change aperture to 12)
 - Tri - 11 Sep 2023 - Fixing Bug NPC not Dancing (Remove Idle Anim Variation Logic)
