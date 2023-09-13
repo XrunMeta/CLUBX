@@ -125,6 +125,12 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 
 # Developer Daily Updates
 
+### Wed, 13 Sep 2023<br>
+
+- Rian - Temporary add set Add condition if in floor 1, can’t hear music, Add condition if in floor 2, can hear music
+- Rian - Close popup choose dance and move button back to lobby in top
+- Rian - Add event click for setting graph in WBP_Help
+
 ### Tue, 12 Sep 2023<br>
 
 - Tri - 12 Sep 2023 - Block escalator so user cannot go upstair
