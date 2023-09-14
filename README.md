@@ -125,6 +125,11 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 
 # Developer Daily Updates
 
+### Thu, 14 Sep 2023<br>
+
+- Rian - Add condition if in floor 1, can’t hear music
+- Rian - Add condition if in floor 2, can hear music
+
 ### Wed, 13 Sep 2023<br>
 
 - Rian - Temporary add set Add condition if in floor 1, can’t hear music, Add condition if in floor 2, can hear music
