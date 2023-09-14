@@ -127,8 +127,19 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 
 ### Thu, 14 Sep 2023<br>
 
+- Tri - 14 Sep 2023 - Add UI asset to Elevator
+- Tri - 14 Sep 2023 - Add Widget in Elevator
+- Tri - 14 Sep 2023 - Change DJ Character
+![image](https://github.com/XrunMeta/CLUBX/assets/14313339/5b749114-0a72-433c-adbc-b2b8274473b9)
+![image](https://github.com/XrunMeta/CLUBX/assets/14313339/60134517-b0bd-4009-a0b6-0afb46f041de)
+![image](https://github.com/XrunMeta/CLUBX/assets/14313339/5d40d728-d6c4-4309-8ab6-352118e5642f)
+![image](https://github.com/XrunMeta/CLUBX/assets/14313339/9b0fd75d-1d25-48eb-829e-5e5e224784c2)
+
+<br><Br>
+
 - Rian - Add condition if in floor 1, can’t hear music
 - Rian - Add condition if in floor 2, can hear music
+<br><br>
 
 ### Wed, 13 Sep 2023<br>
 
