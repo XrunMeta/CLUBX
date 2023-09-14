@@ -132,9 +132,18 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 
 ### Wed, 13 Sep 2023<br>
 
+- Tri - 13 Sep 2023 - Import 8 New Women NPC
+- Tri - 13 Sep 2023 - Tweak Character Collision Camera Near Clip Plane
+- Tri - 13 Sep 2023 - New NPC Setup in Clubx (LOD, Animbp, Implement to Level)
+- Tri - 13 Sep 2023 - NPC Idle Variation Animation System Setup
+![image](https://github.com/XrunMeta/CLUBX/assets/14313339/f888722a-ebca-441e-aa0d-d811a2766026)
+![Uploading image.png…]()
+<br><br>
+
 - Rian - Temporary add set Add condition if in floor 1, can’t hear music, Add condition if in floor 2, can hear music
 - Rian - Close popup choose dance and move button back to lobby in top
 - Rian - Add event click for setting graph in WBP_Help
+<br><br>
 
 ### Tue, 12 Sep 2023<br>
 
