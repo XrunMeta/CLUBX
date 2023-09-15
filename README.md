@@ -126,30 +126,37 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 # Developer Daily Updates
 
 ### Fri, 15 Sep 2023
+
+- Rian - 15 Sep 2023 - Add guide control for Select Dance
+- Rian - 15 Sep 2023 - Repair Guide/Help
+- Rian - 15 Sep 2023 - Audio Off in flor 1, audio on in floor 2 with setting slider music, but still have problem in trigger floor in elevator
+  <br><Br>
+
+### Fri, 15 Sep 2023
+
 - Tri - 15 Sep 2023 - Fix Elevator Bugs
 - Tri - 15 Sep 2023 - Add Bartender
 - Tri - 15 Sep 2023 - Build Update v.005
-![image](https://github.com/XrunMeta/CLUBX/assets/14313339/7cebdb5d-33d7-437d-9ce1-1994e2e71257)
-![image](https://github.com/XrunMeta/CLUBX/assets/14313339/eedfe43b-fc5f-4f39-8070-e5c84b38e3f0)
+  ![image](https://github.com/XrunMeta/CLUBX/assets/14313339/7cebdb5d-33d7-437d-9ce1-1994e2e71257)
+  ![image](https://github.com/XrunMeta/CLUBX/assets/14313339/eedfe43b-fc5f-4f39-8070-e5c84b38e3f0)
 
 <br><Br>
-
 
 ### Thu, 14 Sep 2023<br>
 
 - Tri - 14 Sep 2023 - Add UI asset to Elevator
 - Tri - 14 Sep 2023 - Add Widget in Elevator
 - Tri - 14 Sep 2023 - Change DJ Character
-![image](https://github.com/XrunMeta/CLUBX/assets/14313339/5b749114-0a72-433c-adbc-b2b8274473b9)
-![image](https://github.com/XrunMeta/CLUBX/assets/14313339/60134517-b0bd-4009-a0b6-0afb46f041de)
-![image](https://github.com/XrunMeta/CLUBX/assets/14313339/5d40d728-d6c4-4309-8ab6-352118e5642f)
-![image](https://github.com/XrunMeta/CLUBX/assets/14313339/9b0fd75d-1d25-48eb-829e-5e5e224784c2)
+  ![image](https://github.com/XrunMeta/CLUBX/assets/14313339/5b749114-0a72-433c-adbc-b2b8274473b9)
+  ![image](https://github.com/XrunMeta/CLUBX/assets/14313339/60134517-b0bd-4009-a0b6-0afb46f041de)
+  ![image](https://github.com/XrunMeta/CLUBX/assets/14313339/5d40d728-d6c4-4309-8ab6-352118e5642f)
+  ![image](https://github.com/XrunMeta/CLUBX/assets/14313339/9b0fd75d-1d25-48eb-829e-5e5e224784c2)
 
 <br><Br>
 
 - Rian - Add condition if in floor 1, can’t hear music
 - Rian - Add condition if in floor 2, can hear music
-<br><br>
+  <br><br>
 
 ### Wed, 13 Sep 2023<br>
 
@@ -157,14 +164,14 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 - Tri - 13 Sep 2023 - Tweak Character Collision Camera Near Clip Plane
 - Tri - 13 Sep 2023 - New NPC Setup in Clubx (LOD, Animbp, Implement to Level)
 - Tri - 13 Sep 2023 - NPC Idle Variation Animation System Setup
-![image](https://github.com/XrunMeta/CLUBX/assets/14313339/f888722a-ebca-441e-aa0d-d811a2766026)
-![Uploading image.png…]()
-<br><br>
+  ![image](https://github.com/XrunMeta/CLUBX/assets/14313339/f888722a-ebca-441e-aa0d-d811a2766026)
+  ![Uploading image.png…]()
+  <br><br>
 
 - Rian - Temporary add set Add condition if in floor 1, can’t hear music, Add condition if in floor 2, can hear music
 - Rian - Close popup choose dance and move button back to lobby in top
 - Rian - Add event click for setting graph in WBP_Help
-<br><br>
+  <br><br>
 
 ### Tue, 12 Sep 2023<br>
 
