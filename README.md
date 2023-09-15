@@ -125,6 +125,16 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 
 # Developer Daily Updates
 
+### Fri, 15 Sep 2023
+- Tri - 15 Sep 2023 - Fix Elevator Bugs
+- Tri - 15 Sep 2023 - Add Bartender
+- Tri - 15 Sep 2023 - Build Update v.005
+![image](https://github.com/XrunMeta/CLUBX/assets/14313339/7cebdb5d-33d7-437d-9ce1-1994e2e71257)
+![image](https://github.com/XrunMeta/CLUBX/assets/14313339/eedfe43b-fc5f-4f39-8070-e5c84b38e3f0)
+
+<br><Br>
+
+
 ### Thu, 14 Sep 2023<br>
 
 - Tri - 14 Sep 2023 - Add UI asset to Elevator
