@@ -125,6 +125,14 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 
 # Developer Daily Updates
 
+### Mon, 18 Sep 2023
+
+- Rian - 18 Sep 2023 - Solve bug: Music Benfox - Alex MakeMusic, the character becomes silent
+- Rian - 18 Sep 2023 - Solve bug: Show/hide choose dance in lobby
+- Rian - 18 Sep 2023 - Solve bug: After the gameplay returns to the lobby the character can walk
+- Rian - 18 Sep 2023 - Solve bug: Sound zones. between the first and second floors of CLUB X and environments
+  <br><Br>
+
 ### Fri, 15 Sep 2023
 
 - Rian - 15 Sep 2023 - Add guide control for Select Dance
