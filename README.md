@@ -127,6 +127,13 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 
 ### Mon, 18 Sep 2023
 
+- Tri - 18 Sep 2023 - Install Meta Quest, Meta Dev Hub, Test VR in Laptop
+- Tri - 18 Sep 2023 - Insert  VR Viewer Player Control (Viewing only)
+- Tri - 18 Sep 2023 - Testing VR mode (Viewing only)
+![image](https://github.com/XrunMeta/CLUBX/assets/14313339/23124a75-0da1-4f0a-80d0-62d7ba768414)
+
+<br><Br>
+
 - Rian - 18 Sep 2023 - Solve bug: Music Benfox - Alex MakeMusic, the character becomes silent
 - Rian - 18 Sep 2023 - Solve bug: Show/hide choose dance in lobby
 - Rian - 18 Sep 2023 - Solve bug: After the gameplay returns to the lobby the character can walk
