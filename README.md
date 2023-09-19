@@ -125,12 +125,23 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 
 # Developer Daily Updates
 
+### Tue, 19 Sep 2023
+
+- Rian - 19 Sep 2023 - Make API for encrypt using bcrypt algorithm
+- Rian - 19 Sep 2023 - Change encrypt password using bcrypt algorithm Login
+- Rian - 19 Sep 2023 - Change encrypt password using bcrypt algorithm Register
+- Rian - 19 Sep 2023 - Change encrypt password using bcrypt algorithm Profile in tab change password
+- Rian - 19 Sep 2023 - Change encrypt password using bcrypt algorithm new password
+- Rian - 19 Sep 2023 - Change message OTP
+
+<br><Br>
+
 ### Mon, 18 Sep 2023
 
 - Tri - 18 Sep 2023 - Install Meta Quest, Meta Dev Hub, Test VR in Laptop
-- Tri - 18 Sep 2023 - Insert  VR Viewer Player Control (Viewing only)
+- Tri - 18 Sep 2023 - Insert VR Viewer Player Control (Viewing only)
 - Tri - 18 Sep 2023 - Testing VR mode (Viewing only)
-![image](https://github.com/XrunMeta/CLUBX/assets/14313339/23124a75-0da1-4f0a-80d0-62d7ba768414)
+  ![image](https://github.com/XrunMeta/CLUBX/assets/14313339/23124a75-0da1-4f0a-80d0-62d7ba768414)
 
 <br><Br>
 
