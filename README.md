@@ -126,19 +126,24 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 # Developer Daily Updates
 
 ### Wed, 20 Sep 2023
+
 - Tri - 20 Sep 2023 - Bug Fix: Sitdown logic
 - Tri - 20 Sep 2023 - Restore Backup due to system unstable
-- Tri - 20 Sep 2023 - Bug Fixing Illuminating Shoes, 
+- Tri - 20 Sep 2023 - Bug Fixing Illuminating Shoes,
 - Tri - 20 Sep 2023 - Fixing illuminating Red Clothes, Facial Animation, Idle Animation
 - Tri - 20 Sep 2023 - Fixing Collision 2nd floor
-<br><br>
+  <br><br>
+
+- Rian - 20 Sep 2023 - Change important account passwords, become bcrpyt hashes in database
+- Rian - 20 Sep 2023 - Implement to XRUN database table ClubX
+  <br><br>
 
 ### Tue, 19 Sep 2023
 
 - Tri - 19 Sep 2023 - Add New Song
 - Tri - 19 Sep 2023 - Test Build Clubx VR in exe (No Song but NPC dancing)
 - Tri - 19 Sep 2023 - Testing archiving winrar self archive & Autostart
-<br><br>
+  <br><br>
 
 - Rian - 19 Sep 2023 - Make API for encrypt using bcrypt algorithm
 - Rian - 19 Sep 2023 - Change encrypt password using bcrypt algorithm Login
