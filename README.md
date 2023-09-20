@@ -125,6 +125,14 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 
 # Developer Daily Updates
 
+### Wed, 20 Sep 2023
+- Tri - 20 Sep 2023 - Bug Fix: Sitdown logic
+- Tri - 20 Sep 2023 - Restore Backup due to system unstable
+- Tri - 20 Sep 2023 - Bug Fixing Illuminating Shoes, 
+- Tri - 20 Sep 2023 - Fixing illuminating Red Clothes, Facial Animation, Idle Animation
+- Tri - 20 Sep 2023 - Fixing Collision 2nd floor
+<br><br>
+
 ### Tue, 19 Sep 2023
 
 - Tri - 19 Sep 2023 - Add New Song
