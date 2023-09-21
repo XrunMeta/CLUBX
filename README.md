@@ -127,10 +127,17 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 
 ### Thu, 21 Sep 2023
 
+- Tri - 20 Sep 2023 - Voice chat re-setup
+- Tri - 20 Sep 2023 - Cleaning Up Project Folder
+- Tri - 20 Sep 2023 - Testing Voice chat New Workflow
+- Tri - 20 Sep 2023 - Fixing Network Connection not connecting for testing multiplayer
+<br><br>
+
 - Rian - 21 Sep 2023 - Solve bug in elevator 3rd floor, character jump very high
 - Rian - 21 Sep 2023 - Solve bug widget find room and shop crash
-
   <br><br>
+
+
 
 ### Wed, 20 Sep 2023
 
