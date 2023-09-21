@@ -125,6 +125,13 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 
 # Developer Daily Updates
 
+### Thu, 21 Sep 2023
+
+- Rian - 21 Sep 2023 - Solve bug in elevator 3rd floor, character jump very high
+- Rian - 21 Sep 2023 - Solve bug widget find room and shop crash
+
+  <br><br>
+
 ### Wed, 20 Sep 2023
 
 - Tri - 20 Sep 2023 - Bug Fix: Sitdown logic
