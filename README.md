@@ -125,19 +125,26 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 
 # Developer Daily Updates
 
+### Fri, 22 Sep 2023
+
+- Rian - 22 Sep 2023 - Solve bug hair if wear a robot suit
+- Rian - 22 Sep 2023 - New loading screen
+  ![report](https://github.com/XrunMeta/CLUBX/blob/main/img/rian-22-sept-1.png?raw=true)
+  ![report](https://github.com/XrunMeta/CLUBX/blob/main/img/rian-22-sept-2.png?raw=true)
+
+<br><br>
+
 ### Thu, 21 Sep 2023
 
 - Tri - 20 Sep 2023 - Voice chat re-setup
 - Tri - 20 Sep 2023 - Cleaning Up Project Folder
 - Tri - 20 Sep 2023 - Testing Voice chat New Workflow
 - Tri - 20 Sep 2023 - Fixing Network Connection not connecting for testing multiplayer
-<br><br>
+  <br><br>
 
 - Rian - 21 Sep 2023 - Solve bug in elevator 3rd floor, character jump very high
 - Rian - 21 Sep 2023 - Solve bug widget find room and shop crash
   <br><br>
-
-
 
 ### Wed, 20 Sep 2023
 
