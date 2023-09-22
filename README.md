@@ -127,6 +127,14 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 
 ### Fri, 22 Sep 2023
 
+- Tri - 22 Sep 2023 - Prepare v.006 Release Update
+- Tri - 22 Sep 2023 - Try Fix Odin Attenuation (Not working)
+- Tri - 22 Sep 2023 - Import new NPC 9 male + 9 female
+- Tri - 22 Sep 2023 - Place new NPC in level
+
+![image](https://github.com/XrunMeta/CLUBX/assets/14313339/a65c610c-a91f-4af2-be7c-32111467becb)
+<br><Br>
+
 - Rian - 22 Sep 2023 - Solve bug hair if wear a robot suit
 - Rian - 22 Sep 2023 - New loading screen
   ![report](https://github.com/XrunMeta/CLUBX/blob/main/img/rian-22-sept-1.png?raw=true)
