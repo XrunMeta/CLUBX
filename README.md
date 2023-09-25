@@ -125,6 +125,14 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 
 # Developer Daily Updates
 
+### Mon, 25 Sep 2023
+- Tri - 25 Sep 2023 - Disable keyboard event 5 development
+- Tri - 25 Sep 2023 - Hide in game Capsule Component
+- Tri - 25 Sep 2023 - Scalp Transparency Edit
+- Tri - 25 Sep 2023 - Research for Installer (For now use Parted winrar SFX)
+- Tri - 25 Sep 2023 - Setup LOD of New NPC
+- Tri - 25 Sep 2023 - Build v0.0.7-PreAlpha with additional bugfix & new LOD
+
 ### Fri, 22 Sep 2023
 
 - Tri - 22 Sep 2023 - Prepare v.006 Release Update
