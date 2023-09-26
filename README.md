@@ -125,6 +125,12 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 
 # Developer Daily Updates
 
+### Tue, 26 Sep 2023
+
+- Rian - 26 Sep 2023 - position margin profile
+- Rian - 26 Sep 2023 - Solve bug: add notification in lobby, if the feature cannot be access
+- Rian - 26 Sep 2023 - Avatar profile by gender male or female
+
 ### Mon, 25 Sep 2023
 
 - Tri - 25 Sep 2023 - Disable keyboard event 5 development
