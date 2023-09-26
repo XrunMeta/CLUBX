@@ -127,6 +127,9 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 
 ### Tue, 26 Sep 2023
 
+- Tri - 26 Sep 2023 - Fix Song from Server
+- Tri - 26 Sep 2023 - Build client and server
+
 - Rian - 26 Sep 2023 - position margin profile
 - Rian - 26 Sep 2023 - Solve bug: add notification in lobby, if the feature cannot be access
 - Rian - 26 Sep 2023 - Avatar profile by gender male or female
