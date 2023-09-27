@@ -127,6 +127,11 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 
 ### Wed, 27 Sep 2023
 
+- Tri - 27 Sep 2023 - Sit on barstool
+- Tri - 27 Sep 2023 - Fix Logic UI camera avatar customization
+- Tri - 27 Sep 2023 - Build ver 009
+<br><br>
+  
 - Rian - 27 Sep 2023 - Solve settings in gameplay
 - Rian - 27 Sep 2023 - Solve coin and point in gameplay
 - Rian - 27 Sep 2023 - Change loading screen
