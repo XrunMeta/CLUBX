@@ -125,6 +125,15 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 
 # Developer Daily Updates
 
+### Wed, 27 Sep 2023
+
+- Rian - 27 Sep 2023 - Solve settings in gameplay
+- Rian - 27 Sep 2023 - Solve coin and point in gameplay
+- Rian - 27 Sep 2023 - Change loading screen
+- Rian - 27 Sep 2023 - Change banner
+- Rian - 27 Sep 2023 - Solve bug profile tab wallet
+- Rian - 27 Sep 2023 - Solve position siluet avatar profile
+
 ### Tue, 26 Sep 2023
 
 - Tri - 26 Sep 2023 - Fix Song from Server
