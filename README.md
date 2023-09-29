@@ -124,6 +124,7 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 <br><br><br>
 
 # Developer Daily Updates
+
 ### Fri, 29 Sep 2023
 
 - opikropikin - 29 Sep 2023 - Make texture building environment variation
@@ -131,7 +132,7 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 - opikropikin - 29 Sep 2023 - Alpha material setting unreal engine
 - opikropikin - 29 Sep 2023 - Position and duplication
 - opikropikin - 29 Sep 2023 - Environment background add in level
-<br><br>
+  <br><br>
 
 - Bilal - 29 Sep 2023 - Fixing UI for Lobby Friend
 - Bilal - 29 Sep 2023 - Create Collapsing UI Lobby Friend
@@ -139,16 +140,22 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 - Bilal - 29 Sep 2023 - API For Show Friend List
 - Bilal - 29 Sep 2023 - Create logic for remove friend in All List
 - Bilal - 29 Sep 2023 - Get & Show Player of All and Friend
-<br><br>
+  <br><br>
 
+- Rian - 29 Sep 2023 - Make new column in database for inventory hair
+- Rian - 29 Sep 2023 -Make new variable in structure S_Player_Avatar and connected
+- Rian - 29 Sep 2023 - Change UI customizer avatar hair
+- Rian - 29 Sep 2023 - Add image hair in U
+- Rian - 29 Sep 2023 - Make function if click hair, and avatar automatic change hair male
+- Rian - 29 Sep 2023 - Change clothes inventory for new user in database
+  <br><br>
 
 ### Wed, 27 Sep 2023
 
 - Tri - 27 Sep 2023 - Sit on barstool
 - Tri - 27 Sep 2023 - Fix Logic UI camera avatar customization
 - Tri - 27 Sep 2023 - Build ver 009
-<br><br>
-  
+  <br><br>
 - Rian - 27 Sep 2023 - Solve settings in gameplay
 - Rian - 27 Sep 2023 - Solve coin and point in gameplay
 - Rian - 27 Sep 2023 - Change loading screen
