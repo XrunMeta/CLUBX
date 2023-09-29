@@ -131,6 +131,15 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 - opikropikin - 29 Sep 2023 - Alpha material setting unreal engine
 - opikropikin - 29 Sep 2023 - Position and duplication
 - opikropikin - 29 Sep 2023 - Environment background add in level
+<br><br>
+
+- Bilal - 29 Sep 2023 - Fixing UI for Lobby Friend
+- Bilal - 29 Sep 2023 - Create Collapsing UI Lobby Friend
+- Bilal - 29 Sep 2023 - API For Show All List
+- Bilal - 29 Sep 2023 - API For Show Friend List
+- Bilal - 29 Sep 2023 - Create logic for remove friend in All List
+- Bilal - 29 Sep 2023 - Get & Show Player of All and Friend
+<br><br>
 
 
 ### Wed, 27 Sep 2023
