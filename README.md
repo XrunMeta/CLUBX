@@ -124,6 +124,14 @@ Rest until 59.59, and then go back to minutes 00.00 song 1 again
 <br><br><br>
 
 # Developer Daily Updates
+### Fri, 29 Sep 2023
+
+- opikropikin - 29 Sep 2023 - Make texture building environment variation
+- opikropikin - 29 Sep 2023 - Make 3d asset projection
+- opikropikin - 29 Sep 2023 - Alpha material setting unreal engine
+- opikropikin - 29 Sep 2023 - Position and duplication
+- opikropikin - 29 Sep 2023 - Environment background add in level
+
 
 ### Wed, 27 Sep 2023
 
