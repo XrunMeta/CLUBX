@@ -1,5 +1,16 @@
 # Developer Daily Updates
 
+### Mon, 2 Oct 2023
+
+- Bilal - 2 Oct 2023 - Get Checked Friend Logic
+- Bilal - 2 Oct 2023 - Button Function for Add Friend
+- Bilal - 2 Oct 2023 - Create DB for Request Friend
+- Bilal - 2 Oct 2023 - API Send Request Add Friend
+- Bilal - 2 Oct 2023 - Update API for Multiple Add Friend
+- Bilal - 2 Oct 2023 - Uncheck Added Friend
+  <br><br>
+
+
 ### Fri, 29 Sep 2023
 
 - Tri - Fri, 29 Sep 2023 - Test Build for Updatable package using Project Launcher
