@@ -10,6 +10,14 @@
 - Bilal - 2 Oct 2023 - Uncheck Added Friend
   <br><br>
 
+- ropikin - 2 Oct 2023 - Environment CLUB X
+- ropikin - 2 Oct 2023 - Find tree asset 
+- ropikin - 2 Oct 2023 - Editable tree asset in 3d software
+- ropikin - 2 Oct 2023 - Make low poly asset
+- ropikin - 2 Oct 2023 - Export FBX  for unreal engine
+- ropikin - 2 Oct 2023 - Material edit and Positioning and scattering tree in level
+  <br><br>
+
 
 ### Fri, 29 Sep 2023
 
