@@ -11,19 +11,26 @@
   <br><br>
 
 - ropikin - 2 Oct 2023 - Environment CLUB X
-- ropikin - 2 Oct 2023 - Find tree asset 
+- ropikin - 2 Oct 2023 - Find tree asset
 - ropikin - 2 Oct 2023 - Editable tree asset in 3d software
 - ropikin - 2 Oct 2023 - Make low poly asset
-- ropikin - 2 Oct 2023 - Export FBX  for unreal engine
+- ropikin - 2 Oct 2023 - Export FBX for unreal engine
 - ropikin - 2 Oct 2023 - Material edit and Positioning and scattering tree in level
   <br><br>
 
+- Rian - 2 Oct 2023 - Make function if click hair, and avatar automatic change hair Female
+- Rian - 2 Oct 2023 - Add image hair in UI female
+- Rian - 2 Oct 2023 - Change active user account in database, set hair inventory
+- Rian - 2 Oct 2023 - Set name and material thumbnail in data structure hair female
+- Rian - 2 Oct 2023 - Solve bug: If your clothes are closed, hair will come out (male)
+- Rian - 2 Oct 2023 - Solve bug: If your clothes are closed, hair will come out (female)
+  <br><br>
 
 ### Fri, 29 Sep 2023
 
 - Tri - Fri, 29 Sep 2023 - Test Build for Updatable package using Project Launcher
 - Tri - Fri, 29 Sep 2023 - Build Base Game ClubX 1.0.0
-<br><Br>
+  <br><Br>
 
 - opikropikin - 29 Sep 2023 - Make texture building environment variation
 - opikropikin - 29 Sep 2023 - Make 3d asset projection
