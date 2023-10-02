@@ -2,6 +2,9 @@
 
 ### Mon, 2 Oct 2023
 
+- Tri - Mon, 02 Oct 2023 -  Research on installer software
+<br><br>
+
 - Bilal - 2 Oct 2023 - Get Checked Friend Logic
 - Bilal - 2 Oct 2023 - Button Function for Add Friend
 - Bilal - 2 Oct 2023 - Create DB for Request Friend
