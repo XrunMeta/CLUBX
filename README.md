@@ -2,6 +2,9 @@
 
 ### Tue, 3 Oct 2023
 
+- Tri - Tue, 03 Oct 2023 - Testing Installer and Patch
+<br><br>
+
 - Bilal - 3 Oct 2023 - API Show Request Add Friend
 - Bilal - 3 Oct 2023 - Show Notification Request Friend in CLUBX
 - Bilal - 3 Oct 2023 - Accept/Reject API
