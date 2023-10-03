@@ -9,13 +9,20 @@
 - Bilal - 3 Oct 2023 - Maintenance API
 - Bilal - 3 Oct 2023 - Maintenance Logic
 - Bilal - 3 Oct 2023 - API for Getting Online Update
-![Maintenance](https://github.com/XrunMeta/CLUBX/assets/85775620/70c28e02-8b1b-461e-b4e3-d6d15292484c)
-<br><br>
+  ![Maintenance](https://github.com/XrunMeta/CLUBX/assets/85775620/70c28e02-8b1b-461e-b4e3-d6d15292484c)
+  <br><br>
+
+- Rian - 3 Oct 2023 - Change API send-otp with email
+- Rian - 3 Oct 2023 - Change loading screen
+- Rian - 3 Oct 2023 - Add image for bald hair
+- Rian - 3 Oct 2023 - Solve bug: If your clothes are closed, hair will come out (female) in clothes sparrow
+  ![report](https://github.com/XrunMeta/CLUBX/blob/main/img/rian-3-oct-1.png?raw=true)
+  <br><br>
 
 ### Mon, 2 Oct 2023
 
-- Tri - Mon, 02 Oct 2023 -  Research on installer software
-<br><br>
+- Tri - Mon, 02 Oct 2023 - Research on installer software
+  <br><br>
 
 - Bilal - 2 Oct 2023 - Get Checked Friend Logic
 - Bilal - 2 Oct 2023 - Button Function for Add Friend
