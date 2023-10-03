@@ -1,5 +1,17 @@
 # Developer Daily Updates
 
+### Tue, 3 Oct 2023
+
+- Bilal - 3 Oct 2023 - API Show Request Add Friend
+- Bilal - 3 Oct 2023 - Show Notification Request Friend in CLUBX
+- Bilal - 3 Oct 2023 - Accept/Reject API
+- Bilal - 3 Oct 2023 - Accept/Reject Logic in Unreal
+- Bilal - 3 Oct 2023 - Maintenance API
+- Bilal - 3 Oct 2023 - Maintenance Logic
+- Bilal - 3 Oct 2023 - API for Getting Online Update
+![Maintenance](https://github.com/XrunMeta/CLUBX/assets/85775620/70c28e02-8b1b-461e-b4e3-d6d15292484c)
+<br><br>
+
 ### Mon, 2 Oct 2023
 
 - Tri - Mon, 02 Oct 2023 -  Research on installer software
