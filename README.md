@@ -1,7 +1,9 @@
 # Developer Daily Updates
 
 ### Wed, 4 Oct 2023
-
+- Tri - Wed, 04 Oct 2023 - Doing launcher logic
+  <br><br>
+  
 - Bilal - 4 Oct 2023 - Create Struct for Friend Data
 - Bilal - 4 Oct 2023 - Data parse from Lobby to Gameplay
 - Bilal - 4 Oct 2023 - Fixing Navigation Data Parsing
