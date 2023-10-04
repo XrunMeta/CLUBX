@@ -2,19 +2,26 @@
 
 ### Wed, 4 Oct 2023
 
-- Bilal - 3 Oct 2023 - Create Struct for Friend Data
-- Bilal - 3 Oct 2023 - Data parse from Lobby to Gameplay
-- Bilal - 3 Oct 2023 - Fixing Navigation Data Parsing
-- Bilal - 3 Oct 2023 - API Get File Size
-- Bilal - 3 Oct 2023 - API Editable for Updating Patch as Version
-- Bilal - 3 Oct 2023 - Add Friend ID on Requester ID if status = accept
-- Bilal - 3 Oct 2023 - API Remove Bot Filter on Friendlist
+- Bilal - 4 Oct 2023 - Create Struct for Friend Data
+- Bilal - 4 Oct 2023 - Data parse from Lobby to Gameplay
+- Bilal - 4 Oct 2023 - Fixing Navigation Data Parsing
+- Bilal - 4 Oct 2023 - API Get File Size
+- Bilal - 4 Oct 2023 - API Editable for Updating Patch as Version
+- Bilal - 4 Oct 2023 - Add Friend ID on Requester ID if status = accept
+- Bilal - 4 Oct 2023 - API Remove Bot Filter on Friendlist
+  <br><br>
+
+- Rian - 4 Oct 2023 - Repair UI hair avatar
+- Rian - 4 Oct 2023 - Change montserrat font in gameplay and name in top character
+- Rian - 4 Oct 2023 - Make new UI login
+- Rian - 4 Oct 2023 - Solve bug request double OTP in email, if double click fast
+- Rian - 4 Oct 2023 - Bug: hair empty
   <br><br>
 
 ### Tue, 3 Oct 2023
 
 - Tri - Tue, 03 Oct 2023 - Testing Installer and Patch
-<br><br>
+  <br><br>
 
 - Bilal - 3 Oct 2023 - API Show Request Add Friend
 - Bilal - 3 Oct 2023 - Show Notification Request Friend in CLUBX
