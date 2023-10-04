@@ -1,5 +1,16 @@
 # Developer Daily Updates
 
+### Wed, 4 Oct 2023
+
+- Bilal - 3 Oct 2023 - Create Struct for Friend Data
+- Bilal - 3 Oct 2023 - Data parse from Lobby to Gameplay
+- Bilal - 3 Oct 2023 - Fixing Navigation Data Parsing
+- Bilal - 3 Oct 2023 - API Get File Size
+- Bilal - 3 Oct 2023 - API Editable for Updating Patch as Version
+- Bilal - 3 Oct 2023 - Add Friend ID on Requester ID if status = accept
+- Bilal - 3 Oct 2023 - API Remove Bot Filter on Friendlist
+  <br><br>
+
 ### Tue, 3 Oct 2023
 
 - Tri - Tue, 03 Oct 2023 - Testing Installer and Patch
