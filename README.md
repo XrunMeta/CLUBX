@@ -1,5 +1,14 @@
 # Developer Daily Updates
 
+### Thu, 5 Oct 2023
+
+- Bilal - 5 Oct 2023 -Search All API
+- Bilal - 5 Oct 2023 -Search All Unreal
+- Bilal - 5 Oct 2023 -Search Friend API
+- Bilal - 5 Oct 2023 -Launcher Fixing API
+- Bilal - 5 Oct 2023 -Launcher Download Update as Latest Verison
+  <br><br>
+
 ### Wed, 4 Oct 2023
 - Tri - Wed, 04 Oct 2023 - Doing launcher logic
   <br><br>
