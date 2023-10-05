@@ -2,6 +2,10 @@
 
 ### Thu, 5 Oct 2023
 
+- Tri - Thu, 05 Oct 2023 - Creating save game logic
+- Tri - Thu, 05 Oct 2023 - Doing patching logic
+<br><Br>
+
 - Bilal - 5 Oct 2023 -Search All API
 - Bilal - 5 Oct 2023 -Search All Unreal
 - Bilal - 5 Oct 2023 -Search Friend API
