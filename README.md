@@ -9,10 +9,15 @@
 - Bilal - 5 Oct 2023 -Launcher Download Update as Latest Verison
   <br><br>
 
+- Rian - 5 Oct 2023 -Change button back signup, forgot password, new password
+- Rian - 5 Oct 2023 -Add button logout, but just UI. Function not yet
+- Rian - 5 Oct 2023 -Change OTP verification code to one line
+  <br><br>
+
 ### Wed, 4 Oct 2023
+
 - Tri - Wed, 04 Oct 2023 - Doing launcher logic
   <br><br>
-  
 - Bilal - 4 Oct 2023 - Create Struct for Friend Data
 - Bilal - 4 Oct 2023 - Data parse from Lobby to Gameplay
 - Bilal - 4 Oct 2023 - Fixing Navigation Data Parsing
