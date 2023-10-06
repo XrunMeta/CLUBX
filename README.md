@@ -1,5 +1,13 @@
 # Developer Daily Updates
 
+### Fri, 6 Oct 2023
+
+- Bilal - Fri, 06 Oct 2023 - Search Friend Unreal
+- Bilal - Fri, 06 Oct 2023 - Bug Fixing Friend Logic
+- Bilal - Fri, 06 Oct 2023 - Implement Seacrh Friend to API
+- Bilal - Fri, 06 Oct 2023 - Installer
+<br><br>
+
 ### Thu, 5 Oct 2023
 
 - Tri - Thu, 05 Oct 2023 - Creating save game logic
