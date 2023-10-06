@@ -2,6 +2,11 @@
 
 ### Fri, 6 Oct 2023
 
+- Tri - Fri, 06 Oct 2023 - Add Voice Attenuation
+- Tri - Fri, 06 Oct 2023 - Move the barstool back
+- Tri - Fri, 06 Oct 2023 - Delete double NPC
+<br><Br>
+
 - Bilal - Fri, 06 Oct 2023 - Search Friend Unreal
 - Bilal - Fri, 06 Oct 2023 - Bug Fixing Friend Logic
 - Bilal - Fri, 06 Oct 2023 - Implement Seacrh Friend to API
