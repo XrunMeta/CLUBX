@@ -6,13 +6,17 @@
 - Bilal - Fri, 06 Oct 2023 - Bug Fixing Friend Logic
 - Bilal - Fri, 06 Oct 2023 - Implement Seacrh Friend to API
 - Bilal - Fri, 06 Oct 2023 - Installer
-<br><br>
+  <br><br>
+
+- Rian - Fri, 06 Oct 2023 - Implement nickname in game
+- Rian - Fri, 06 Oct 2023 - Add logic input nickname, and save to database
+  <br><br>
 
 ### Thu, 5 Oct 2023
 
 - Tri - Thu, 05 Oct 2023 - Creating save game logic
 - Tri - Thu, 05 Oct 2023 - Doing patching logic
-<br><Br>
+  <br><Br>
 
 - Bilal - 5 Oct 2023 -Search All API
 - Bilal - 5 Oct 2023 -Search All Unreal
