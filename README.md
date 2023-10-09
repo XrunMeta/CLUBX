@@ -3,14 +3,20 @@
 ### Mon, 9 Oct 2023
 
 - Bilal - Mon, 09 Oct 2023 - Auto Login
-<br><Br>
+  <br><Br>
+
+- Rian - Mon, 09 Oct 2023 - Function change hair color
+- Rian - Mon, 09 Oct 2023 - UI hair color
+- Rian - Mon, 09 Oct 2023 - Function logout game
+- Rian - Mon, 09 Oct 2023 - Make variable URL API just one
+  <br><Br>
 
 ### Fri, 6 Oct 2023
 
 - Tri - Fri, 06 Oct 2023 - Add Voice Attenuation
 - Tri - Fri, 06 Oct 2023 - Move the barstool back
 - Tri - Fri, 06 Oct 2023 - Delete double NPC
-<br><Br>
+  <br><Br>
 
 - Bilal - Fri, 06 Oct 2023 - Search Friend Unreal
 - Bilal - Fri, 06 Oct 2023 - Bug Fixing Friend Logic
