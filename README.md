@@ -1,6 +1,9 @@
 # Developer Daily Updates
 
 ### Mon, 9 Oct 2023
+- Tri - Mon, 09 Oct 2023 - Added Scalp Mask Texture
+- Tri - Mon, 09 Oct 2023 - Testing Build
+<br><br>
 
 - Bilal - Mon, 09 Oct 2023 - Auto Login
   <br><Br>
