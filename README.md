@@ -1,5 +1,10 @@
 # Developer Daily Updates
 
+### Mon, 9 Oct 2023
+
+- Bilal - Mon, 09 Oct 2023 - Auto Login
+<br><Br>
+
 ### Fri, 6 Oct 2023
 
 - Tri - Fri, 06 Oct 2023 - Add Voice Attenuation
