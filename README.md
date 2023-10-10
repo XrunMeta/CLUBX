@@ -1,6 +1,10 @@
 # Developer Daily Updates
 
 ### Tue, 10 Oct 2023
+- Tri - Tue, 10 Oct 2023 - Fix Additional Song Not Playing
+- Tri - Tue, 10 Oct 2023 - Fix Camera Lobby
+- Tri - Tue, 10 Oct 2023 - Testing Build
+<br><br>
 
 - Bilal - Tue, 10 Oct 2023 - Skin Sort
 - Bilal - Tue, 10 Oct 2023 - Skin Naming
