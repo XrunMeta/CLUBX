@@ -9,12 +9,21 @@
 - Bilal - Tue, 10 Oct 2023 - Impact Password Change to Auto Login
 - Bilal - Tue, 10 Oct 2023 - Reset Session in Launcher
 - Bilal - Tue, 10 Oct 2023 - Retouching UI
+  <br><br>
+
+- Rian - Tue, 10 Oct 2023 - Add UI button save in settings
+- Rian - Tue, 10 Oct 2023 - Close chat with button in gameplay
+- Rian - Tue, 10 Oct 2023 - Login with nickname
+- Rian - Tue, 10 Oct 2023 - Function condition nickname
+- Rian - Tue, 10 Oct 2023 - Playername with full name
+
 <br><br>
 
 ### Mon, 9 Oct 2023
+
 - Tri - Mon, 09 Oct 2023 - Added Scalp Mask Texture
 - Tri - Mon, 09 Oct 2023 - Testing Build
-<br><br>
+  <br><br>
 
 - Bilal - Mon, 09 Oct 2023 - Auto Login
   <br><Br>
