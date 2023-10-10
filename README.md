@@ -1,5 +1,16 @@
 # Developer Daily Updates
 
+### Tue, 10 Oct 2023
+
+- Bilal - Tue, 10 Oct 2023 - Skin Sort
+- Bilal - Tue, 10 Oct 2023 - Skin Naming
+- Bilal - Tue, 10 Oct 2023 - Remove multiple skin hex color
+- Bilal - Tue, 10 Oct 2023 - Remove nude clothes logic
+- Bilal - Tue, 10 Oct 2023 - Impact Password Change to Auto Login
+- Bilal - Tue, 10 Oct 2023 - Reset Session in Launcher
+- Bilal - Tue, 10 Oct 2023 - Retouching UI
+<br><br>
+
 ### Mon, 9 Oct 2023
 - Tri - Mon, 09 Oct 2023 - Added Scalp Mask Texture
 - Tri - Mon, 09 Oct 2023 - Testing Build
