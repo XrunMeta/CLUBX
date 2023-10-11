@@ -1,5 +1,13 @@
 # Developer Daily Updates
 
+### Wed, 11 Oct 2023
+
+- Bilal - Wed, 11 Oct 2023 - Automatic Login
+- Bilal - Wed, 11 Oct 2023 - Automatic Launcher Update
+- Bilal - Wed, 11 Oct 2023 - Create exe for Reset Session
+- Bilal - Wed, 11 Oct 2023 - Create exe for Uninstall Update
+<br><br>
+
 ### Tue, 10 Oct 2023
 - Tri - Tue, 10 Oct 2023 - Fix Additional Song Not Playing
 - Tri - Tue, 10 Oct 2023 - Fix Camera Lobby
