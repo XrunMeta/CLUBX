@@ -1,21 +1,30 @@
 # Developer Daily Updates
 
 ### Wed, 11 Oct 2023
+
 - Tri - Wed, 11 Oct 2023 - Add First Person Perspective
 - Tri - Wed, 11 Oct 2023 - Testing Build
-<br><br>
+  <br><br>
 
 - Bilal - Wed, 11 Oct 2023 - Automatic Login
 - Bilal - Wed, 11 Oct 2023 - Automatic Launcher Update
 - Bilal - Wed, 11 Oct 2023 - Create exe for Reset Session
 - Bilal - Wed, 11 Oct 2023 - Create exe for Uninstall Update
-<br><br>
+  <br><br>
+
+- Rian - Wed, 11 Oct 2023 - UI chat specific play in gameplay
+- Rian - Wed, 11 Oct 2023 - Function get all player online in gameplay
+- Rian - Wed, 11 Oct 2023 - UI global chat in gameplay
+- Rian - Wed, 11 Oct 2023 - Change logic login, from nickname to email
+- Rian - Wed, 11 Oct 2023 - Change UI signup
+  <br><br>
 
 ### Tue, 10 Oct 2023
+
 - Tri - Tue, 10 Oct 2023 - Fix Additional Song Not Playing
 - Tri - Tue, 10 Oct 2023 - Fix Camera Lobby
 - Tri - Tue, 10 Oct 2023 - Testing Build
-<br><br>
+  <br><br>
 
 - Bilal - Tue, 10 Oct 2023 - Skin Sort
 - Bilal - Tue, 10 Oct 2023 - Skin Naming
