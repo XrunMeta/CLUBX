@@ -1,6 +1,9 @@
 # Developer Daily Updates
 
 ### Wed, 11 Oct 2023
+- Tri - Wed, 11 Oct 2023 - Add First Person Perspective
+- Tri - Wed, 11 Oct 2023 - Testing Build
+<br><br>
 
 - Bilal - Wed, 11 Oct 2023 - Automatic Login
 - Bilal - Wed, 11 Oct 2023 - Automatic Launcher Update
