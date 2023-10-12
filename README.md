@@ -1,5 +1,14 @@
 # Developer Daily Updates
 
+### Thu, 12 Oct 2023
+
+- Bilal - Thu, 12 Oct 2023 - Cancel Dance when move
+- Bilal - Thu, 12 Oct 2023 - Remove Help when move
+- Bilal - Thu, 12 Oct 2023 - Update Launcher System
+- Bilal - Thu, 12 Oct 2023 - Fixing Friend Logic
+- Bilal - Thu, 12 Oct 2023 - Create Page for Maintenance Controller
+<br><br>
+
 ### Wed, 11 Oct 2023
 
 - Tri - Wed, 11 Oct 2023 - Add First Person Perspective
