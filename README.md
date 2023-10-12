@@ -1,18 +1,23 @@
 # Developer Daily Updates
 
 ### Thu, 12 Oct 2023
+
 - Tri - Thu, 12 Oct 2023 - Fix First Person Perspective Bug
 - Tri - Thu, 12 Oct 2023 - Fix Music Double Playing
 - Tri - Thu, 12 Oct 2023 - Add Female Animation
 - Tri - Thu, 12 Oct 2023 - Testing Build
-<br><br>
+  <br><br>
 
 - Bilal - Thu, 12 Oct 2023 - Cancel Dance when move
 - Bilal - Thu, 12 Oct 2023 - Remove Help when move
 - Bilal - Thu, 12 Oct 2023 - Update Launcher System
 - Bilal - Thu, 12 Oct 2023 - Fixing Friend Logic
 - Bilal - Thu, 12 Oct 2023 - Create Page for Maintenance Controller
-<br><br>
+  <br><br>
+
+- Rian - Thu, 12 Oct 2023 - Function search player in chat
+- Rian - Thu, 12 Oct 2023 - Solve logic change password in profile and disable input change phone number and email
+  <br><br>
 
 ### Wed, 11 Oct 2023
 
