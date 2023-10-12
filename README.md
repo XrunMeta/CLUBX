@@ -1,6 +1,11 @@
 # Developer Daily Updates
 
 ### Thu, 12 Oct 2023
+- Tri - Thu, 12 Oct 2023 - Fix First Person Perspective Bug
+- Tri - Thu, 12 Oct 2023 - Fix Music Double Playing
+- Tri - Thu, 12 Oct 2023 - Add Female Animation
+- Tri - Thu, 12 Oct 2023 - Testing Build
+<br><br>
 
 - Bilal - Thu, 12 Oct 2023 - Cancel Dance when move
 - Bilal - Thu, 12 Oct 2023 - Remove Help when move
