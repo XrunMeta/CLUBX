@@ -1,5 +1,12 @@
 # Developer Daily Updates
 
+### Fri, 13 Oct 2023
+
+- Rian - Fri, 13 Oct 2023 - Login with press enter
+- Rian - Fri, 13 Oct 2023 - Repair chat box
+- Rian - Fri, 13 Oct 2023 - Change keyword between mute/unmute voice chat and chat
+  <br><br>
+
 ### Thu, 12 Oct 2023
 
 - Tri - Thu, 12 Oct 2023 - Fix First Person Perspective Bug
