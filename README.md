@@ -1,6 +1,11 @@
 # Developer Daily Updates
 
 ### Fri, 13 Oct 2023
+- Tri - Fri, 13 Oct 2023 - Fix Female Animation Replication
+- Tri - Fri, 13 Oct 2023 - Fix DMX Start Position
+- Tri - Fri, 13 Oct 2023 - Add New Dances
+- Tri - Fri, 13 Oct 2023 - Update Builds
+<br><Br>
 
 - Rian - Fri, 13 Oct 2023 - Login with press enter
 - Rian - Fri, 13 Oct 2023 - Repair chat box
