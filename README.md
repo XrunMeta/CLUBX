@@ -7,6 +7,13 @@
 - Rian - Fri, 13 Oct 2023 - Change keyword between mute/unmute voice chat and chat
   <br><br>
 
+- Bilal - Fri, 13 Oct 2023 - Cancel dance when moving
+- Bilal - Fri, 13 Oct 2023 - Disable Resize Window
+- Bilal - Fri, 13 Oct 2023 - Login Page for CLUBX Controller
+- Bilal - Fri, 13 Oct 2023 - Dance UI
+- Bilal - Fri, 13 Oct 2023 - Dance Integrate
+- <br><br>
+
 ### Thu, 12 Oct 2023
 
 - Tri - Thu, 12 Oct 2023 - Fix First Person Perspective Bug
