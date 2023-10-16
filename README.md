@@ -1,17 +1,26 @@
 # Developer Daily Updates
 
 ### Mon, 16 Oct 2023
+
 - Bilal - Mon, 16 Oct 2023 - CLUBX - Add New Skin (2)
 - Bilal - Mon, 16 Oct 2023 - CLUBX - Fixing Friend Logic
 - Bilal - Mon, 16 Oct 2023 - CLUBX - Block multiple Input
-<br><Br>
+  <br><Br>
+
+- Rian - Mon, 16 Oct 2023 - Solve bug collapse widget guide/help
+- Rian - Mon, 16 Oct 2023 - CLUBX - Solve bug collapse widget chat
+- Rian - Mon, 16 Oct 2023 - CLUBX - Solve bug collapse widget settings
+- Rian - Mon, 16 Oct 2023 - CLUBX - Add brightness in settings graphic just in second floor
+- Rian - Mon, 16 Oct 2023 - CLUBX - Solve region double gender
+  <br><Br>
 
 ### Fri, 13 Oct 2023
+
 - Tri - Fri, 13 Oct 2023 - Fix Female Animation Replication
 - Tri - Fri, 13 Oct 2023 - Fix DMX Start Position
 - Tri - Fri, 13 Oct 2023 - Add New Dances
 - Tri - Fri, 13 Oct 2023 - Update Builds
-<br><Br>
+  <br><Br>
 
 - Rian - Fri, 13 Oct 2023 - Login with press enter
 - Rian - Fri, 13 Oct 2023 - Repair chat box
