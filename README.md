@@ -1,5 +1,11 @@
 # Developer Daily Updates
 
+### Mon, 16 Oct 2023
+- Bilal - Mon, 16 Oct 2023 - CLUBX - Add New Skin (2)
+- Bilal - Mon, 16 Oct 2023 - CLUBX - Fixing Friend Logic
+- Bilal - Mon, 16 Oct 2023 - CLUBX - Block multiple Input
+<br><Br>
+
 ### Fri, 13 Oct 2023
 - Tri - Fri, 13 Oct 2023 - Fix Female Animation Replication
 - Tri - Fri, 13 Oct 2023 - Fix DMX Start Position
