@@ -1,7 +1,11 @@
 # Developer Daily Updates
 
 ### Mon, 16 Oct 2023
-
+- Tri - Mon, 16 Oct 2023 - Test in Meeting
+- Tri - Mon, 16 Oct 2023 - Change Clubx icon
+- Tri - Mon, 16 Oct 2023 - Fix DMX error on progress
+<br><br>
+  
 - Bilal - Mon, 16 Oct 2023 - CLUBX - Add New Skin (2)
 - Bilal - Mon, 16 Oct 2023 - CLUBX - Fixing Friend Logic
 - Bilal - Mon, 16 Oct 2023 - CLUBX - Block multiple Input
