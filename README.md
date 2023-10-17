@@ -1,5 +1,12 @@
 # Developer Daily Updates
 
+### Tue, 17 Oct 2023
+- Bilal - Tue, 17 Oct 2023 - Bug Fixing Friend Logic
+- Bilal - Tue, 17 Oct 2023 - Create CMS Login/Logout System
+- Bilal - Tue, 17 Oct 2023 - CMS SideBar, Setting, Navbar, useable
+- Bilal - Tue, 17 Oct 2023 - Add Dev Mode Logic in Launcher
+<br><br>
+
 ### Mon, 16 Oct 2023
 - Tri - Mon, 16 Oct 2023 - Test in Meeting
 - Tri - Mon, 16 Oct 2023 - Change Clubx icon
