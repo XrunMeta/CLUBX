@@ -1,18 +1,25 @@
 # Developer Daily Updates
 
 ### Tue, 17 Oct 2023
+
 - Bilal - Tue, 17 Oct 2023 - Bug Fixing Friend Logic
 - Bilal - Tue, 17 Oct 2023 - Create CMS Login/Logout System
 - Bilal - Tue, 17 Oct 2023 - CMS SideBar, Setting, Navbar, useable
 - Bilal - Tue, 17 Oct 2023 - Add Dev Mode Logic in Launcher
-<br><br>
+  <br><br>
+
+- Rian - Tue, 17 Oct 2023 - Add in database for brightness column
+- Rian - Tue, 17 Oct 2023 - Add code for get settings brightness and save
+- Rian - Tue, 17 Oct 2023 - Test brightness in gameplay
+- Rian - Tue, 17 Oct 2023 - Solve chat, if empty message can’t send chat and remove blank spaces
+  <br><br>
 
 ### Mon, 16 Oct 2023
+
 - Tri - Mon, 16 Oct 2023 - Test in Meeting
 - Tri - Mon, 16 Oct 2023 - Change Clubx icon
 - Tri - Mon, 16 Oct 2023 - Fix DMX error on progress
-<br><br>
-  
+  <br><br>
 - Bilal - Mon, 16 Oct 2023 - CLUBX - Add New Skin (2)
 - Bilal - Mon, 16 Oct 2023 - CLUBX - Fixing Friend Logic
 - Bilal - Mon, 16 Oct 2023 - CLUBX - Block multiple Input
