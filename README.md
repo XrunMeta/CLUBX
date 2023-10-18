@@ -1,5 +1,10 @@
 # Developer Daily Updates
 
+### Wed, 18 Oct 2023
+- Tri - Wed, 18 Oct 2023 - Test Build
+- Tri - Wed, 18 Oct 2023 - Testing Development Mode and debugging variables
+<br><br>
+  
 ### Tue, 17 Oct 2023
 - Tri - Tue, 17 Oct 2023 - Fix DMX error
 - Tri - Tue, 17 Oct 2023 - Fix Collision
