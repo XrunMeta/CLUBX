@@ -1,5 +1,11 @@
 # Developer Daily Updates
 
+### Thu, 19 Oct 2023
+- Tri - Thu, 19 Oct 2023 - Testing Builds
+- Tri - Thu, 19 Oct 2023 - Fix Music on Lobby playing
+- Tri - Thu, 19 Oct 2023 - Debugging Launcher on progress
+<br><br>
+
 ### Wed, 18 Oct 2023
 - Tri - Wed, 18 Oct 2023 - Test Build
 - Tri - Wed, 18 Oct 2023 - Testing Development Mode and debugging variables
