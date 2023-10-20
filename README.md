@@ -1,5 +1,9 @@
 # Developer Daily Updates
 
+### Fri, 20 Oct 2023
+- Tri - Fri, 20 Oct 2023 - Reworking Launcher Logic On Progress
+<br><Br>
+
 ### Thu, 19 Oct 2023
 - Tri - Thu, 19 Oct 2023 - Testing Builds
 - Tri - Thu, 19 Oct 2023 - Fix Music on Lobby playing
