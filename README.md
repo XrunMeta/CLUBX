@@ -1,5 +1,9 @@
 # Developer Daily Updates
 
+### Mon, 23 Oct 2023
+- Tri - Mon, 23 Oct 2023 - Continue Launcher Logic
+<<br><br>
+
 ### Fri, 20 Oct 2023
 - Tri - Fri, 20 Oct 2023 - Reworking Launcher Logic On Progress
 <br><Br>
