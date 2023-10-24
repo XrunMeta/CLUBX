@@ -1,5 +1,14 @@
 # Developer Daily Updates
 
+### Tue, 24 Oct 2023
+- Tri - Tue, 24 Oct 2023 - Testing Launcher & Updater
+- Tri - Tue, 24 Oct 2023 - Reduce Texture Size for Character Customizer Player to 2k
+- Tri - Tue, 24 Oct 2023 - Reduce CC4 texture from 4k to 2k
+- Tri - Tue, 24 Oct 2023 - Fixing Launcher and updater system in Map_Launcher
+- Tri - Tue, 24 Oct 2023 - DMX sequence in first play in PC Multix doesn't start from beginning (temporarily fixes dmx lighting problem)
+- Tri - Tue, 24 Oct 2023 - Optimizing LOD for Trees
+<br><br>
+  
 ### Mon, 23 Oct 2023
 - Tri - Mon, 23 Oct 2023 - Continue Launcher Logic
 <<br><br>
