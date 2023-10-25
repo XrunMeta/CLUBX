@@ -1,5 +1,8 @@
 # Developer Daily Updates
 
+### Wed, 25 Oct 2023
+- Tri - Wed, 25 Oct 2023 - Testing Builds and launcher
+
 ### Tue, 24 Oct 2023
 - Tri - Tue, 24 Oct 2023 - Testing Launcher & Updater
 - Tri - Tue, 24 Oct 2023 - Reduce Texture Size for Character Customizer Player to 2k
