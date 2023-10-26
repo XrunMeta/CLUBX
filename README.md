@@ -2,6 +2,10 @@
 
 ### Thu, 26 Oct 2023
 
+- Tri - Thu, 26 Oct 2023 - Create New Project for New Patch
+- Tri - Thu, 26 Oct 2023 - Testing Multiple server to check performance
+<br><br>
+  
 - Rian - Wed, 26 Oct 2023 - Detect own player in gameplay
 - Rian - Wed, 26 Oct 2023 - Remove own player in list board players
 - Rian - Wed, 26 Oct 2023 - Testing in multiplayer
