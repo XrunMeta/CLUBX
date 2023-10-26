@@ -1,43 +1,55 @@
 # Developer Daily Updates
 
+### Thu, 26 Oct 2023
+
+- Rian - Wed, 26 Oct 2023 - Detect own player in gameplay
+- Rian - Wed, 26 Oct 2023 - Remove own player in list board players
+- Rian - Wed, 26 Oct 2023 - Testing in multiplayer
+
 ### Wed, 25 Oct 2023
+
 - Tri - Wed, 25 Oct 2023 - Testing Builds and launcher
 
 ### Tue, 24 Oct 2023
+
 - Tri - Tue, 24 Oct 2023 - Testing Launcher & Updater
 - Tri - Tue, 24 Oct 2023 - Reduce Texture Size for Character Customizer Player to 2k
 - Tri - Tue, 24 Oct 2023 - Reduce CC4 texture from 4k to 2k
 - Tri - Tue, 24 Oct 2023 - Fixing Launcher and updater system in Map_Launcher
 - Tri - Tue, 24 Oct 2023 - DMX sequence in first play in PC Multix doesn't start from beginning (temporarily fixes dmx lighting problem)
 - Tri - Tue, 24 Oct 2023 - Optimizing LOD for Trees
-<br><br>
-  
+  <br><br>
+
 ### Mon, 23 Oct 2023
+
 - Tri - Mon, 23 Oct 2023 - Continue Launcher Logic
-<<br><br>
+  <<br><br>
 
 ### Fri, 20 Oct 2023
+
 - Tri - Fri, 20 Oct 2023 - Reworking Launcher Logic On Progress
-<br><Br>
+  <br><Br>
 
 ### Thu, 19 Oct 2023
+
 - Tri - Thu, 19 Oct 2023 - Testing Builds
 - Tri - Thu, 19 Oct 2023 - Fix Music on Lobby playing
 - Tri - Thu, 19 Oct 2023 - Debugging Launcher on progress
-<br><br>
+  <br><br>
 
 ### Wed, 18 Oct 2023
+
 - Tri - Wed, 18 Oct 2023 - Test Build
 - Tri - Wed, 18 Oct 2023 - Testing Development Mode and debugging variables
-<br><br>
-  
+  <br><br>
+
 ### Tue, 17 Oct 2023
+
 - Tri - Tue, 17 Oct 2023 - Fix DMX error
 - Tri - Tue, 17 Oct 2023 - Fix Collision
 - Tri - Tue, 17 Oct 2023 - Implement Dev mode for development
 - Tri - Tue, 17 Oct 2023 - Fix Dance
-<br><br>
-  
+  <br><br>
 - Bilal - Tue, 17 Oct 2023 - Bug Fixing Friend Logic
 - Bilal - Tue, 17 Oct 2023 - Create CMS Login/Logout System
 - Bilal - Tue, 17 Oct 2023 - CMS SideBar, Setting, Navbar, useable
