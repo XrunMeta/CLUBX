@@ -1,5 +1,9 @@
 # Developer Daily Updates
 
+### Fri, 27 Oct 2023
+- Tri - Fri, 27 Oct 2023 - prepare dedicated server
+- Tri - Fri, 27 Oct 2023 - prepare basegame for patch update workflow
+
 ### Thu, 26 Oct 2023
 
 - Tri - Thu, 26 Oct 2023 - Create New Project for New Patch
