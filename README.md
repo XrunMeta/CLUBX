@@ -3,6 +3,7 @@
 ### Fri, 27 Oct 2023
 - Tri - Fri, 27 Oct 2023 - prepare dedicated server
 - Tri - Fri, 27 Oct 2023 - prepare basegame for patch update workflow
+- Bilal - Fri, 27 Oct 2023 - Create Room Backend on Server
 
 ### Thu, 26 Oct 2023
 
