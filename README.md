@@ -1,6 +1,9 @@
 # Developer Daily Updates
 
 ### Mon, 30 Oct 2023
+- Tri - Mon, 30 Oct 2023 - Initial Setup ClubX for Mobile
+- Tri - Mon, 30 Oct 2023 - Initial Test Package to Android
+<br><br>
 
 - Rian - Mon, 30 Oct 2023 - UI Message
 - Rian - Mon, 30 Oct 2023 - UI chat sender
