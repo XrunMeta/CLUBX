@@ -1,16 +1,21 @@
 # Developer Daily Updates
 
 ### Fri, 27 Oct 2023
+
 - Tri - Fri, 27 Oct 2023 - prepare dedicated server
 - Tri - Fri, 27 Oct 2023 - prepare basegame for patch update workflow
 - Bilal - Fri, 27 Oct 2023 - Create Room Backend on Server
+- Rian - Fri, 27 Oct 2023 - Make function send message in private chat not global chat
+- Rian - Fri, 27 Oct 2023 - Make function to update window private chat not global chat
+- Rian - Fri, 27 Oct 2023 - After click other user, input message auto focus
+- Rian - Fri, 27 Oct 2023 - After send message, input message auto focus
+- Rian - Fri, 27 Oct 2023 - If show popup message, cursor still show, with interaction (jump, dancing, sprint, walking)
 
 ### Thu, 26 Oct 2023
 
 - Tri - Thu, 26 Oct 2023 - Create New Project for New Patch
 - Tri - Thu, 26 Oct 2023 - Testing Multiple server to check performance
-<br><br>
-  
+  <br><br>
 - Rian - Wed, 26 Oct 2023 - Detect own player in gameplay
 - Rian - Wed, 26 Oct 2023 - Remove own player in list board players
 - Rian - Wed, 26 Oct 2023 - Testing in multiplayer
