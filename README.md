@@ -1,5 +1,13 @@
 # Developer Daily Updates
 
+### Mon, 30 Oct 2023
+
+- Rian - Mon, 30 Oct 2023 - UI Message
+- Rian - Mon, 30 Oct 2023 - UI chat sender
+- Rian - Mon, 30 Oct 2023 - UI chat receipent
+- Rian - Mon, 30 Oct 2023 - UI scrollbar for sender and recipient
+- Rian - Mon, 30 Oct 2023 - UI auto wrap if text long
+
 ### Fri, 27 Oct 2023
 
 - Tri - Fri, 27 Oct 2023 - prepare dedicated server
