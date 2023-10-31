@@ -1,9 +1,17 @@
 # Developer Daily Updates
 
+### Tue, 31 Oct 2023
+
+- Rian - Tue, 31 Oct 2023 - Logic condition message
+- Rian - Tue, 31 Oct 2023 - If user send more than 200 letters you won't be able to send the message
+- Rian - Tue, 31 Oct 2023 - Show notice if user send more then 200 letters
+  <br><br>
+
 ### Mon, 30 Oct 2023
+
 - Tri - Mon, 30 Oct 2023 - Initial Setup ClubX for Mobile
 - Tri - Mon, 30 Oct 2023 - Initial Test Package to Android
-<br><br>
+  <br><br>
 
 - Rian - Mon, 30 Oct 2023 - UI Message
 - Rian - Mon, 30 Oct 2023 - UI chat sender
