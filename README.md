@@ -1,6 +1,11 @@
 # Developer Daily Updates
 
 ### Tue, 31 Oct 2023
+- Tri - Tue, 31 Oct 2023 - Testing build apk in blank map - Success
+- Tri - Tue, 31 Oct 2023 - Test Build Lighting in ClubX Mobile Map & package apk - Failed
+Due to constraints to unsupported shader and material settings for mobile, package failed.
+We're still inspecting and testing to make the minimum base build for further development
+<br><br>
 
 - Rian - Tue, 31 Oct 2023 - Logic condition message
 - Rian - Tue, 31 Oct 2023 - If user send more than 200 letters you won't be able to send the message
