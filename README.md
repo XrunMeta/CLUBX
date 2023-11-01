@@ -2,6 +2,11 @@
 
 ### Wed, 1 Nov 2023
 
+- Tri - Wed, 01 Nov 2023 - Testing package apk - Success
+- Tri - Tue, 31 Oct 2023 - Testing Baked Lighting for ClubX map
+- Tri - Tue, 31 Oct 2023 - Testing visual workflow - Improving visuals for first floor of Clubx
+<br><br>
+
 - Rian - Wed, 1 Nov 2023 - Get specific user
 - Rian - Wed, 1 Nov 2023 - Get user name after click
 - Rian - Wed, 1 Nov 2023 - Get user id after click
