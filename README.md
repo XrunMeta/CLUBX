@@ -1,11 +1,20 @@
 # Developer Daily Updates
 
+### Wed, 1 Nov 2023
+
+- Rian - Wed, 1 Nov 2023 - Get specific user
+- Rian - Wed, 1 Nov 2023 - Get user name after click
+- Rian - Wed, 1 Nov 2023 - Get user id after click
+- Rian - Wed, 1 Nov 2023 - We can know who to send messages to
+  <br><br>
+
 ### Tue, 31 Oct 2023
+
 - Tri - Tue, 31 Oct 2023 - Testing build apk in blank map - Success
 - Tri - Tue, 31 Oct 2023 - Test Build Lighting in ClubX Mobile Map & package apk - Failed
-Due to constraints to unsupported shader and material settings for mobile, package failed.
-We're still inspecting and testing to make the minimum base build for further development
-<br><br>
+  Due to constraints to unsupported shader and material settings for mobile, package failed.
+  We're still inspecting and testing to make the minimum base build for further development
+  <br><br>
 
 - Rian - Tue, 31 Oct 2023 - Logic condition message
 - Rian - Tue, 31 Oct 2023 - If user send more than 200 letters you won't be able to send the message
