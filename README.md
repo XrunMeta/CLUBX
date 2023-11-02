@@ -2,6 +2,12 @@
 
 ### Wed, 02 Nov 2023
 
+- Tri - Thu, 02 Nov 2023 - Testing Interchangable Windows-Mobile workflow
+- Tri - Thu, 02 Nov 2023 - Test Build apk
+- Tri - Thu, 02 Nov 2023 - Test Build Windows exe
+- Tri - Thu, 02 Nov 2023 - Test Build Server
+<br><Br>
+
 - Rian - Wed, 02 Nov 2023 - Make UI Login and Forgot password for mobile version - UI Login still have revision
   <br><br>
 
