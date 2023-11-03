@@ -1,5 +1,11 @@
 # Developer Daily Updates
 
+### Fri, 03 Nov 2023
+- Tri - Fri, 03 Nov 2023 - Reworking crossplatform logic (so it would works both on PC and mobile)
+- Tri - Fri, 03 Nov 2023 - Creating Blueprint Interface & Actor Component to bridge Blueprint Communication
+- Tri - Fri, 03 Nov 2023 - Reworking Elevator Logic using Blueprint Interface & Actor Component
+<b><br>
+
 ### Wed, 02 Nov 2023
 
 - Tri - Thu, 02 Nov 2023 - Testing Interchangable Windows-Mobile workflow
