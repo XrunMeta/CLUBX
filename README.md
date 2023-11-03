@@ -1,20 +1,25 @@
 # Developer Daily Updates
 
 ### Fri, 03 Nov 2023
+
 - Tri - Fri, 03 Nov 2023 - Reworking crossplatform logic (so it would works both on PC and mobile)
 - Tri - Fri, 03 Nov 2023 - Creating Blueprint Interface & Actor Component to bridge Blueprint Communication
 - Tri - Fri, 03 Nov 2023 - Reworking Elevator Logic using Blueprint Interface & Actor Component
-<b><br>
+  <b><br>
 
-### Wed, 02 Nov 2023
+- Rian - Fri, 03 Nov 2023 - Make UI Signup and New password for mobile version
+- Rian - Fri, 03 Nov 2023 - Revision forgot password and login
+  <b><br>
+
+### Thu, 02 Nov 2023
 
 - Tri - Thu, 02 Nov 2023 - Testing Interchangable Windows-Mobile workflow
 - Tri - Thu, 02 Nov 2023 - Test Build apk
 - Tri - Thu, 02 Nov 2023 - Test Build Windows exe
 - Tri - Thu, 02 Nov 2023 - Test Build Server
-<br><Br>
+  <br><Br>
 
-- Rian - Wed, 02 Nov 2023 - Make UI Login and Forgot password for mobile version - UI Login still have revision
+- Rian - Thu, 02 Nov 2023 - Make UI Login and Forgot password for mobile version - UI Login still have revision
   <br><br>
 
 ### Wed, 1 Nov 2023
