@@ -5,6 +5,10 @@
 - Rian - Mon, 06 Nov 2023 - Make function, logic New Password and Forgot password
   <b><br>
 
+- Tri - Mon, 06 Nov 2023 - Rework Elevator logic
+- Tri - Mon, 06 Nov 2023 - Test Build (Failed), requires to separate all PC asset from mobile asset
+<br><br>
+  
 ### Fri, 03 Nov 2023
 
 - Tri - Fri, 03 Nov 2023 - Reworking crossplatform logic (so it would works both on PC and mobile)
