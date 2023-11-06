@@ -1,5 +1,10 @@
 # Developer Daily Updates
 
+### Mon, 06 Nov 2023
+
+- Rian - Mon, 06 Nov 2023 - Make function, logic New Password and Forgot password
+  <b><br>
+
 ### Fri, 03 Nov 2023
 
 - Tri - Fri, 03 Nov 2023 - Reworking crossplatform logic (so it would works both on PC and mobile)
