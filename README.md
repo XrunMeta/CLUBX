@@ -1,5 +1,13 @@
 # Developer Daily Updates
 
+### Tue, 07 Nov 2023
+
+- Rian - Create signup function
+- Rian - Create get data country function
+- Rian - Create get data region function
+- Rian - Create send OTP to email function
+  <br><br>
+
 ### Mon, 06 Nov 2023
 
 - Rian - Mon, 06 Nov 2023 - Make function, logic New Password and Forgot password
@@ -7,8 +15,8 @@
 
 - Tri - Mon, 06 Nov 2023 - Rework Elevator logic
 - Tri - Mon, 06 Nov 2023 - Test Build (Failed), requires to separate all PC asset from mobile asset
-<br><br>
-  
+  <br><br>
+
 ### Fri, 03 Nov 2023
 
 - Tri - Fri, 03 Nov 2023 - Reworking crossplatform logic (so it would works both on PC and mobile)
