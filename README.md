@@ -7,6 +7,10 @@
 - Rian - Create get data region function
 - Rian - Create send OTP to email function
   <br><br>
+  
+- Tri - Tue, 07 Nov 2023 - Testing NPC Workflow for Mobile
+- Tri - Tue, 07 Nov 2023 - Setup & Optimize NPC Material for mobile
+<br><br>
 
 ### Mon, 06 Nov 2023
 
