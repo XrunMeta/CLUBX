@@ -1,5 +1,13 @@
 # Developer Daily Updates
 
+### Wed, 08 Nov 2023
+
+- Rian - Repair get all data countries
+- Rian - Make lazy load countries
+- Rian - Make API for lazy load countries
+
+  <br><br>
+
 ### Tue, 07 Nov 2023
 
 - Rian - Create signup function
@@ -7,10 +15,9 @@
 - Rian - Create get data region function
 - Rian - Create send OTP to email function
   <br><br>
-  
 - Tri - Tue, 07 Nov 2023 - Testing NPC Workflow for Mobile
 - Tri - Tue, 07 Nov 2023 - Setup & Optimize NPC Material for mobile
-<br><br>
+  <br><br>
 
 ### Mon, 06 Nov 2023
 
