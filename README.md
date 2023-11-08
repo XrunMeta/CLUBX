@@ -8,6 +8,11 @@
 
   <br><br>
 
+- Tri - Wed, 08 Nov 2023 - Test Build apk, Server, Windows
+- Tri - Wed, 08 Nov 2023 - Windows uses existing Windows Map, Android using Mobile Map
+- Tri - Wed, 08 Nov 2023 - Setup Main Server Map workflow
+  <br><br>
+
 ### Tue, 07 Nov 2023
 
 - Rian - Create signup function
