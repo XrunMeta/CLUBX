@@ -2,6 +2,11 @@
 
 ### Thu, 09 Nov 2023
 
+- Tri - Thu, 09 Nov 2023 - Setup Server Map in Cross-Platform Gameplay
+- Tri - Thu, 09 Nov 2023 - Testing Builds in Windows and Android and make sure it behaves properly
+- Tri - Thu, 09 Nov 2023 - Setup NPC for cross platform
+<br><br>
+
 - Rian - Fix bug signup, minor bug
 - Rian - Fix bug countries for signup mobile version
 - Rian - Login with data that has been registered, but is still included in a simple folder. Will be developed continuously
