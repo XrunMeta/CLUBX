@@ -1,5 +1,13 @@
 # Developer Daily Updates
 
+### Thu, 09 Nov 2023
+
+- Rian - Fix bug signup, minor bug
+- Rian - Fix bug countries for signup mobile version
+- Rian - Login with data that has been registered, but is still included in a simple folder. Will be developed continuously
+
+  <br><br>
+
 ### Wed, 08 Nov 2023
 
 - Rian - Repair get all data countries
