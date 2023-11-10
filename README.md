@@ -1,5 +1,13 @@
 # Developer Daily Updates
 
+### Fri, 10 Nov 2023
+- Tri - Fri, 10 Nov 2023 - Test NPC in Crossplay
+- Tri - Fri, 10 Nov 2023 - Setup Map Test Crossplay map
+- Tri - Fri, 10 Nov 2023 - NPC Crossplay for PC
+- Tri - Fri, 10 Nov 2023 - Create Data Table NPC
+<br><br>
+
+
 ### Thu, 09 Nov 2023
 
 - Tri - Thu, 09 Nov 2023 - Setup Server Map in Cross-Platform Gameplay
