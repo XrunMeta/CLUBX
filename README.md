@@ -1,19 +1,24 @@
 # Developer Daily Updates
 
 ### Fri, 10 Nov 2023
+
 - Tri - Fri, 10 Nov 2023 - Test NPC in Crossplay
 - Tri - Fri, 10 Nov 2023 - Setup Map Test Crossplay map
 - Tri - Fri, 10 Nov 2023 - NPC Crossplay for PC
 - Tri - Fri, 10 Nov 2023 - Create Data Table NPC
-<br><br>
+  <br><br>
 
+- Rian - Testing and find bug forgot password, new password, login, and signup
+- Rian - Testing and find bug for mobile version
+- Rian - Build mobile version (.apk) + add intro clubx
+  <br><br>
 
 ### Thu, 09 Nov 2023
 
 - Tri - Thu, 09 Nov 2023 - Setup Server Map in Cross-Platform Gameplay
 - Tri - Thu, 09 Nov 2023 - Testing Builds in Windows and Android and make sure it behaves properly
 - Tri - Thu, 09 Nov 2023 - Setup NPC for cross platform
-<br><br>
+  <br><br>
 
 - Rian - Fix bug signup, minor bug
 - Rian - Fix bug countries for signup mobile version
