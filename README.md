@@ -2,6 +2,10 @@
 
 ### Mon, 13 Nov 2023
 
+- Tri - Mon, 13 Nov 2023 - Test Music Logic in Different Sublevel
+- Tri - Mon, 13 Nov 2023 - Setup Mobile Clothes Jacket Suit Material
+<br><br>
+
 - Rian - Add fucntion auto login in mobile version
 - Rian - Resize resulotion loading screen for mobile version
 - Rian - Change function loading screen for get platform, windows or android
