@@ -1,5 +1,12 @@
 # Developer Daily Updates
 
+### Mon, 13 Nov 2023
+
+- Rian - Add fucntion auto login in mobile version
+- Rian - Resize resulotion loading screen for mobile version
+- Rian - Change function loading screen for get platform, windows or android
+  <br><br>
+
 ### Fri, 10 Nov 2023
 
 - Tri - Fri, 10 Nov 2023 - Test NPC in Crossplay
