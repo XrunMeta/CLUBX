@@ -2,6 +2,11 @@
 
 ### Tue, 14 Nov 2023
 
+- Tri - Tue, 14 Nov 2023 - Preparing Mobile Character
+- Tri - Tue, 14 Nov 2023 - Prepare 3 Clothes for Mobile
+- Tri - Tue, 14 Nov 2023 - Initial Submit to git private xrun metaverse
+<br><br>
+
 - Rian - Create a folder structure that is used on mobile only and that is used on mobile or PC
 - Rian - Add condition in for get clothes for mobile version or PC version
   <br><br>
