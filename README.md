@@ -1,5 +1,11 @@
 # Developer Daily Updates
 
+Wed, 15 Nov 2023
+- Tri - Wed, 15 Nov 2023 - Setup Mobile Character
+- Tri - Wed, 15 Nov 2023 - Setup NPC
+- Tri - Wed, 15 Nov 2023 - Testing NPC in Windows & Mobile
+<br><br>
+
 ### Tue, 14 Nov 2023
 
 - Tri - Tue, 14 Nov 2023 - Preparing Mobile Character
