@@ -1,11 +1,28 @@
 # Developer Daily Updates
 
+Thu, 16 Nov 2023
+
+- Rian - Make UI lobby profile wallet
+- Rian - make UI category shop
+  <br><br>
+
+Wed, 15 Nov 2023
+
+- Tri - Wed, 15 Nov 2023 - Setup Mobile Character
+- Tri - Wed, 15 Nov 2023 - Setup NPC
+- Tri - Wed, 15 Nov 2023 - Testing NPC in Windows & Mobile
+  <br><br>
+
+- Rian - UI lobby change password
+- Rian - UI lobby profile
+  <br><br>
+
 ### Tue, 14 Nov 2023
 
 - Tri - Tue, 14 Nov 2023 - Preparing Mobile Character
 - Tri - Tue, 14 Nov 2023 - Prepare 3 Clothes for Mobile
 - Tri - Tue, 14 Nov 2023 - Initial Submit to git private xrun metaverse
-<br><br>
+  <br><br>
 
 - Rian - Create a folder structure that is used on mobile only and that is used on mobile or PC
 - Rian - Add condition in for get clothes for mobile version or PC version
