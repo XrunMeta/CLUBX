@@ -1,5 +1,11 @@
 # Developer Daily Updates
 
+Thu, 16 Nov 2023
+
+- Rian - Make UI lobby profile wallet
+- Rian - make UI category shop
+  <br><br>
+
 Wed, 15 Nov 2023
 
 - Tri - Wed, 15 Nov 2023 - Setup Mobile Character
