@@ -6,6 +6,11 @@ Thu, 16 Nov 2023
 - Rian - make UI category shop
   <br><br>
 
+- Tri - Thu, 16 Nov 2023 - Setup Floor change
+- Tri - Thu, 16 Nov 2023 - Setup NPC
+- Tri - Thu, 16 Nov 2023 - Testing NPC in Mobile
+<br><br>
+
 Wed, 15 Nov 2023
 
 - Tri - Wed, 15 Nov 2023 - Setup Mobile Character
