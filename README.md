@@ -7,6 +7,11 @@
 - Rian - check UI lobby wallet in mobile and check UI shop category icon in mobile
   <br><br>
 
+- Tri - Fri, 17 Nov 2023 - Setup Music in Android (Not connected)
+- Tri - Fri, 17 Nov 2023 - Testing android and windows
+- Tri - Fri, 17 Nov 2023 - Elevator replication bugs on different platform, needs rework
+<br><br>
+
 ### Thu, 16 Nov 2023
 
 - Rian - Make UI lobby profile wallet
