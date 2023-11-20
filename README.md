@@ -1,9 +1,18 @@
 # Developer Daily Updates
 
 ### Mon, 20 Nov 2023
+
 - Tri, Mon, 20 Nov 2023 - Working on Crossplay (Windows & Android) logic
 - Tri, Mon, 20 Nov 2023 - Setup NPC Mobile
 - Tri, Mon, 20 Nov 2023 - Test NPC in Mobile
+
+<br><br>
+
+- Rian, - UI lobby mobile version
+- Rian, - List checkout in shop
+- Rian, - List item in shop
+
+  <br><br>
 
 ### Fri, 17 Nov 2023
 
@@ -15,7 +24,7 @@
 - Tri - Fri, 17 Nov 2023 - Setup Music in Android (Not connected)
 - Tri - Fri, 17 Nov 2023 - Testing android and windows
 - Tri - Fri, 17 Nov 2023 - Elevator replication bugs on different platform, needs rework
-<br><br>
+  <br><br>
 
 ### Thu, 16 Nov 2023
 

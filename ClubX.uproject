@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{98A2F42E-4143-899F-C725-2EA0273594CC}",
+	"EngineAssociation": "{57B6DE14-4460-DD4E-461E-23A044C94ABC}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -65,8 +65,7 @@
 			"Name": "DTCmd",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/f45396da9bef439f8049d6654f2d6f0b"
-		},
-		{
+		},		{
 			"Name": "MobileFSR",
 			"Enabled": true
 		}
