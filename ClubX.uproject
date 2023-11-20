@@ -65,8 +65,7 @@
 			"Name": "DTCmd",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/f45396da9bef439f8049d6654f2d6f0b"
-		},
-		{
+		},		{
 			"Name": "MobileFSR",
 			"Enabled": true
 		}
