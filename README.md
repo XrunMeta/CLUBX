@@ -1,5 +1,10 @@
 # Developer Daily Updates
 
+### Mon, 20 Nov 2023
+- Tri, Mon, 20 Nov 2023 - Working on Crossplay (Windows & Android) logic
+- Tri, Mon, 20 Nov 2023 - Setup NPC Mobile
+- Tri, Mon, 20 Nov 2023 - Test NPC in Mobile
+
 ### Fri, 17 Nov 2023
 
 - Rian - Testing and Find Bugs
