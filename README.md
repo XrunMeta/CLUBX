@@ -1,5 +1,12 @@
 # Developer Daily Updates
 
+### Tue, 21 Nov 2023
+- Tri, Tue, 21 Nov 2023 - Testing PC Launcher error looping restart
+- Tri, Tue, 21 Nov 2023 - Optimize Texture (Reduce normal, mask, and rgba texture to 1024)
+- Tri, Tue, 21 Nov 2023 - ReBuild PC version and reupload
+<br><Br>
+
+
 ### Mon, 20 Nov 2023
 
 - Tri, Mon, 20 Nov 2023 - Working on Crossplay (Windows & Android) logic
