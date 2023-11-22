@@ -1,5 +1,10 @@
 # Developer Daily Updates
 
+### Wed, 22 Nov 2023
+- Tri - Wed, 22 Nov 2023 - Synch works on git
+- Tri - Wed, 22 Nov 2023 - Working on Character logic
+<br><br>
+
 ### Tue, 21 Nov 2023
 
 - Tri, Tue, 21 Nov 2023 - Testing PC Launcher error looping restart
