@@ -1,6 +1,23 @@
 # Developer Daily Updates
 
-Thu, 16 Nov 2023
+### Mon, 20 Nov 2023
+- Tri, Mon, 20 Nov 2023 - Working on Crossplay (Windows & Android) logic
+- Tri, Mon, 20 Nov 2023 - Setup NPC Mobile
+- Tri, Mon, 20 Nov 2023 - Test NPC in Mobile
+
+### Fri, 17 Nov 2023
+
+- Rian - Testing and Find Bugs
+- Rian - Testing auto login, check UI lobby profile in mobile, check UI lobby change password in mobile
+- Rian - check UI lobby wallet in mobile and check UI shop category icon in mobile
+  <br><br>
+
+- Tri - Fri, 17 Nov 2023 - Setup Music in Android (Not connected)
+- Tri - Fri, 17 Nov 2023 - Testing android and windows
+- Tri - Fri, 17 Nov 2023 - Elevator replication bugs on different platform, needs rework
+<br><br>
+
+### Thu, 16 Nov 2023
 
 - Rian - Make UI lobby profile wallet
 - Rian - make UI category shop
@@ -9,9 +26,9 @@ Thu, 16 Nov 2023
 - Tri - Thu, 16 Nov 2023 - Setup Floor change
 - Tri - Thu, 16 Nov 2023 - Setup NPC
 - Tri - Thu, 16 Nov 2023 - Testing NPC in Mobile
-<br><br>
+  <br><br>
 
-Wed, 15 Nov 2023
+### Wed, 15 Nov 2023
 
 - Tri - Wed, 15 Nov 2023 - Setup Mobile Character
 - Tri - Wed, 15 Nov 2023 - Setup NPC
