@@ -1,5 +1,10 @@
 # Developer Daily Updates
 
+### Thu, 23 Nov 2023
+- Tri - Thu, 23 Nov 2023 - Testing Crossplay Character workflow
+- Tri - Thu, 23 Nov 2023 - Testing Logic for crossplay multiplatform
+<br><br>
+
 ### Wed, 22 Nov 2023
 
 - Tri - Wed, 22 Nov 2023 - Synch works on git
