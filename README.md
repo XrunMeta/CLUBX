@@ -1,9 +1,16 @@
 # Developer Daily Updates
 
 ### Thu, 23 Nov 2023
+
 - Tri - Thu, 23 Nov 2023 - Testing Crossplay Character workflow
 - Tri - Thu, 23 Nov 2023 - Testing Logic for crossplay multiplatform
-<br><br>
+  <br><br>
+
+- Rian - UI lobby mobile version
+- Rian - Custom avatar head, hair, body, skin, clothes
+- Rian - Active category custom character
+- Rian - Change content head, hair, body, skin, clothes
+  <br><br>
 
 ### Wed, 22 Nov 2023
 
