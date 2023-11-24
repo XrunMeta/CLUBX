@@ -1,5 +1,10 @@
 # Developer Daily Updates
 
+### Fri, 24 Nov 2023
+- Tri - Fri, 24 Nov 2023 - Continuing setup logic for crossplay
+- Tri - Fri, 24 Nov 2023 - Testing logic for crossplay
+<br><br>
+
 ### Thu, 23 Nov 2023
 
 - Tri - Thu, 23 Nov 2023 - Testing Crossplay Character workflow
