@@ -1,9 +1,15 @@
 # Developer Daily Updates
 
 ### Fri, 24 Nov 2023
+
 - Tri - Fri, 24 Nov 2023 - Continuing setup logic for crossplay
 - Tri - Fri, 24 Nov 2023 - Testing logic for crossplay
-<br><br>
+  <br><br>
+
+- Rian - Add UI button for avatar, shop, friends in lobby main mobile
+- Rian - Finish UI banner in lobby main mobile
+- Rian - Add UI icon point, coin, and settings
+  <br><br>
 
 ### Thu, 23 Nov 2023
 
