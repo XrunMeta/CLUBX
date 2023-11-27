@@ -1,5 +1,13 @@
 # Developer Daily Updates
 
+### Mon, 27 Nov 2023
+
+- Rian - UI lobby mobile version
+- Rian - UI find room
+- Rian - Continue UI point, coin, and button settings
+- Rian - UI settings (not finished yet)
+  <br><br>
+
 ### Fri, 24 Nov 2023
 
 - Tri - Fri, 24 Nov 2023 - Continuing setup logic for crossplay
