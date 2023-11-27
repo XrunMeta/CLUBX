@@ -8,6 +8,12 @@
 - Rian - UI settings (not finished yet)
   <br><br>
 
+- Tri - Mon, 27 Nov 2023 - Create datatable character by platform
+- Tri - Mon, 27 Nov 2023 - Create Testing build for mobile 
+- Tri - Mon, 27 Nov 2023 - Testing character select based on platform used
+<br><br>
+
+
 ### Fri, 24 Nov 2023
 
 - Tri - Fri, 24 Nov 2023 - Continuing setup logic for crossplay
