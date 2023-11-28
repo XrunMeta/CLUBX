@@ -1,5 +1,11 @@
 # Developer Daily Updates
 
+### Tue, 28 Nov 2023
+
+- Rian - UI Settings
+- Rian - Repair aspect ratio camera in lobby
+  <br><br>
+
 ### Mon, 27 Nov 2023
 
 - Rian - UI lobby mobile version
@@ -9,10 +15,9 @@
   <br><br>
 
 - Tri - Mon, 27 Nov 2023 - Create datatable character by platform
-- Tri - Mon, 27 Nov 2023 - Create Testing build for mobile 
+- Tri - Mon, 27 Nov 2023 - Create Testing build for mobile
 - Tri - Mon, 27 Nov 2023 - Testing character select based on platform used
-<br><br>
-
+  <br><br>
 
 ### Fri, 24 Nov 2023
 
