@@ -2,6 +2,11 @@
 
 ### Tue, 28 Nov 2023
 
+- Tri - Tue, 28 Nov 2023 - Working on Character Replication
+- Tri - Tue, 28 Nov 2023 - Setup multicast on character to replicate properly
+- Tri - Tue, 28 Nov 2023 - Testing logic on Windows and android Build
+<br><br>
+
 - Rian - UI Settings
 - Rian - Repair aspect ratio camera in lobby
   <br><br>
