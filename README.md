@@ -1,5 +1,11 @@
 # Developer Daily Updates
 
+### Wed, 29 Nov 2023
+- Tri - Wed, 29 Nov 2023 - Workflow Test Build apk and windows
+- Tri - Wed, 29 Nov 2023 - Testing Character function in Android
+- Tri - Wed, 29 Nov 2023 - Testing Character function in Windows
+<br><br>
+
 ### Tue, 28 Nov 2023
 
 - Tri - Tue, 28 Nov 2023 - Working on Character Replication
