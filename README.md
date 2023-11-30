@@ -1,5 +1,10 @@
 # Developer Daily Updates
 
+### Thu, 30 Nov 2023
+- Tri - Thu, 30 Nov 2023 - Implement logic to BP_Character 
+- Tri - Thu, 30 Nov 2023 - Add Function to separate by platform
+- Tri - Thu, 30 Nov 2023 - Create Data Table for Mobile Assets
+
 ### Wed, 29 Nov 2023
 - Tri - Wed, 29 Nov 2023 - Workflow Test Build apk and windows
 - Tri - Wed, 29 Nov 2023 - Testing Character function in Android
