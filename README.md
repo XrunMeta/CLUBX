@@ -1,5 +1,11 @@
 # Developer Daily Updates
 
+### Fri, 01 Dec 2023
+- Tri - Fri, 01 Dec 2023 - Working on Passing variable Character and Server
+- Tri - Fri, 01 Dec 2023 - Calling Datatable to Character
+- Tri - Fri, 01 Dec 2023 - Passsing Collected Data to server
+<br><br>
+
 ### Thu, 30 Nov 2023
 - Tri - Thu, 30 Nov 2023 - Implement logic to BP_Character 
 - Tri - Thu, 30 Nov 2023 - Add Function to separate by platform
