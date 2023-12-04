@@ -1,5 +1,11 @@
 # Developer Daily Updates
 
+### Mon, 04 Dec 2023
+- Tri - Mon, 04 Dec 2023 - Replicating Characters in Mobile and Windows
+- Tri - Mon, 04 Dec 2023 - Setup base logic for Mobile Interface
+- Tri - Mon, 04 Dec 2023 - Divide Logic for windows and mobile User interface
+<br><br>
+
 ### Fri, 01 Dec 2023
 - Tri - Fri, 01 Dec 2023 - Working on Passing variable Character and Server
 - Tri - Fri, 01 Dec 2023 - Calling Datatable to Character
