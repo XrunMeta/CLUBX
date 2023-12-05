@@ -1,5 +1,11 @@
 # Developer Daily Updates
 
+### Tue, 05 Dec 2023
+- Tri - Tue, 05 Dec 2023 - Testing performance in Android
+- Tri - Tue, 05 Dec 2023 - Checking performance-heavy load in Android
+- Tri - Tue, 05 Dec 2023 - Monitoring performance stats
+<br><br>
+
 ### Mon, 04 Dec 2023
 - Tri - Mon, 04 Dec 2023 - Replicating Characters in Mobile and Windows
 - Tri - Mon, 04 Dec 2023 - Setup base logic for Mobile Interface
