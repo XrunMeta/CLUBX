@@ -1,5 +1,11 @@
 # Developer Daily Updates
 
+### Wed, 06 Dec 2023
+- Tri - Wed, 06 Dec 2023 - Fixing Elevator Problematics
+- Tri - Wed, 06 Dec 2023 - Make Sit down logic in Mobile
+- Tri - Wed, 06 Dec 2023 - Working on Dance logic in Mobile
+<br><br>
+
 ### Tue, 05 Dec 2023
 - Tri - Tue, 05 Dec 2023 - Testing performance in Android
 - Tri - Tue, 05 Dec 2023 - Checking performance-heavy load in Android
