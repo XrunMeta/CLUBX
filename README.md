@@ -1,5 +1,11 @@
 # Developer Daily Updates
 
+### Thu, 07 Dec 2023
+- Tri - Thu, 07 Dec 2023 - Setup Voice Chat for Mobile
+- Tri - Thu, 07 Dec 2023 - Rework Voice Chat logic for Multiplatform
+- Tri - Thu, 07 Dec 2023 - Testing Voice Chat Android
+<br><br>
+
 ### Wed, 06 Dec 2023
 - Tri - Wed, 06 Dec 2023 - Fixing Elevator Problematics
 - Tri - Wed, 06 Dec 2023 - Make Sit down logic in Mobile
