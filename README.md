@@ -1,5 +1,11 @@
 # Developer Daily Updates
 
+### 08 Dec 2023
+- Tri - Fri, 08 Dec 2023 - Setup LOD NPC
+- Tri - Fri, 08 Dec 2023 - Setup Character Male Clothes' Material
+- Tri - Fri, 08 Dec 2023 - Resolving Perforce Problem
+<br><br>
+
 ### Thu, 07 Dec 2023
 - Tri - Thu, 07 Dec 2023 - Setup Voice Chat for Mobile
 - Tri - Thu, 07 Dec 2023 - Rework Voice Chat logic for Multiplatform
