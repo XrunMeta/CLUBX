@@ -1,6 +1,12 @@
 # Developer Daily Updates
 
-### 08 Dec 2023
+### Mon, 11 Dec 2023
+- Tri - Mon, 11 Dec 2023 - Setup Character Male Hair's Material
+- Tri - Mon, 11 Dec 2023 - Setup Character Female Clothes' Material
+<br><br>
+
+
+### Fri, 08 Dec 2023
 - Tri - Fri, 08 Dec 2023 - Setup LOD NPC
 - Tri - Fri, 08 Dec 2023 - Setup Character Male Clothes' Material
 - Tri - Fri, 08 Dec 2023 - Resolving Perforce Problem
