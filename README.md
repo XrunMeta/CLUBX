@@ -1,5 +1,10 @@
 # Developer Daily Updates
 
+### Tue, 12 Dec 2023
+- Tri - Tue, 12 Dec 2023 - Setup Character Female Hair's Material
+- Tri - Tue, 12 Dec 2023 - Testing Clothes in Android
+<br><br>
+
 ### Mon, 11 Dec 2023
 - Tri - Mon, 11 Dec 2023 - Setup Character Male Hair's Material
 - Tri - Mon, 11 Dec 2023 - Setup Character Female Clothes' Material
