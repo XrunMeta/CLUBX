@@ -1,5 +1,11 @@
 # Developer Daily Updates
 
+### Wed, 13 Dec 2023
+- Tri - Wed, 13 Dec 2023 - Testing Clothes & Hair on Windows & Android
+- Tri - Wed, 13 Dec 2023 - Optimize disk space
+- Tri - Wed, 13 Dec 2023 - Test Builds
+<br><br>
+
 ### Tue, 12 Dec 2023
 - Tri - Tue, 12 Dec 2023 - Setup Character Female Hair's Material
 - Tri - Tue, 12 Dec 2023 - Testing Clothes in Android
