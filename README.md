@@ -1,5 +1,18 @@
 # Developer Daily Updates
 
+### Thu, 14 Dec 2023
+- Tri - Thu, 14 Dec 2023 - Check Cooked android asset to optimize size
+- Tri - Thu, 14 Dec 2023 - Setup Login Mobile
+- Tri - Thu, 14 Dec 2023 - Setup Temporary Lobby Level
+- Tri - Thu, 14 Dec 2023 - Fix Led above DJ
+- Tri - Thu, 14 Dec 2023 - Increase yellow girl loading screen resolution
+- Tri - Thu, 14 Dec 2023 - Build Lighting
+- Tri - Thu, 14 Dec 2023 - Change Splash Screen Intro launching logo
+- Tri - Thu, 14 Dec 2023 - Make Graphics options menu
+- Tri - Thu, 14 Dec 2023 - Increase Resolution & Quality
+- Tri - Thu, 14 Dec 2023 - Change Intro Clubx logo to 720p
+<br><br>
+
 ### Wed, 13 Dec 2023
 - Tri - Wed, 13 Dec 2023 - Testing Clothes & Hair on Windows & Android
 - Tri - Wed, 13 Dec 2023 - Optimize disk space
