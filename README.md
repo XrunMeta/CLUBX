@@ -1,5 +1,11 @@
 # Developer Daily Updates
 
+### Fri, 15 Dec 2023
+- Tri - Fri, 15 Dec 2023 - Build and Test Android and Windows Build
+- Tri - Fri, 15 Dec 2023 - Fix UI for temporary entry menu
+- Tri - Fri, 15 Dec 2023 - Finalize and Upload Internal Build Test
+<br><br>
+
 ### Thu, 14 Dec 2023
 - Tri - Thu, 14 Dec 2023 - Check Cooked android asset to optimize size
 - Tri - Thu, 14 Dec 2023 - Setup Login Mobile
