@@ -1,5 +1,11 @@
 # Developer Daily Updates
 
+### Mon, 18 Dec 2023
+- Tri - Mon, 18 Dec 2023 - Fixes Mobile Joystick
+- Tri - Mon, 18 Dec 2023 - Add Mobile UI elements
+- Tri - Mon, 18 Dec 2023 - Setup character rotation in Lobby (On Process)
+<br><br>
+
 ### Fri, 15 Dec 2023
 - Tri - Fri, 15 Dec 2023 - Build and Test Android and Windows Build
 - Tri - Fri, 15 Dec 2023 - Fix UI for temporary entry menu
