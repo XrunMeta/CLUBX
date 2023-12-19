@@ -1,5 +1,10 @@
 # Developer Daily Updates
 
+### Tue, 19 Dec 2023
+- Tri - Tue, 19 Dec 2023 - Change Mobile Run, Dance, Interact button
+- Tri - Tue, 19 Dec 2023 - Setup joystick UI
+<br><brChange Mobile Run, Dance, Interact button, Setup joystick UI>
+
 ### Mon, 18 Dec 2023
 - Tri - Mon, 18 Dec 2023 - Fixes Mobile Joystick
 - Tri - Mon, 18 Dec 2023 - Add Mobile UI elements
