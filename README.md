@@ -1,5 +1,12 @@
 # Developer Daily Updates
 
+
+### Wed, 20 Dec 2023
+- Tri - Wed, 20 Dec 2023 - Setup Mobile widget & Logic (Run, select dance)
+- Tri - Wed, 20 Dec 2023 - Fix Mobile virtual joystick
+- Tri - Wed, 20 Dec 2023 - Test Build on Mobile and Windows
+<br><br>
+
 ### Tue, 19 Dec 2023
 - Tri - Tue, 19 Dec 2023 - Change Mobile Run, Dance, Interact button
 - Tri - Tue, 19 Dec 2023 - Setup joystick UI
