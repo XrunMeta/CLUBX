@@ -1,5 +1,10 @@
 # Developer Daily Updates
 
+### Thu, 21 Dec 2023 
+- Tri - Thu, 21 Dec 2023 - Fix mobile button logic for run, dance, pov
+- Tri - Thu, 21 Dec 2023 - Fix layout of mobile gameplay UI
+- Tri - Thu, 21 Dec 2023 - Add Settings menu UI to gameplay menu
+<br><br>
 
 ### Wed, 20 Dec 2023
 - Tri - Wed, 20 Dec 2023 - Setup Mobile widget & Logic (Run, select dance)
@@ -10,7 +15,7 @@
 ### Tue, 19 Dec 2023
 - Tri - Tue, 19 Dec 2023 - Change Mobile Run, Dance, Interact button
 - Tri - Tue, 19 Dec 2023 - Setup joystick UI
-<br><brChange Mobile Run, Dance, Interact button, Setup joystick UI>
+<br><br>
 
 ### Mon, 18 Dec 2023
 - Tri - Mon, 18 Dec 2023 - Fixes Mobile Joystick
