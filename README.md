@@ -1,5 +1,11 @@
 # Developer Daily Updates
 
+### Fri, 22 Dec 2023
+- Tri - Fri, 22 Dec 2023 - Testing Android Multiplayer
+- Tri - Fri, 22 Dec 2023 - Fix Voice Chat
+- Tri - Fri, 22 Dec 2023 - Add Jump, Settings functionality
+<br><br>
+
 ### Thu, 21 Dec 2023 
 - Tri - Thu, 21 Dec 2023 - Fix mobile button logic for run, dance, pov
 - Tri - Thu, 21 Dec 2023 - Fix layout of mobile gameplay UI
