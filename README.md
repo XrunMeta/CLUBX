@@ -1,5 +1,12 @@
 # Developer Daily Updates
 
+
+### Mon, 26 Dec 2023
+- Tri - Mon, 26 Dec 2023 - Fix Loading Screen Mobile Help UI
+- Tri - Mon, 26 Dec 2023 - Test Build Mobile Help UI
+- Tri - Mon, 26 Dec 2023 - Work on Simplified Lobby Customization
+<br><br>
+
 ### Fri, 22 Dec 2023
 - Tri - Fri, 22 Dec 2023 - Testing Android Multiplayer
 - Tri - Fri, 22 Dec 2023 - Fix Voice Chat
