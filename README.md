@@ -1,6 +1,12 @@
 # Developer Daily Updates
 
 
+### Tue, 27 Dec 2023
+- Tri - Tue, 27 Dec 2023 - Disallow screensaver to prevent screen off while playing
+- Tri - Tue, 27 Dec 2023 - Mobile Customization Face, Eyes, Ears, Mouth, Nose
+- Tri - Tue, 27 Dec 2023 - Mobile Customization Hair on progress
+<br><br>
+
 ### Mon, 26 Dec 2023
 - Tri - Mon, 26 Dec 2023 - Fix Loading Screen Mobile Help UI
 - Tri - Mon, 26 Dec 2023 - Test Build Mobile Help UI
