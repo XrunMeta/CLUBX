@@ -1,13 +1,19 @@
 # Developer Daily Updates
 
 
-### Tue, 27 Dec 2023
+### Thu, 28 Dec 2023
+- Tri - Thu, 28 Dec 2023 - Customize Hair Male logic
+- Tri - Thu, 28 Dec 2023 - Customize Hair Female logic
+- Tri - Thu, 28 Dec 2023 - Customize Hair Color Logic
+<br><br>
+
+### Wed, 27 Dec 2023
 - Tri - Tue, 27 Dec 2023 - Disallow screensaver to prevent screen off while playing
 - Tri - Tue, 27 Dec 2023 - Mobile Customization Face, Eyes, Ears, Mouth, Nose
 - Tri - Tue, 27 Dec 2023 - Mobile Customization Hair on progress
 <br><br>
 
-### Mon, 26 Dec 2023
+### Tue, 26 Dec 2023
 - Tri - Mon, 26 Dec 2023 - Fix Loading Screen Mobile Help UI
 - Tri - Mon, 26 Dec 2023 - Test Build Mobile Help UI
 - Tri - Mon, 26 Dec 2023 - Work on Simplified Lobby Customization
