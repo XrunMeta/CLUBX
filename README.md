@@ -1,6 +1,12 @@
 # Developer Daily Updates
 
 
+### Fri, 29 Dec 2023
+- Tri - Fri, 29 Dec 2023 - Change Camera Lag Speed to 0
+- Tri - Fri, 29 Dec 2023 - Build Lighting, fix LOD NPC
+- Tri - Fri, 29 Dec 2023 - Playtesting and check mobile performance
+<br><br>
+
 ### Thu, 28 Dec 2023
 - Tri - Thu, 28 Dec 2023 - Customize Hair Male logic
 - Tri - Thu, 28 Dec 2023 - Customize Hair Female logic
