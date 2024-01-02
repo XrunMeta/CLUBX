@@ -1,6 +1,13 @@
 # Developer Daily Updates
 
 
+### Tue, 02 Jan 2024
+- Tri - Tue, 02 Jan 2024 - Customization Body Height & Weight
+- Tri - Tue, 02 Jan 2024 - Customization Skin Color
+- Tri - Tue, 02 Jan 2024 - Customization Clothes on Progress
+<br><br>
+
+
 ### Fri, 29 Dec 2023
 - Tri - Fri, 29 Dec 2023 - Change Camera Lag Speed to 0
 - Tri - Fri, 29 Dec 2023 - Build Lighting, fix LOD NPC
