@@ -1,6 +1,13 @@
 # Developer Daily Updates
 
 
+### Wed, 03 Jan 2024
+- Tri - Tue, 02 Jan 2024 - Customization Clothes OK
+- Tri - Tue, 02 Jan 2024 - Save character avatar to API
+- Tri - Tue, 02 Jan 2024 - Build Lighting
+<br><br>
+
+
 ### Tue, 02 Jan 2024
 - Tri - Tue, 02 Jan 2024 - Customization Body Height & Weight
 - Tri - Tue, 02 Jan 2024 - Customization Skin Color
