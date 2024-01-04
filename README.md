@@ -1,10 +1,16 @@
 # Developer Daily Updates
 
 
+### Thu, 04 Jan 2024
+- Tri - Thu, 04 Jan 2024 - Lock Friends & Shop Button
+- Tri - Thu, 04 Jan 2024 - Change splash screen intro
+- Tri - Thu, 04 Jan 2024 - Implement Camera Movement in Lobby
+<br><br>
+
 ### Wed, 03 Jan 2024
-- Tri - Tue, 02 Jan 2024 - Customization Clothes OK
-- Tri - Tue, 02 Jan 2024 - Save character avatar to API
-- Tri - Tue, 02 Jan 2024 - Build Lighting
+- Tri - Wed, 03 Jan 2024 - Customization Clothes OK
+- Tri - Wed, 03 Jan 2024 - Save character avatar to API
+- Tri - Wed, 03 Jan 2024 - Build Lighting
 <br><br>
 
 
