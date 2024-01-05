@@ -1,6 +1,12 @@
 # Developer Daily Updates
 
 
+### Fri, 05 Jan 2024
+- Tri - Fri, 05 Jan 2024 - Checking Performance drop  objects
+- Tri - Fri, 05 Jan 2024 - Optimization
+- Tri - Fri, 05 Jan 2024 - Rotating Character in Lobby
+<br><br>
+
 ### Thu, 04 Jan 2024
 - Tri - Thu, 04 Jan 2024 - Lock Friends & Shop Button
 - Tri - Thu, 04 Jan 2024 - Change splash screen intro
