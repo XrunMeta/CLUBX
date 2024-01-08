@@ -1,6 +1,12 @@
 # Developer Daily Updates
 
 
+### Mon, 08 Jan 2024
+- Tri - Mon, 08 Jan 2024 - Fix Mobile UI layout and transparencies
+- Tri - Mon, 08 Jan 2024 - Update Running & Dance Bugs
+- Tri - Mon, 08 Jan 2024 - Test Builds
+<br><br>
+
 ### Fri, 05 Jan 2024
 - Tri - Fri, 05 Jan 2024 - Checking Performance drop  objects
 - Tri - Fri, 05 Jan 2024 - Optimization
