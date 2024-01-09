@@ -1,6 +1,13 @@
 # Developer Daily Updates
 
 
+### Tue, 09 Jan 2024
+- Tri - Tue, 09 Jan 2024 - Fix UI game play main uigold & mic
+- Tri - Tue, 09 Jan 2024 - Fix LOD NPC
+- Tri - Tue, 09 Jan 2024 - Fix Mobile UI bug and layout
+<BR><BR>
+
+
 ### Mon, 08 Jan 2024
 - Tri - Mon, 08 Jan 2024 - Fix Mobile UI layout and transparencies
 - Tri - Mon, 08 Jan 2024 - Update Running & Dance Bugs
