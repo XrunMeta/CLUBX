@@ -1,6 +1,12 @@
 # Developer Daily Updates
 
 
+### Wed, 10 Jan 2024
+- Tri - Wed, 10 Jan 2024 - Setup GPU Lightmass Lighting
+- Tri - Wed, 10 Jan 2024 - Update Gameplay Main UI Mobile
+- Tri - Wed, 10 Jan 2024 - Build APK, Server, and Testing
+<br><br>
+
 ### Tue, 09 Jan 2024
 - Tri - Tue, 09 Jan 2024 - Fix UI game play main uigold & mic
 - Tri - Tue, 09 Jan 2024 - Fix LOD NPC
