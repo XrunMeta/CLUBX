@@ -1,6 +1,12 @@
 # Developer Daily Updates
 
 
+### Thu, 11 Jan 2024
+- Tri - Thu, 11 Jan 2024 - Add UI Sounds
+- Tri - Thu, 11 Jan 2024 - Fix Video Intro Resolution
+- Tri - Thu, 11 Jan 2024 - Tweak Baked Lighting Settings
+<br><br>
+
 ### Wed, 10 Jan 2024
 - Tri - Wed, 10 Jan 2024 - Setup GPU Lightmass Lighting
 - Tri - Wed, 10 Jan 2024 - Update Gameplay Main UI Mobile
