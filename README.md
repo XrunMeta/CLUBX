@@ -1,6 +1,12 @@
 # Developer Daily Updates
 
 
+### Fri, 12 Jan 2024
+Tri - Fri, 12 Jan 2024 - Fix UI audio for Profile in Lobby Main
+Tri - Fri, 12 Jan 2024 - Fix NPC Placements in Level
+Tri - Fri, 12 Jan 2024 - Update Array Graphics Quality to high
+<br><br>
+
 ### Thu, 11 Jan 2024
 - Tri - Thu, 11 Jan 2024 - Add UI Sounds
 - Tri - Thu, 11 Jan 2024 - Fix Video Intro Resolution
