@@ -1,10 +1,16 @@
 # Developer Daily Updates
 
 
+### Mon, 15 Jan 2024
+- Tri - Mon, 15 Jan 2024 - Fix Stretching Problem in Loading video
+- Tri - Mon, 15 Jan 2024 - Modify Intro Screen & Loading Screen Scaling Setting
+- Tri - Mon, 15 Jan 2024 - Fix Logic in Loading Screen size
+<br><br>
+
 ### Fri, 12 Jan 2024
-Tri - Fri, 12 Jan 2024 - Fix UI audio for Profile in Lobby Main
-Tri - Fri, 12 Jan 2024 - Fix NPC Placements in Level
-Tri - Fri, 12 Jan 2024 - Update Array Graphics Quality to high
+- Tri - Fri, 12 Jan 2024 - Fix UI audio for Profile in Lobby Main
+- Tri - Fri, 12 Jan 2024 - Fix NPC Placements in Level
+- Tri - Fri, 12 Jan 2024 - Update Array Graphics Quality to high
 <br><br>
 
 ### Thu, 11 Jan 2024
