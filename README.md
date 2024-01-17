@@ -1,6 +1,10 @@
 # Developer Daily Updates
 
 
+### Wed, 17 Jan 2024
+- Tri - Wed, 17 Jan 2024 - Testing GooglePlay Asset Delivery workflow for Playstore
+<br><br>
+
 ### Tue, 16 Jan 2024
 - Tri - Tue, 16 Jan 2024 - Add Echo canceler in Voice Chat in PC
 - Tri - Tue, 16 Jan 2024 - Change Falloff distance from 1200 to 2000 in BP_Chara
