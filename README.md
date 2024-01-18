@@ -1,6 +1,10 @@
 # Developer Daily Updates
 
 
+### Thu, 18 Jan 2024
+- Tri - Thu, 18 Jan 2024 - Setting and Test build for playstore
+<br><Br>
+
 ### Wed, 17 Jan 2024
 - Tri - Wed, 17 Jan 2024 - Testing GooglePlay Asset Delivery workflow for Playstore
 <br><br>
