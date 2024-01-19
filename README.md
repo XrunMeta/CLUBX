@@ -1,6 +1,20 @@
 # Developer Daily Updates
 
 
+### Thu, 18 Jan 2024
+- Tri - Thu, 18 Jan 2024 - Setting and Test build for playstore
+<br><Br>
+
+### Wed, 17 Jan 2024
+- Tri - Wed, 17 Jan 2024 - Testing GooglePlay Asset Delivery workflow for Playstore
+<br><br>
+
+### Tue, 16 Jan 2024
+- Tri - Tue, 16 Jan 2024 - Add Echo canceler in Voice Chat in PC
+- Tri - Tue, 16 Jan 2024 - Change Falloff distance from 1200 to 2000 in BP_Chara
+- Tri - Tue, 16 Jan 2024 - Fix Check and Request Audio permission when mute mic
+<br><br>
+
 ### Mon, 15 Jan 2024
 - Tri - Mon, 15 Jan 2024 - Fix Stretching Problem in Loading video
 - Tri - Mon, 15 Jan 2024 - Modify Intro Screen & Loading Screen Scaling Setting
