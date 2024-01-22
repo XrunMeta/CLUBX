@@ -1,7 +1,7 @@
 # Developer Daily Updates
 
-### Fri, 19 Jan 2024
-- Tri - Fri, 19 Jan 2024 - We found issues in API level 33 and android OS 13 regarding storage permission.  We are working on it, and found some workaround and testing it.
+### Mon, 22 Jan 2024
+- Tri - Mon, 22 Jan 2024 - Modify SDK setting for playstore, Build Lighting, Prepare to Reupload to Playstore Internal Testing
 <br><br>
 
 ### Fri, 19 Jan 2024
