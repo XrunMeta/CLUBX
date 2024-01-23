@@ -1,8 +1,14 @@
 # Developer Daily Updates
 
+### Tue, 23 Jan 2024
+
+- Opik - Tue, 23 Jan 2024 - Continued building repairs and testing for emissive lighting on the 2nd floor of the club x ceiling area and the floor and pillars
+  <br><br>
+
 ### Mon, 22 Jan 2024
+
 - Tri - Mon, 22 Jan 2024 - Modify SDK setting for playstore, Build Lighting, Prepare to Reupload to Playstore Internal Testing
-<br><br>
+  <br><br>
 
 ### Fri, 19 Jan 2024
 
