@@ -1,6 +1,11 @@
 # Developer Daily Updates
 
 ### Tue, 23 Jan 2024
+- Tri - Tue, 23 Jan 2024 - Fixing Bloom Lighting Issue
+- Tri - Tue, 23 Jan 2024 - Build ver 17 and uploaded to Playstore Internal Testing
+<br><br>
+
+### Tue, 23 Jan 2024
 
 - Opik - Tue, 23 Jan 2024 - Continued building repairs and testing for emissive lighting on the 2nd floor of the club x ceiling area and the floor and pillars
   <br><br>
