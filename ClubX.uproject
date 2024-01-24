@@ -62,12 +62,17 @@
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/4f737815666c4e7dabf2043fb55a8419"
 		},
 		{
+			"Name": "MobileFSR",
+			"Enabled": true
+		},
+		{
 			"Name": "DTCmd",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/f45396da9bef439f8049d6654f2d6f0b"
-		},		{
-			"Name": "MobileFSR",
-			"Enabled": true
+		},
+		{
+			"Name": "Aarchviz_vol1",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
