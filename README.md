@@ -1,8 +1,5 @@
 # Developer Daily Updates
 
-<<<<<<< HEAD
-### Mon, 20 Nov 2023
-=======
 ### Tue, 23 Jan 2024
 - Tri - Tue, 23 Jan 2024 - Fixing Bloom Lighting Issue
 - Tri - Tue, 23 Jan 2024 - Build ver 17 and uploaded to Playstore Internal Testing
