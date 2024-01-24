@@ -1,15 +1,17 @@
 # Developer Daily Updates
 
-### Tue, 24 Jan 2024
-- Opik - Tue, 24 Jan 2024 - Today I tried to fix some bugs and also found an alternative way to light up the club area.
+### Wed, 24 Jan 2024
+- Opik - Wed, 24 Jan 2024 - Today I tried to fix some bugs and also found an alternative way to light up the club area.
+<br><br>
+
+### Wed, 24 Jan 2024
+- Tri - Wed, 24 Jan 2024 - Testing Mobile & update collision in Level
 <br><br>
 
 ### Tue, 23 Jan 2024
 - Tri - Tue, 23 Jan 2024 - Fixing Bloom Lighting Issue
 - Tri - Tue, 23 Jan 2024 - Build ver 17 and uploaded to Playstore Internal Testing
 <br><br>
-
-### Tue, 23 Jan 2024
 
 - Opik - Tue, 23 Jan 2024 - Continued building repairs and testing for emissive lighting on the 2nd floor of the club x ceiling area and the floor and pillars
   <br><br>
