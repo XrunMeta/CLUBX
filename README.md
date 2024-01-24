@@ -1,5 +1,9 @@
 # Developer Daily Updates
 
+### Tue, 24 Jan 2024
+- Opik - Tue, 24 Jan 2024 - Today I tried to fix some bugs and also found an alternative way to light up the club area.
+<br><br>
+
 ### Tue, 23 Jan 2024
 - Tri - Tue, 23 Jan 2024 - Fixing Bloom Lighting Issue
 - Tri - Tue, 23 Jan 2024 - Build ver 17 and uploaded to Playstore Internal Testing
