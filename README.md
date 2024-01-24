@@ -1,10 +1,361 @@
 # Developer Daily Updates
 
+<<<<<<< HEAD
 ### Mon, 20 Nov 2023
+=======
+### Tue, 23 Jan 2024
+- Tri - Tue, 23 Jan 2024 - Fixing Bloom Lighting Issue
+- Tri - Tue, 23 Jan 2024 - Build ver 17 and uploaded to Playstore Internal Testing
+<br><br>
+
+### Tue, 23 Jan 2024
+
+- Opik - Tue, 23 Jan 2024 - Continued building repairs and testing for emissive lighting on the 2nd floor of the club x ceiling area and the floor and pillars
+  <br><br>
+
+### Mon, 22 Jan 2024
+
+- Tri - Mon, 22 Jan 2024 - Modify SDK setting for playstore, Build Lighting, Prepare to Reupload to Playstore Internal Testing
+  <br><br>
+
+### Fri, 19 Jan 2024
+
+- Opik - Fri, 19 Jan 2024 - Adding 3d asset for ceiling
+- Opik - Fri, 19 Jan 2024 - editing emissive material
+- Opik - Fri, 19 Jan 2024 - bloom effect on post processing
+  <br><Br>
+
+### Thu, 18 Jan 2024
+
+- Tri - Thu, 18 Jan 2024 - Setting and Test build for playstore
+  <br><Br>
+
+### Wed, 17 Jan 2024
+
+- Tri - Wed, 17 Jan 2024 - Testing GooglePlay Asset Delivery workflow for Playstore
+  <br><br>
+
+### Tue, 16 Jan 2024
+
+- Tri - Tue, 16 Jan 2024 - Add Echo canceler in Voice Chat in PC
+- Tri - Tue, 16 Jan 2024 - Change Falloff distance from 1200 to 2000 in BP_Chara
+- Tri - Tue, 16 Jan 2024 - Fix Check and Request Audio permission when mute mic
+  <br><br>
+
+### Mon, 15 Jan 2024
+
+- Tri - Mon, 15 Jan 2024 - Fix Stretching Problem in Loading video
+- Tri - Mon, 15 Jan 2024 - Modify Intro Screen & Loading Screen Scaling Setting
+- Tri - Mon, 15 Jan 2024 - Fix Logic in Loading Screen size
+  <br><br>
+
+### Fri, 12 Jan 2024
+
+- Tri - Fri, 12 Jan 2024 - Fix UI audio for Profile in Lobby Main
+- Tri - Fri, 12 Jan 2024 - Fix NPC Placements in Level
+- Tri - Fri, 12 Jan 2024 - Update Array Graphics Quality to high
+  <br><br>
+
+### Thu, 11 Jan 2024
+
+- Tri - Thu, 11 Jan 2024 - Add UI Sounds
+- Tri - Thu, 11 Jan 2024 - Fix Video Intro Resolution
+- Tri - Thu, 11 Jan 2024 - Tweak Baked Lighting Settings
+  <br><br>
+
+### Wed, 10 Jan 2024
+
+- Tri - Wed, 10 Jan 2024 - Setup GPU Lightmass Lighting
+- Tri - Wed, 10 Jan 2024 - Update Gameplay Main UI Mobile
+- Tri - Wed, 10 Jan 2024 - Build APK, Server, and Testing
+  <br><br>
+
+### Tue, 09 Jan 2024
+
+- Tri - Tue, 09 Jan 2024 - Fix UI game play main uigold & mic
+- Tri - Tue, 09 Jan 2024 - Fix LOD NPC
+- Tri - Tue, 09 Jan 2024 - Fix Mobile UI bug and layout
+  <BR><BR>
+
+### Mon, 08 Jan 2024
+
+- Tri - Mon, 08 Jan 2024 - Fix Mobile UI layout and transparencies
+- Tri - Mon, 08 Jan 2024 - Update Running & Dance Bugs
+- Tri - Mon, 08 Jan 2024 - Test Builds
+  <br><br>
+
+### Fri, 05 Jan 2024
+
+- Tri - Fri, 05 Jan 2024 - Checking Performance drop objects
+- Tri - Fri, 05 Jan 2024 - Optimization
+- Tri - Fri, 05 Jan 2024 - Rotating Character in Lobby
+  <br><br>
+
+### Thu, 04 Jan 2024
+
+- Tri - Thu, 04 Jan 2024 - Lock Friends & Shop Button
+- Tri - Thu, 04 Jan 2024 - Change splash screen intro
+- Tri - Thu, 04 Jan 2024 - Implement Camera Movement in Lobby
+  <br><br>
+
+### Wed, 03 Jan 2024
+
+- Tri - Wed, 03 Jan 2024 - Customization Clothes OK
+- Tri - Wed, 03 Jan 2024 - Save character avatar to API
+- Tri - Wed, 03 Jan 2024 - Build Lighting
+  <br><br>
+
+### Tue, 02 Jan 2024
+
+- Tri - Tue, 02 Jan 2024 - Customization Body Height & Weight
+- Tri - Tue, 02 Jan 2024 - Customization Skin Color
+- Tri - Tue, 02 Jan 2024 - Customization Clothes on Progress
+  <br><br>
+
+### Fri, 29 Dec 2023
+
+- Tri - Fri, 29 Dec 2023 - Change Camera Lag Speed to 0
+- Tri - Fri, 29 Dec 2023 - Build Lighting, fix LOD NPC
+- Tri - Fri, 29 Dec 2023 - Playtesting and check mobile performance
+  <br><br>
+
+### Thu, 28 Dec 2023
+
+- Tri - Thu, 28 Dec 2023 - Customize Hair Male logic
+- Tri - Thu, 28 Dec 2023 - Customize Hair Female logic
+- Tri - Thu, 28 Dec 2023 - Customize Hair Color Logic
+  <br><br>
+
+### Wed, 27 Dec 2023
+
+- Tri - Tue, 27 Dec 2023 - Disallow screensaver to prevent screen off while playing
+- Tri - Tue, 27 Dec 2023 - Mobile Customization Face, Eyes, Ears, Mouth, Nose
+- Tri - Tue, 27 Dec 2023 - Mobile Customization Hair on progress
+  <br><br>
+
+### Tue, 26 Dec 2023
+
+- Tri - Mon, 26 Dec 2023 - Fix Loading Screen Mobile Help UI
+- Tri - Mon, 26 Dec 2023 - Test Build Mobile Help UI
+- Tri - Mon, 26 Dec 2023 - Work on Simplified Lobby Customization
+  <br><br>
+
+### Fri, 22 Dec 2023
+
+- Tri - Fri, 22 Dec 2023 - Testing Android Multiplayer
+- Tri - Fri, 22 Dec 2023 - Fix Voice Chat
+- Tri - Fri, 22 Dec 2023 - Add Jump, Settings functionality
+  <br><br>
+
+### Thu, 21 Dec 2023
+
+- Tri - Thu, 21 Dec 2023 - Fix mobile button logic for run, dance, pov
+- Tri - Thu, 21 Dec 2023 - Fix layout of mobile gameplay UI
+- Tri - Thu, 21 Dec 2023 - Add Settings menu UI to gameplay menu
+  <br><br>
+
+### Wed, 20 Dec 2023
+
+- Tri - Wed, 20 Dec 2023 - Setup Mobile widget & Logic (Run, select dance)
+- Tri - Wed, 20 Dec 2023 - Fix Mobile virtual joystick
+- Tri - Wed, 20 Dec 2023 - Test Build on Mobile and Windows
+  <br><br>
+
+### Tue, 19 Dec 2023
+
+- Tri - Tue, 19 Dec 2023 - Change Mobile Run, Dance, Interact button
+- Tri - Tue, 19 Dec 2023 - Setup joystick UI
+  <br><br>
+
+### Mon, 18 Dec 2023
+
+- Tri - Mon, 18 Dec 2023 - Fixes Mobile Joystick
+- Tri - Mon, 18 Dec 2023 - Add Mobile UI elements
+- Tri - Mon, 18 Dec 2023 - Setup character rotation in Lobby (On Process)
+  <br><br>
+
+### Fri, 15 Dec 2023
+
+- Tri - Fri, 15 Dec 2023 - Build and Test Android and Windows Build
+- Tri - Fri, 15 Dec 2023 - Fix UI for temporary entry menu
+- Tri - Fri, 15 Dec 2023 - Finalize and Upload Internal Build Test
+  <br><br>
+
+### Thu, 14 Dec 2023
+
+- Tri - Thu, 14 Dec 2023 - Check Cooked android asset to optimize size
+- Tri - Thu, 14 Dec 2023 - Setup Login Mobile
+- Tri - Thu, 14 Dec 2023 - Setup Temporary Lobby Level
+- Tri - Thu, 14 Dec 2023 - Fix Led above DJ
+- Tri - Thu, 14 Dec 2023 - Increase yellow girl loading screen resolution
+- Tri - Thu, 14 Dec 2023 - Build Lighting
+- Tri - Thu, 14 Dec 2023 - Change Splash Screen Intro launching logo
+- Tri - Thu, 14 Dec 2023 - Make Graphics options menu
+- Tri - Thu, 14 Dec 2023 - Increase Resolution & Quality
+- Tri - Thu, 14 Dec 2023 - Change Intro Clubx logo to 720p
+  <br><br>
+
+### Wed, 13 Dec 2023
+
+- Tri - Wed, 13 Dec 2023 - Testing Clothes & Hair on Windows & Android
+- Tri - Wed, 13 Dec 2023 - Optimize disk space
+- Tri - Wed, 13 Dec 2023 - Test Builds
+  <br><br>
+
+### Tue, 12 Dec 2023
+
+- Tri - Tue, 12 Dec 2023 - Setup Character Female Hair's Material
+- Tri - Tue, 12 Dec 2023 - Testing Clothes in Android
+  <br><br>
+
+### Mon, 11 Dec 2023
+
+- Tri - Mon, 11 Dec 2023 - Setup Character Male Hair's Material
+- Tri - Mon, 11 Dec 2023 - Setup Character Female Clothes' Material
+  <br><br>
+
+### Fri, 08 Dec 2023
+
+- Tri - Fri, 08 Dec 2023 - Setup LOD NPC
+- Tri - Fri, 08 Dec 2023 - Setup Character Male Clothes' Material
+- Tri - Fri, 08 Dec 2023 - Resolving Perforce Problem
+  <br><br>
+
+### Thu, 07 Dec 2023
+
+- Tri - Thu, 07 Dec 2023 - Setup Voice Chat for Mobile
+- Tri - Thu, 07 Dec 2023 - Rework Voice Chat logic for Multiplatform
+- Tri - Thu, 07 Dec 2023 - Testing Voice Chat Android
+  <br><br>
+
+### Wed, 06 Dec 2023
+
+- Tri - Wed, 06 Dec 2023 - Fixing Elevator Problematics
+- Tri - Wed, 06 Dec 2023 - Make Sit down logic in Mobile
+- Tri - Wed, 06 Dec 2023 - Working on Dance logic in Mobile
+  <br><br>
+
+### Tue, 05 Dec 2023
+
+- Tri - Tue, 05 Dec 2023 - Testing performance in Android
+- Tri - Tue, 05 Dec 2023 - Checking performance-heavy load in Android
+- Tri - Tue, 05 Dec 2023 - Monitoring performance stats
+  <br><br>
+
+### Mon, 04 Dec 2023
+
+- Tri - Mon, 04 Dec 2023 - Replicating Characters in Mobile and Windows
+- Tri - Mon, 04 Dec 2023 - Setup base logic for Mobile Interface
+- Tri - Mon, 04 Dec 2023 - Divide Logic for windows and mobile User interface
+  <br><br>
+
+### Fri, 01 Dec 2023
+
+- Tri - Fri, 01 Dec 2023 - Working on Passing variable Character and Server
+- Tri - Fri, 01 Dec 2023 - Calling Datatable to Character
+- Tri - Fri, 01 Dec 2023 - Passsing Collected Data to server
+  <br><br>
+
+### Thu, 30 Nov 2023
+
+- Tri - Thu, 30 Nov 2023 - Implement logic to BP_Character
+- Tri - Thu, 30 Nov 2023 - Add Function to separate by platform
+- Tri - Thu, 30 Nov 2023 - Create Data Table for Mobile Assets
+
+### Wed, 29 Nov 2023
+
+- Tri - Wed, 29 Nov 2023 - Workflow Test Build apk and windows
+- Tri - Wed, 29 Nov 2023 - Testing Character function in Android
+- Tri - Wed, 29 Nov 2023 - Testing Character function in Windows
+  <br><br>
+
+### Tue, 28 Nov 2023
+
+- Tri - Tue, 28 Nov 2023 - Working on Character Replication
+- Tri - Tue, 28 Nov 2023 - Setup multicast on character to replicate properly
+- Tri - Tue, 28 Nov 2023 - Testing logic on Windows and android Build
+  <br><br>
+
+- Rian - UI Settings
+- Rian - Repair aspect ratio camera in lobby
+  <br><br>
+
+### Mon, 27 Nov 2023
+
+- Rian - UI lobby mobile version
+- Rian - UI find room
+- Rian - Continue UI point, coin, and button settings
+- Rian - UI settings (not finished yet)
+  <br><br>
+
+- Tri - Mon, 27 Nov 2023 - Create datatable character by platform
+- Tri - Mon, 27 Nov 2023 - Create Testing build for mobile
+- Tri - Mon, 27 Nov 2023 - Testing character select based on platform used
+  <br><br>
+
+### Fri, 24 Nov 2023
+
+- Tri - Fri, 24 Nov 2023 - Continuing setup logic for crossplay
+- Tri - Fri, 24 Nov 2023 - Testing logic for crossplay
+  <br><br>
+
+- Rian - Add UI button for avatar, shop, friends in lobby main mobile
+- Rian - Finish UI banner in lobby main mobile
+- Rian - Add UI icon point, coin, and settings
+  <br><br>
+
+### Thu, 23 Nov 2023
+
+- Tri - Thu, 23 Nov 2023 - Testing Crossplay Character workflow
+- Tri - Thu, 23 Nov 2023 - Testing Logic for crossplay multiplatform
+  <br><br>
+
+- Rian - UI lobby mobile version
+- Rian - Custom avatar head, hair, body, skin, clothes
+- Rian - Active category custom character
+- Rian - Change content head, hair, body, skin, clothes
+  <br><br>
+
+### Wed, 22 Nov 2023
+
+- Tri - Wed, 22 Nov 2023 - Synch works on git
+- Tri - Wed, 22 Nov 2023 - Working on Character logic
+  <br><br>
+
+- Rian - UI lobby for friends in mobile version
+- Rian - UI notification friends mobile version
+  <br><br>
+
+### Tue, 21 Nov 2023
+
+- Tri, Tue, 21 Nov 2023 - Testing PC Launcher error looping restart
+- Tri, Tue, 21 Nov 2023 - Optimize Texture (Reduce normal, mask, and rgba texture to 1024)
+- Tri, Tue, 21 Nov 2023 - ReBuild PC version and reupload
+  <br><Br>
+
+- Rian - UI lobby mobile version
+- Rian - Active selected button and change content in tab wallet
+- Rian - Active selected icon in list category shop
+  <br><br>
+
+### Mon, 20 Nov 2023
+
+>>>>>>> 9b0ddb5324f192fb6fd38efd3d42bc66f0fa45e7
 - Tri, Mon, 20 Nov 2023 - Working on Crossplay (Windows & Android) logic
 - Tri, Mon, 20 Nov 2023 - Setup NPC Mobile
 - Tri, Mon, 20 Nov 2023 - Test NPC in Mobile
 
+<<<<<<< HEAD
+=======
+<br><br>
+
+- Rian, - UI lobby mobile version
+- Rian, - List checkout in shop
+- Rian, - List item in shop
+
+  <br><br>
+
+>>>>>>> 9b0ddb5324f192fb6fd38efd3d42bc66f0fa45e7
 ### Fri, 17 Nov 2023
 
 - Rian - Testing and Find Bugs
@@ -15,7 +366,11 @@
 - Tri - Fri, 17 Nov 2023 - Setup Music in Android (Not connected)
 - Tri - Fri, 17 Nov 2023 - Testing android and windows
 - Tri - Fri, 17 Nov 2023 - Elevator replication bugs on different platform, needs rework
+<<<<<<< HEAD
 <br><br>
+=======
+  <br><br>
+>>>>>>> 9b0ddb5324f192fb6fd38efd3d42bc66f0fa45e7
 
 ### Thu, 16 Nov 2023
 
