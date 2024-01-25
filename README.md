@@ -1,5 +1,10 @@
 # Developer Daily Updates
 
+### Thu, 25 Jan 2025
+- Tri - Thu, 25 Jan 2025 - Tweaking Audio chat echo
+- Tri - Thu, 25 Jan 2025 - Testing mobile Builds
+<br><br>
+
 ### Wed, 24 Jan 2024
 - Opik - Wed, 24 Jan 2024 - Today I tried to fix some bugs and also found an alternative way to light up the club area.
 <br><br>
