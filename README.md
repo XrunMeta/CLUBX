@@ -1,5 +1,15 @@
 # Developer Daily Updates
 
+### Fri, 26 Jan 2024
+- Tri - Fri, 26 Jan 2024 - Add noise gate to mobile voice chat to minimize echo & audio feedback
+- Tri - Fri, 26 Jan 2024 - Test Package mobile
+<br><br>
+
+### Thu, 25 Jan 2025
+- Tri - Thu, 25 Jan 2025 - Tweaking Audio chat echo
+- Tri - Thu, 25 Jan 2025 - Testing mobile Builds
+<br><br>
+
 ### Wed, 24 Jan 2024
 - Opik - Wed, 24 Jan 2024 - Today I tried to fix some bugs and also found an alternative way to light up the club area.
 <br><br>
