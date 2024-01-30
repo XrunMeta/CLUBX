@@ -1,5 +1,10 @@
 # Developer Daily Updates
 
+### Tue, 30 Jan 2024
+- Tri - Tue, 30 Jan 2024 - Fix voice attenuation & Noise Gate
+- Tri - Tue, 30 Jan 2024 - Build new apk, Server, Test Build
+<br><br>
+
 ### Mon, 29 Jan 2024
 - Tri - Mon, 29 Jan 2024 - Optimize Mobile Size (Reduce build size) and testing builds
 <br><br>
