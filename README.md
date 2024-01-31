@@ -1,5 +1,14 @@
 # Developer Daily Updates
 
+### Tue, 30 Jan 2024
+- Tri - Tue, 30 Jan 2024 - Fix voice attenuation & Noise Gate
+- Tri - Tue, 30 Jan 2024 - Build new apk, Server, Test Build
+<br><br>
+
+### Mon, 29 Jan 2024
+- Tri - Mon, 29 Jan 2024 - Optimize Mobile Size (Reduce build size) and testing builds
+<br><br>
+
 ### Fri, 26 Jan 2024
 - Tri - Fri, 26 Jan 2024 - Add noise gate to mobile voice chat to minimize echo & audio feedback
 - Tri - Fri, 26 Jan 2024 - Test Package mobile
