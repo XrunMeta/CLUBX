@@ -1,5 +1,18 @@
 # Developer Daily Updates
 
+
+### Thu, 01 Feb 2024
+- Tri - Thu, 01 Feb 2024 - Add Footstep sound logic
+- Tri - Thu, 01 Feb 2024 - Add Background Music in Lobby & Reception Floor
+- Tri - Thu, 01 Feb 2024 - Polish, Build and Testing Mobile
+<br><br>
+
+### Wed, 31 Jan 2024
+- Tri - Wed, 31 Jan 2024 - Fix Voice Chat echoes
+- Tri - Wed, 31 Jan 2024 - Optimize Mobile Build
+- Tri - Wed, 31 Jan 2024 - Build and Testing Mobile
+<br><br>
+
 ### Wed, 31 Jan 2024
 - Tri - Wed, 31 Jan 2024 - Fix Voice Chat echoes
 - Tri - Wed, 31 Jan 2024 - Optimize Mobile Build
