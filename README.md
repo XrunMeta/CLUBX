@@ -1,5 +1,8 @@
 # Developer Daily Updates
 
+### Fri, 02 Feb 2024
+- ropikin - fri, 02 Feb 2024 - editing cinematic cut scene
+- ropikin - fri, 02 Feb 2024 - re build lighting production
 
 ### Thu, 01 Feb 2024
 - Tri - Thu, 01 Feb 2024 - Add Footstep sound logic
