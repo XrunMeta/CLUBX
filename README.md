@@ -4,6 +4,13 @@
 - ropikin - Mon, 05 Feb 2024 - revision floor light emissive content
 - ropikin - Mon, 05 Feb 2024 - reedit spot light and parlight more than thicker 
 - ropikin - Mon, 05 Feb 2024 - editor post pro and world setting to 2.0
+<br><br>
+
+- Tri - Mon, 05 Feb 2024 - Fix Double Play Song in level
+- Tri - Mon, 05 Feb 2024 - Fix Footstep Attenuation
+- Tri - Mon, 05 Feb 2024 - Test, Build, Upload cliet and Server
+<br><br>
+
 
 ### Fri, 02 Feb 2024
 - ropikin - fri, 02 Feb 2024 - editing cinematic cut scene
