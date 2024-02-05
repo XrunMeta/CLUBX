@@ -1,5 +1,10 @@
 # Developer Daily Updates
 
+### Mon, 05 Feb 2024
+- ropikin - Mon, 05 Feb 2024 - revision floor light emissive content
+- ropikin - Mon, 05 Feb 2024 - reedit spot light and parlight more than thicker 
+- ropikin - Mon, 05 Feb 2024 - editor post pro and world setting to 2.0
+
 ### Fri, 02 Feb 2024
 - ropikin - fri, 02 Feb 2024 - editing cinematic cut scene
 - ropikin - fri, 02 Feb 2024 - re build lighting production
