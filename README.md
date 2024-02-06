@@ -3,8 +3,12 @@
 ### Tue, 06 Feb 2024
 - ropikin - Tue, 05 Feb 2024 - editing and added DJ table, and LED content
 - ropikin - Tue, 05 Feb 2024 - edited parameter point light and post processing
-
 <br><br>
+
+- Tri - Tue, 06 Feb 2024 - Add Music auto-mute when user speaks
+- Tri - Tue, 06 Feb 2024 - Update Odin Voice Chat plugin
+- Tri - Tue, 06 Feb 2024 - Test, Build, Upload cliet and Server
+<br><Br>
 
 ### Mon, 05 Feb 2024
 - ropikin - Mon, 05 Feb 2024 - revision floor light emissive content
