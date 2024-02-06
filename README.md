@@ -1,5 +1,11 @@
 # Developer Daily Updates
 
+### Tue, 06 Feb 2024
+- ropikin - Tue, 05 Feb 2024 - editing and added DJ table, and LED content
+- ropikin - Tue, 05 Feb 2024 - edited parameter point light and post processing
+
+<br><br>
+
 ### Mon, 05 Feb 2024
 - ropikin - Mon, 05 Feb 2024 - revision floor light emissive content
 - ropikin - Mon, 05 Feb 2024 - reedit spot light and parlight more than thicker 
