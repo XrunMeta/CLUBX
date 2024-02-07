@@ -6,6 +6,10 @@
 - ropikin - Wed, 07 Feb 2024 - rebuild light production
 <br><br>
 
+- Tri - Wed, 07 Feb 2024 - Modify when Voice acivate, background music reduce volume
+- Tri - Wed, 07 Feb 2024 - Test, Build, Upload cliet and Server
+<br><br>
+
 ### Tue, 06 Feb 2024
 - ropikin - Tue, 05 Feb 2024 - editing and added DJ table, and LED content
 - ropikin - Tue, 05 Feb 2024 - edited parameter point light and post processing
