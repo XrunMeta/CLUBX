@@ -1,5 +1,11 @@
 # Developer Daily Updates
 
+### Wed, 07 Feb 2024
+- ropikin - Wed, 07 Feb 2024 - Revision parameter environment light
+- ropikin - Wed, 07 Feb 2024 - adding spot light dim
+- ropikin - Wed, 07 Feb 2024 - rebuild light production
+<br><br>
+
 ### Tue, 06 Feb 2024
 - ropikin - Tue, 05 Feb 2024 - editing and added DJ table, and LED content
 - ropikin - Tue, 05 Feb 2024 - edited parameter point light and post processing
