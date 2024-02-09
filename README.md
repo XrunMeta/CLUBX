@@ -1,5 +1,14 @@
 # Developer Daily Updates
 
+### Fri, 09 Feb 2024
+- Tri - Fri, 09 Feb 2024 - Fix Voice chat activation problem
+- Tri - Fri, 09 Feb 2024 - Fix music volume problem when activating Voice chat
+- Tri - Fri, 09 Feb 2024 - Build and upload
+<br>
+New version can be downloaded here:<br>
+https://drive.google.com/file/d/1ZoRXApafZEuNwqmy4pH-rGqL3JfP28ps/view?usp=sharing
+<br><br>
+
 ### Wed, 07 Feb 2024
 - ropikin - Wed, 07 Feb 2024 - Revision parameter environment light
 - ropikin - Wed, 07 Feb 2024 - adding spot light dim
