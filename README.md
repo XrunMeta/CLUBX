@@ -1,5 +1,11 @@
 # Developer Daily Updates
 
+### Mon, 12 Feb 2024
+- Tri - Mon, 12 Feb 2024 - editing parameter material 
+- Tri - Mon, 12 Feb 2024 - editing blue print material
+- Tri - Mon, 12 Feb 2024 - edited scale value rougnes in second floor area
+
+
 ### Fri, 09 Feb 2024
 - Tri - Fri, 09 Feb 2024 - Fix Voice chat activation problem
 - Tri - Fri, 09 Feb 2024 - Fix music volume problem when activating Voice chat
