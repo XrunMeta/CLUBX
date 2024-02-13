@@ -1,9 +1,9 @@
 # Developer Daily Updates
 
 ### Tue, 13 Feb 2024
-Tri - Tue, 13 Feb 2024 - Optimize texture asset tree outside
-Tri - Tue, 13 Feb 2024 - Reduce texture assets
-Tri - Tue, 13 Feb 2024 - Test Build and upload
+- Tri - Tue, 13 Feb 2024 - Optimize texture asset tree outside
+- Tri - Tue, 13 Feb 2024 - Reduce texture assets
+- Tri - Tue, 13 Feb 2024 - Test Build and upload
 <br><br>
 
 ### Mon, 12 Feb 2024
