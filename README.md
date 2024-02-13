@@ -1,14 +1,20 @@
 # Developer Daily Updates
 
+### Tue, 13 Feb 2024
+Tri - Tue, 13 Feb 2024 - Optimize texture asset tree outside
+Tri - Tue, 13 Feb 2024 - Reduce texture assets
+Tri - Tue, 13 Feb 2024 - Test Build and upload
+<br><br>
+
 ### Mon, 12 Feb 2024
 - Tri - Mon, 12 Feb 2024 - Fix Music Volume Change over Voice Chat ON/OFF
 - Tri - Mon, 12 Feb 2024 - Test, Build, Upload
-<br>
+<br><br>
 
 - ropikin - Mon, 12 Feb 2024 - editing parameter material 
 - ropikin - Mon, 12 Feb 2024 - editing blue print material
 - ropikin - Mon, 12 Feb 2024 - edited scale value rougnes in second floor area
-<br><Br>
+<br><br>
 
 ### Fri, 09 Feb 2024
 - Tri - Fri, 09 Feb 2024 - Fix Voice chat activation problem
