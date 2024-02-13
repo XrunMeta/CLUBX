@@ -1,6 +1,11 @@
 # Developer Daily Updates
 
 ### Tue, 13 Feb 2024
+- ropikin - Tue, 13 Feb 2024 - equencer cinematic edited
+- ropikin - Tue, 13 Feb 2024 - minimize noise reduction 
+<br><br>
+
+### Tue, 13 Feb 2024
 - Tri - Tue, 13 Feb 2024 - Optimize texture asset tree outside
 - Tri - Tue, 13 Feb 2024 - Reduce texture assets
 - Tri - Tue, 13 Feb 2024 - Test Build and upload
