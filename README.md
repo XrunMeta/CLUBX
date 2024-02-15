@@ -1,5 +1,10 @@
 # Developer Daily Updates
 
+### Tue, 15 Feb 2024
+- ropikin - Thu, 15 Feb 2024 - Fix squencer cinematic out of memory
+- ropikin - Thu, 15 Feb 2024 - ind more dance for NPC / player 
+<br><br>
+
 ### Tue, 13 Feb 2024
 - ropikin - Tue, 13 Feb 2024 - equencer cinematic edited
 - ropikin - Tue, 13 Feb 2024 - minimize noise reduction 
