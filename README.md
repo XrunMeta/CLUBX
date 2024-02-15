@@ -5,6 +5,10 @@
 - ropikin - Thu, 15 Feb 2024 - ind more dance for NPC / player 
 <br><br>
 
+- Tri - Thu, 15 Feb 2024 - Update Server setting for voicechat
+- Tri - Thu, 15 Feb 2024 - Build new apk update
+<br><br>
+
 ### Tue, 13 Feb 2024
 - ropikin - Tue, 13 Feb 2024 - equencer cinematic edited
 - ropikin - Tue, 13 Feb 2024 - minimize noise reduction 
