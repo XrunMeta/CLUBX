@@ -1,10 +1,16 @@
 # Developer Daily Updates
 
+### Fri, 16 Feb 2024
+- Tri - Fri, 16 Feb 2024 - Find reference workflow for one-on-one chat
+- Tri - Fri, 16 Feb 2024 - Implement replication for additional dance in Mobile
+- Tri - Fri, 16 Feb 2024 - Test, Build and Upload
+<br>
+
+
 ### Tue, 15 Feb 2024
 - ropikin - Thu, 15 Feb 2024 - Fix squencer cinematic out of memory
 - ropikin - Thu, 15 Feb 2024 - ind more dance for NPC / player 
-<br><br>
-
+<br>
 - Tri - Thu, 15 Feb 2024 - Update Server setting for voicechat
 - Tri - Thu, 15 Feb 2024 - Build new apk update
 <br><br>
