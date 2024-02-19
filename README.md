@@ -1,6 +1,11 @@
 # Developer Daily Updates
 
 ### Mon, 19 Feb 2024
+- Ropikin - Mon, 19 Feb 2024 - NPC dance pack animation 
+- Ropikin - Mon, 19 Feb 2024 - Adding dance type and implement in Unreal Engine
+<br><br>
+
+### Mon, 19 Feb 2024
 - Tri - Mon, 19 Feb 2024 - Predesign 1-on-1 voice chat logic
 - Tri - Mon, 19 Feb 2024 - Collecting all users to our character Mobile UI
 <br><br>
