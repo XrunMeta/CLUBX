@@ -1,10 +1,15 @@
 # Developer Daily Updates
 
+### Mon, 19 Feb 2024
+- Tri - Mon, 19 Feb 2024 - Predesign 1-on-1 voice chat logic
+- Tri - Mon, 19 Feb 2024 - Collecting all users to our character Mobile UI
+<br><br>
+
 ### Fri, 16 Feb 2024
 - Tri - Fri, 16 Feb 2024 - Find reference workflow for one-on-one chat
 - Tri - Fri, 16 Feb 2024 - Implement replication for additional dance in Mobile
 - Tri - Fri, 16 Feb 2024 - Test, Build and Upload
-<br>
+<br><br>
 
 
 ### Tue, 15 Feb 2024
