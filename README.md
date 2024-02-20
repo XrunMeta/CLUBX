@@ -1,16 +1,16 @@
 # Developer Daily Updates
 
-### Mon, 19 Feb 2024
+### Tue, 20 Feb 2024
+- Tri - Tue, 20 Feb 2024 - Modify widget to be clickable for showing other players
+- Tri - Tue, 20 Feb 2024 - Testing connecting to make new voice channel but still not connected
+<br><br>
 - Ropikin - Tue, 20 Feb 2024 - Make ui direct voice chat, export 2d icon asset,  ui and make UI Unreal Engine asset  
-
 <br><br>
 
 ### Mon, 19 Feb 2024
 - Ropikin - Mon, 19 Feb 2024 - NPC dance pack animation 
 - Ropikin - Mon, 19 Feb 2024 - Adding dance type and implement in Unreal Engine
 <br><br>
-
-### Mon, 19 Feb 2024
 - Tri - Mon, 19 Feb 2024 - Predesign 1-on-1 voice chat logic
 - Tri - Mon, 19 Feb 2024 - Collecting all users to our character Mobile UI
 <br><br>
