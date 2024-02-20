@@ -1,6 +1,11 @@
 # Developer Daily Updates
 
 ### Mon, 19 Feb 2024
+- Ropikin - Tue, 20 Feb 2024 - Make ui direct voice chat, export 2d icon asset,  ui and make UI Unreal Engine asset  
+
+<br><br>
+
+### Mon, 19 Feb 2024
 - Ropikin - Mon, 19 Feb 2024 - NPC dance pack animation 
 - Ropikin - Mon, 19 Feb 2024 - Adding dance type and implement in Unreal Engine
 <br><br>
