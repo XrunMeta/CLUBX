@@ -1,5 +1,12 @@
 # Developer Daily Updates
 
+### Wed, 21 Feb 2024
+- Tri - Wed, 21 Feb 2024 - Setup movement by screen swipe
+- Tri - Wed, 21 Feb 2024 - Change UI mobile
+- Tri - Wed, 21 Feb 2024 - Build and upload
+<br><br>
+
+
 ### Tue, 20 Feb 2024
 - Tri - Tue, 20 Feb 2024 - Modify widget to be clickable for showing other players
 - Tri - Tue, 20 Feb 2024 - Testing connecting to make new voice channel but still not connected
