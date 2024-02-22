@@ -1,11 +1,16 @@
 # Developer Daily Updates
 
-### Wed, 21 Feb 2024
-- Ropikin - Wed, 20 Feb 2024 - UI Forgot Password
-- Ropikin - Wed, 20 Feb 2024 - Play menu re layout
-- Ropikin - Wed, 20 Feb 2024 - Data asset reedit
+### Thu, 22 Feb 2024
+- Tri - Thu, 22 Feb 2024 - Develop New Voice Channel Joining
+- Tri - Thu, 22 Feb 2024 - Testing on Mobile
+<br><Br>
+
 
 ### Wed, 21 Feb 2024
+- Ropikin - Wed, 21 Feb 2024 - UI Forgot Password
+- Ropikin - Wed, 21 Feb 2024 - Play menu re layout
+- Ropikin - Wed, 21 Feb 2024 - Data asset reedit
+
 - Tri - Wed, 21 Feb 2024 - Setup movement by screen swipe
 - Tri - Wed, 21 Feb 2024 - Change UI mobile
 - Tri - Wed, 21 Feb 2024 - Build and upload
