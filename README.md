@@ -1,4 +1,12 @@
 # Developer Daily Updates
+
+### Fri, 23 Feb 2024
+- Ropikin - Fri, 23 Feb 2024 - Reduce high poly to lowe poly 3d interor CLUB X progresive
+- Ropikin - Fri, 23 Feb 2024 - Import to unreal
+- Ropikin - Fri, 23 Feb 2024 - Adjust material in unreal engine
+<br><Br>
+
+
 ### Thu, 22 Feb 2024
 - Ropikin - Thu, 22 Feb 2024 - Remake 3d Asset Interior CLUB X Progresive
 <br><Br>
