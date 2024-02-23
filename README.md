@@ -3,7 +3,7 @@
 ### Fri, 23 Feb 2024
 - Tri - Fri, 23 Feb 2024 - Develop Logic for connecting voicechat of 2 users
 <br><br>
-Develop Logic for connecting voicechat of 2 users
+
 ### Fri, 23 Feb 2024
 - Ropikin - Fri, 23 Feb 2024 - Reduce high poly to lowe poly 3d interor CLUB X progresive
 - Ropikin - Fri, 23 Feb 2024 - Import to unreal
