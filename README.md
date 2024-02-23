@@ -1,6 +1,10 @@
 # Developer Daily Updates
 
 ### Fri, 23 Feb 2024
+- Tri - Fri, 23 Feb 2024 - Develop Logic for connecting voicechat of 2 users
+<br><br>
+Develop Logic for connecting voicechat of 2 users
+### Fri, 23 Feb 2024
 - Ropikin - Fri, 23 Feb 2024 - Reduce high poly to lowe poly 3d interor CLUB X progresive
 - Ropikin - Fri, 23 Feb 2024 - Import to unreal
 - Ropikin - Fri, 23 Feb 2024 - Adjust material in unreal engine
@@ -11,7 +15,6 @@
 - Ropikin - Thu, 22 Feb 2024 - Remake 3d Asset Interior CLUB X Progresive
 <br><Br>
 
-### Thu, 22 Feb 2024
 - Tri - Thu, 22 Feb 2024 - Develop New Voice Channel Joining
 - Tri - Thu, 22 Feb 2024 - Testing on Mobile
 <br><Br>
