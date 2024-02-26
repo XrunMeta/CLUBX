@@ -1,5 +1,13 @@
 # Developer Daily Updates
 
+### Mon, 26 Feb 2024
+- Ropikin - Mon, 26 Feb 2024 - -Lighting setup
+- Ropikin - Mon, 26 Feb 2024 - -Adding BP seating
+- Ropikin - Mon, 26 Feb 2024 - -Post Processing setup
+
+
+<br><Br>
+
 ### Fri, 23 Feb 2024
 - Ropikin - Fri, 23 Feb 2024 - Reduce high poly to lowe poly 3d interor CLUB X progresive
 - Ropikin - Fri, 23 Feb 2024 - Import to unreal
