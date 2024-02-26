@@ -4,8 +4,8 @@
 - Ropikin - Mon, 26 Feb 2024 - -Lighting setup
 - Ropikin - Mon, 26 Feb 2024 - -Adding BP seating
 - Ropikin - Mon, 26 Feb 2024 - -Post Processing setup
-
-
+- Tri - Mon, 26 Feb 2024 - Voice chat invitation logic in client
+- Tri - Mon, 26 Feb 2024 - Voice chat invitation logic in server
 <br><Br>
 
 ### Fri, 23 Feb 2024
