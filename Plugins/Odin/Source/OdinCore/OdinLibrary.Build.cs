@@ -9,6 +9,7 @@ public class OdinLibrary : ModuleRules
   public OdinLibrary(ReadOnlyTargetRules Target) : base(Target)
   {
     Type = ModuleType.External;
+    PublicIncludePaths.Add(Path.Combine(ModuleDirectory, "include"));
 
     if (Target.Platform == UnrealTargetPlatform.Win64)
     {
@@ -23,10 +24,12 @@ public class OdinLibrary : ModuleRules
     else if (Target.Platform == UnrealTargetPlatform.Mac)
     {
       PublicAdditionalLibraries.Add(Path.Combine(ModuleDirectory, "universal", "macOS", "libodin_static.a"));
+      PublicFrameworks.Add("SystemConfiguration");
     }
     else if (Target.Platform == UnrealTargetPlatform.IOS)
     {
       PublicAdditionalLibraries.Add(Path.Combine(ModuleDirectory, "universal", "iOS", "libodin_static.a"));
+      PublicFrameworks.Add("SystemConfiguration");
     }
     else if (Target.Platform == UnrealTargetPlatform.Linux)
     {
