@@ -1,6 +1,12 @@
 # Developer Daily Updates
 
 ### Tue, 27 Feb 2024
+- Ropikin - Tue, 27 Feb 2024 - NPC Setting on Room
+- Ropikin - Tue, 27 Feb 2024 - Material Setting
+- Ropikin - Tue, 27 Feb 2024 - Build Lighting 
+<br><br>
+
+### Tue, 27 Feb 2024
 - Tri - Tue, 27 Feb 2024 - Develop 1-on-1 Voicechat logic -> Linking logic and icon on connected
 - Tri - Tue, 27 Feb 2024 - Implement UI in voice chat logic
 <br><br>
