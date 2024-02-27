@@ -1,11 +1,186 @@
 # Developer Daily Updates
 
+### Mon, 26 Feb 2024
+- Ropikin - Mon, 26 Feb 2024 - -Lighting setup
+- Ropikin - Mon, 26 Feb 2024 - -Adding BP seating
+- Ropikin - Mon, 26 Feb 2024 - -Post Processing setup
+- Tri - Mon, 26 Feb 2024 - Voice chat invitation logic in client
+- Tri - Mon, 26 Feb 2024 - Voice chat invitation logic in server
+<br><Br>
+
+### Fri, 23 Feb 2024
+- Ropikin - Fri, 23 Feb 2024 - Reduce high poly to lowe poly 3d interor CLUB X progresive
+- Ropikin - Fri, 23 Feb 2024 - Import to unreal
+- Ropikin - Fri, 23 Feb 2024 - Adjust material in unreal engine
+<br><Br>
+- Tri - Fri, 23 Feb 2024 - Develop Logic for connecting voicechat of 2 users
+<br><br>
+
+### Thu, 22 Feb 2024
+- Ropikin - Thu, 22 Feb 2024 - Remake 3d Asset Interior CLUB X Progresive
+<br><Br>
+
+- Tri - Thu, 22 Feb 2024 - Develop New Voice Channel Joining
+- Tri - Thu, 22 Feb 2024 - Testing on Mobile
+<br><Br>
+
+
+### Wed, 21 Feb 2024
+- Ropikin - Wed, 21 Feb 2024 - UI Forgot Password
+- Ropikin - Wed, 21 Feb 2024 - Play menu re layout
+- Ropikin - Wed, 21 Feb 2024 - Data asset reedit
+
+- Tri - Wed, 21 Feb 2024 - Setup movement by screen swipe
+- Tri - Wed, 21 Feb 2024 - Change UI mobile
+- Tri - Wed, 21 Feb 2024 - Build and upload
+<br><br>
+
+
+### Tue, 20 Feb 2024
+- Tri - Tue, 20 Feb 2024 - Modify widget to be clickable for showing other players
+- Tri - Tue, 20 Feb 2024 - Testing connecting to make new voice channel but still not connected
+<br><br>
+- Ropikin - Tue, 20 Feb 2024 - Make ui direct voice chat, export 2d icon asset,  ui and make UI Unreal Engine asset  
+<br><br>
+
+### Mon, 19 Feb 2024
+- Ropikin - Mon, 19 Feb 2024 - NPC dance pack animation 
+- Ropikin - Mon, 19 Feb 2024 - Adding dance type and implement in Unreal Engine
+<br><br>
+- Tri - Mon, 19 Feb 2024 - Predesign 1-on-1 voice chat logic
+- Tri - Mon, 19 Feb 2024 - Collecting all users to our character Mobile UI
+<br><br>
+
+### Fri, 16 Feb 2024
+- Tri - Fri, 16 Feb 2024 - Find reference workflow for one-on-one chat
+- Tri - Fri, 16 Feb 2024 - Implement replication for additional dance in Mobile
+- Tri - Fri, 16 Feb 2024 - Test, Build and Upload
+<br><br>
+
+
+### Tue, 15 Feb 2024
+- ropikin - Thu, 15 Feb 2024 - Fix squencer cinematic out of memory
+- ropikin - Thu, 15 Feb 2024 - ind more dance for NPC / player 
+<br>
+- Tri - Thu, 15 Feb 2024 - Update Server setting for voicechat
+- Tri - Thu, 15 Feb 2024 - Build new apk update
+<br><br>
+
+### Tue, 13 Feb 2024
+- ropikin - Tue, 13 Feb 2024 - equencer cinematic edited
+- ropikin - Tue, 13 Feb 2024 - minimize noise reduction 
+<br><br>
+
+### Tue, 13 Feb 2024
+- Tri - Tue, 13 Feb 2024 - Optimize texture asset tree outside
+- Tri - Tue, 13 Feb 2024 - Reduce texture assets
+- Tri - Tue, 13 Feb 2024 - Test Build and upload
+<br><br>
+
+### Mon, 12 Feb 2024
+- Tri - Mon, 12 Feb 2024 - Fix Music Volume Change over Voice Chat ON/OFF
+- Tri - Mon, 12 Feb 2024 - Test, Build, Upload
+<br><br>
+
+- ropikin - Mon, 12 Feb 2024 - editing parameter material 
+- ropikin - Mon, 12 Feb 2024 - editing blue print material
+- ropikin - Mon, 12 Feb 2024 - edited scale value rougnes in second floor area
+<br><br>
+
+### Fri, 09 Feb 2024
+- Tri - Fri, 09 Feb 2024 - Fix Voice chat activation problem
+- Tri - Fri, 09 Feb 2024 - Fix music volume problem when activating Voice chat
+- Tri - Fri, 09 Feb 2024 - Build and upload
+<br>
+New version can be downloaded here:<br>
+https://drive.google.com/file/d/1ZoRXApafZEuNwqmy4pH-rGqL3JfP28ps/view?usp=sharing
+<br><br>
+
+### Wed, 07 Feb 2024
+- ropikin - Wed, 07 Feb 2024 - Revision parameter environment light
+- ropikin - Wed, 07 Feb 2024 - adding spot light dim
+- ropikin - Wed, 07 Feb 2024 - rebuild light production
+<br><br>
+
+- Tri - Wed, 07 Feb 2024 - Modify when Voice acivate, background music reduce volume
+- Tri - Wed, 07 Feb 2024 - Test, Build, Upload cliet and Server
+<br><br>
+
+### Tue, 06 Feb 2024
+- ropikin - Tue, 05 Feb 2024 - editing and added DJ table, and LED content
+- ropikin - Tue, 05 Feb 2024 - edited parameter point light and post processing
+<br><br>
+
+- Tri - Tue, 06 Feb 2024 - Add Music auto-mute when user speaks
+- Tri - Tue, 06 Feb 2024 - Update Odin Voice Chat plugin
+- Tri - Tue, 06 Feb 2024 - Test, Build, Upload cliet and Server
+<br><Br>
+
+### Mon, 05 Feb 2024
+- ropikin - Mon, 05 Feb 2024 - revision floor light emissive content
+- ropikin - Mon, 05 Feb 2024 - reedit spot light and parlight more than thicker 
+- ropikin - Mon, 05 Feb 2024 - editor post pro and world setting to 2.0
+<br><br>
+
+- Tri - Mon, 05 Feb 2024 - Fix Double Play Song in level
+- Tri - Mon, 05 Feb 2024 - Fix Footstep Attenuation
+- Tri - Mon, 05 Feb 2024 - Test, Build, Upload cliet and Server
+<br><br>
+
+
+### Fri, 02 Feb 2024
+- ropikin - fri, 02 Feb 2024 - editing cinematic cut scene
+- ropikin - fri, 02 Feb 2024 - re build lighting production
+
+### Thu, 01 Feb 2024
+- Tri - Thu, 01 Feb 2024 - Add Footstep sound logic
+- Tri - Thu, 01 Feb 2024 - Add Background Music in Lobby & Reception Floor
+- Tri - Thu, 01 Feb 2024 - Polish, Build and Testing Mobile
+<br><br>
+
+### Wed, 31 Jan 2024
+- Tri - Wed, 31 Jan 2024 - Fix Voice Chat echoes
+- Tri - Wed, 31 Jan 2024 - Optimize Mobile Build
+- Tri - Wed, 31 Jan 2024 - Build and Testing Mobile
+<br><br>
+
+### Wed, 31 Jan 2024
+- Tri - Wed, 31 Jan 2024 - Fix Voice Chat echoes
+- Tri - Wed, 31 Jan 2024 - Optimize Mobile Build
+- Tri - Wed, 31 Jan 2024 - Build and Testing Mobile
+<br><br>
+
+### Tue, 30 Jan 2024
+- Tri - Tue, 30 Jan 2024 - Fix voice attenuation & Noise Gate
+- Tri - Tue, 30 Jan 2024 - Build new apk, Server, Test Build
+<br><br>
+
+### Mon, 29 Jan 2024
+- Tri - Mon, 29 Jan 2024 - Optimize Mobile Size (Reduce build size) and testing builds
+<br><br>
+
+### Fri, 26 Jan 2024
+- Tri - Fri, 26 Jan 2024 - Add noise gate to mobile voice chat to minimize echo & audio feedback
+- Tri - Fri, 26 Jan 2024 - Test Package mobile
+<br><br>
+
+### Thu, 25 Jan 2025
+- Tri - Thu, 25 Jan 2025 - Tweaking Audio chat echo
+- Tri - Thu, 25 Jan 2025 - Testing mobile Builds
+<br><br>
+
+### Wed, 24 Jan 2024
+- Opik - Wed, 24 Jan 2024 - Today I tried to fix some bugs and also found an alternative way to light up the club area.
+<br><br>
+
+### Wed, 24 Jan 2024
+- Tri - Wed, 24 Jan 2024 - Testing Mobile & update collision in Level
+<br><br>
+
 ### Tue, 23 Jan 2024
 - Tri - Tue, 23 Jan 2024 - Fixing Bloom Lighting Issue
 - Tri - Tue, 23 Jan 2024 - Build ver 17 and uploaded to Playstore Internal Testing
 <br><br>
-
-### Tue, 23 Jan 2024
 
 - Opik - Tue, 23 Jan 2024 - Continued building repairs and testing for emissive lighting on the 2nd floor of the club x ceiling area and the floor and pillars
   <br><br>
