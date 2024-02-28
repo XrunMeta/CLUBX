@@ -6,8 +6,16 @@
 - Ropikin - Wed, 28 Feb 2024 - Editing LOD 
 <br><br>
 
-### Wed, 28 Feb 2024
 - Tri - Wed, 28 Feb 2024 - Continue logic for 1-on-1 voice chat
+Progress is following:
+- Opening Voicechat UI / CLosing UI
+- Confirmation before sending invitation to selected user
+- Sending invitation to selected user for private voice chat
+- Selected user receive invitation and choose to accept or ignore
+- If accepted / rejected, will display notification to the sender
+- If accepted, will connect the 2 user in a unique room only for the 2 people
+- Mic Icon will change to Yellow, indicating voice is connected
+- Disconnect the personal voicechat (still error, fixing in progress)
 <br><Br>
 
 ### Tue, 27 Feb 2024
