@@ -1,5 +1,9 @@
 # Developer Daily Updates
 
+### Wed, 28 Feb 2024
+- Tri - Wed, 28 Feb 2024 - Continue logic for 1-on-1 voice chat
+<br><Br>
+
 ### Tue, 27 Feb 2024
 - Ropikin - Tue, 27 Feb 2024 - NPC Setting on Room
 - Ropikin - Tue, 27 Feb 2024 - Material Setting
