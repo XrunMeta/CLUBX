@@ -1,6 +1,12 @@
 # Developer Daily Updates
 
 ### Wed, 28 Feb 2024
+- Ropikin - Wed, 28 Feb 2024 - Adding props
+- Ropikin - Wed, 28 Feb 2024 - Editing Collisions in asset
+- Ropikin - Wed, 28 Feb 2024 - Editing LOD 
+<br><br>
+
+### Wed, 28 Feb 2024
 - Tri - Wed, 28 Feb 2024 - Continue logic for 1-on-1 voice chat
 <br><Br>
 
