@@ -1,5 +1,10 @@
 # Developer Daily Updates
 
+### Thud, 29 Feb 2024
+- Ropikin - Thu, 29 Feb 2024 - Revision UI chat and export data to unreal engine
+- Ropikin - Thu, 29 Feb 2024 - Collision component and props
+<br><br>
+
 ### Wed, 28 Feb 2024
 - Ropikin - Wed, 28 Feb 2024 - Adding props
 - Ropikin - Wed, 28 Feb 2024 - Editing Collisions in asset
