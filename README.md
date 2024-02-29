@@ -4,6 +4,8 @@
 - Ropikin - Thu, 29 Feb 2024 - Revision UI chat and export data to unreal engine
 - Ropikin - Thu, 29 Feb 2024 - Collision component and props
 <br><br>
+- Tri - Thu, 29 Feb 2024 - Implement Voice Chat UI
+<br><br>
 
 ### Wed, 28 Feb 2024
 - Ropikin - Wed, 28 Feb 2024 - Adding props
