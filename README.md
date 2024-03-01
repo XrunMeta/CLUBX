@@ -1,5 +1,9 @@
 # Developer Daily Updates
 
+### Fri, 1 Mar 2024
+- Ropikin - Mar, 1 Mar 2024 - Adding collision complex to simple collision use geometry model
+- Ropikin - Mar, 1 Mar 2024 - Rebuilding lighting all levels
+
 ### Fri, 01 Mar 2024
 - Tri - Fri, 01 Mar 2024 - Debugging Voice Connection Logic
 - Tri - Fri, 01 Mar 2024 - Build, Test, Upload
