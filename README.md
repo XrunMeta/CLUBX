@@ -1,5 +1,10 @@
 # Developer Daily Updates
 
+### Fri, 01 Mar 2024
+- Tri - Fri, 01 Mar 2024 - Debugging Voice Connection Logic
+- Tri - Fri, 01 Mar 2024 - Build, Test, Upload
+<br><br>
+
 ### Thud, 29 Feb 2024
 - Ropikin - Thu, 29 Feb 2024 - Revision UI chat and export data to unreal engine
 - Ropikin - Thu, 29 Feb 2024 - Collision component and props
