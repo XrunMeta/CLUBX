@@ -4,6 +4,9 @@
 - Ropikin - Mon, 4 Mar 2024 - Make RnD laser Roll effect animation in cinema 4d
 - Ropikin - Mon, 4 Mar 2024 - Make variation animate in cinema 4D
 <br><br>
+- Tri - Mon, 04 Mar 2024 - Insert Progressize ClubX Map
+- Tri - Mon, 04 Mar 2024 - Setup Map for Music and Logic
+<br><br>
 
 ### Fri, 1 Mar 2024
 - Ropikin - Mar, 1 Mar 2024 - Adding collision complex to simple collision use geometry model
