@@ -4,6 +4,8 @@
 - Ropikin - Tue, 5 Mar 2024 - Texture sign in Illustrator
 - Ropikin - Tue, 5 Mar 2024 - Make emissive material sign in 
 <br><br>
+- Tri - Tue, 05 Mar 2024 - Integrating new Map Progressive
+<br><br>
 
 ### Mon, 4 Mar 2024
 - Ropikin - Mon, 4 Mar 2024 - Make RnD laser Roll effect animation in cinema 4d
