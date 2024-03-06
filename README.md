@@ -1,4 +1,10 @@
 # Developer Daily Updates
+
+### Tue, 6 Wen 2024
+- Ropikin - Wen, 6 Mar 2024 - fix problem bar area lightmass Resolution
+- Ropikin - Wen, 6 Mar 2024 - Rebuild lighting Level Progressive and existing level
+<br><br>
+
 ### Tue, 5 Mar 2024
 - Ropikin - Tue, 5 Mar 2024 - Rebuild lighting Level Progressive and existing level
 - Ropikin - Tue, 5 Mar 2024 - Texture sign in Illustrator
