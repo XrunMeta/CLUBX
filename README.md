@@ -1,5 +1,10 @@
 # Developer Daily Updates
 
+### Wed, 06 Mar 2024
+- Tri - Wed, 06 Mar 2024 - Fixing Map logic
+- Tri - Wed, 06 Mar 2024 - Tweak Audio chat Logic to improve audio
+<br><br>
+
 ### Tue, 6 Wen 2024
 - Ropikin - Wen, 6 Mar 2024 - fix problem bar area lightmass Resolution
 - Ropikin - Wen, 6 Mar 2024 - Rebuild lighting Level Progressive and existing level
