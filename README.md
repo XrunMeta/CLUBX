@@ -1,5 +1,11 @@
 # Developer Daily Updates
 
+### Thu, 7 Wen 2024
+- Ropikin - Thu, 7 Mar 2024 - Build Lighting All Levels Production
+- Ropikin - Thu, 7 Mar 2024 - Backup File and Asset CLUB X
+- Ropikin - Thu, 7 Mar 2024 - Adding Laser Roll CLUB X Progressive
+<br><br>
+
 ### Wed, 06 Mar 2024
 - Tri - Wed, 06 Mar 2024 - Fixing Map logic
 - Tri - Wed, 06 Mar 2024 - Tweak Audio chat Logic to improve audio
