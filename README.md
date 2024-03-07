@@ -5,15 +5,17 @@
 - Ropikin - Thu, 7 Mar 2024 - Backup File and Asset CLUB X
 - Ropikin - Thu, 7 Mar 2024 - Adding Laser Roll CLUB X Progressive
 <br><br>
+- Tri - Thu, 07 Mar 2024 - Integrate Progressive Map
+- Tri - Thu, 07 Mar 2024 - Build Mobile APK Upload
+<br><br>
 
 ### Wed, 06 Mar 2024
 - Tri - Wed, 06 Mar 2024 - Fixing Map logic
 - Tri - Wed, 06 Mar 2024 - Tweak Audio chat Logic to improve audio
 <br><br>
 
-### Tue, 6 Wen 2024
-- Ropikin - Wen, 6 Mar 2024 - fix problem bar area lightmass Resolution
-- Ropikin - Wen, 6 Mar 2024 - Rebuild lighting Level Progressive and existing level
+- Ropikin - Wed, 6 Mar 2024 - fix problem bar area lightmass Resolution
+- Ropikin - Wed, 6 Mar 2024 - Rebuild lighting Level Progressive and existing level
 <br><br>
 
 ### Tue, 5 Mar 2024
