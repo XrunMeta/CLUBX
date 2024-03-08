@@ -1,5 +1,11 @@
 # Developer Daily Updates
 
+### Thu, 8 Fri 2024
+- Ropikin - Fri, 8 Mar 2024 - Rebuild Light production
+- Ropikin - Fri, 8 Mar 2024 - Bar Area Polygon missing solving
+- Ropikin - Fri, 8 Mar 2024 - Test Voice odin update
+<br><br>
+
 ### Fri, 08 Mar 2024
 - Tri - Fri, 08 Mar 2024 - Tweak voice chat
 - Tri - Fri, 08 Mar 2024 - Test builds
