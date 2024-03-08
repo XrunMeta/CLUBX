@@ -1,5 +1,11 @@
 # Developer Daily Updates
 
+### Fri, 08 Mar 2024
+- Tri - Fri, 08 Mar 2024 - Tweak voice chat
+- Tri - Fri, 08 Mar 2024 - Test builds
+<br><br>
+
+
 ### Thu, 7 Wen 2024
 - Ropikin - Thu, 7 Mar 2024 - Build Lighting All Levels Production
 - Ropikin - Thu, 7 Mar 2024 - Backup File and Asset CLUB X
