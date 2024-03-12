@@ -1,5 +1,11 @@
 # Developer Daily Updates
 
+### Tue, 12 Mar 2024
+- Tri - Tue, 12 Mar 2024 - Update Voice Chat plugin
+- Tri - Tue, 12 Mar 2024 - Implement Voice Chat Update
+<br><Br>
+
+
 ### Thu, 8 Fri 2024
 - Ropikin - Fri, 8 Mar 2024 - Rebuild Light production
 - Ropikin - Fri, 8 Mar 2024 - Bar Area Polygon missing solving
