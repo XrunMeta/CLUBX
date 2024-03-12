@@ -1,6 +1,11 @@
 # Developer Daily Updates
 
 ### Tue, 12 Mar 2024
+- Ropikin - Tue, 12 Mar 2024 - Lightmap importance volume
+- Ropikin - Tue, 12 Mar 2024 - Build Lighting Production
+<br><br>
+
+### Tue, 12 Mar 2024
 - Tri - Tue, 12 Mar 2024 - Update Voice Chat plugin
 - Tri - Tue, 12 Mar 2024 - Implement Voice Chat Update
 <br><Br>
