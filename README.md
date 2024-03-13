@@ -5,6 +5,10 @@
 - Ropikin - Wed, 13 Mar 2024 - Bake Lighting on 2 level
 - Ropikin - Wed, 13 Mar 2024 - Lift lighting error fixing
 <br><br>
+- Tri - Wed, 13 Mar 2024 - Fix Character Direction at Start
+- Tri - Wed, 13 Mar 2024 - Fix Seat Level, Widget seat & Elevator
+- Tri - Wed, 13 Mar 2024 - Package, Test, and Upload
+<br><br>
 
 ### Tue, 12 Mar 2024
 - Ropikin - Tue, 12 Mar 2024 - Lightmap importance volume
