@@ -1,5 +1,11 @@
 # Developer Daily Updates
 
+### Wed, 13 Mar 2024
+- Ropikin - Wed, 13 Mar 2024 - World setting Lighmass
+- Ropikin - Wed, 13 Mar 2024 - Bake Lighting on 2 level
+- Ropikin - Wed, 13 Mar 2024 - Lift lighting error fixing
+<br><br>
+
 ### Tue, 12 Mar 2024
 - Ropikin - Tue, 12 Mar 2024 - Lightmap importance volume
 - Ropikin - Tue, 12 Mar 2024 - Build Lighting Production
