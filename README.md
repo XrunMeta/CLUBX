@@ -1,5 +1,10 @@
 # Developer Daily Updates
 
+### Thu, 14 Mar 2024
+- Tri - Thu, 14 Mar 2024 - Disable EIK plugin & rebuild
+- Tri - Thu, 14 Mar 2024 - Package apk and upload
+<br><br>
+
 ### Wed, 13 Mar 2024
 - Ropikin - Wed, 13 Mar 2024 - World setting Lighmass
 - Ropikin - Wed, 13 Mar 2024 - Bake Lighting on 2 level
