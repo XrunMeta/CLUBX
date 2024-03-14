@@ -1,6 +1,11 @@
 # Developer Daily Updates
 
 ### Thu, 14 Mar 2024
+- Ropikin - Thu, 14 Mar 2024 - Rebuild collision error
+- Ropikin - Thu, 14 Mar 2024 - Support Upload Playstore
+<br><br>
+
+### Thu, 14 Mar 2024
 - Tri - Thu, 14 Mar 2024 - Disable EIK plugin & rebuild
 - Tri - Thu, 14 Mar 2024 - Package apk and upload
 <br><br>
