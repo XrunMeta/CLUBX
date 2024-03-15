@@ -1,6 +1,12 @@
 # Developer Daily Updates
 
 ### Fri, 15 Mar 2024
+- Ropikin - Fri, 15 Mar 2024 - Rebuild Light production
+- Ropikin - Fri, 15 Mar 2024 - Make Banner
+- Ropikin - Fri, 15 Mar 2024 - Find Bugs
+<br><br>
+
+### Fri, 15 Mar 2024
 - Tri - Fri, 15 Mar 2024 - Hide Text Progressive Map above Elevator
 - Tri - Fri, 15 Mar 2024 - Fix Globalchat Logic (on progress)
 <br><br>
