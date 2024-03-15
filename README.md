@@ -1,5 +1,10 @@
 # Developer Daily Updates
 
+### Fri, 15 Mar 2024
+- Tri - Fri, 15 Mar 2024 - Hide Text Progressive Map above Elevator
+- Tri - Fri, 15 Mar 2024 - Fix Globalchat Logic (on progress)
+<br><br>
+
 ### Thu, 14 Mar 2024
 - Ropikin - Thu, 14 Mar 2024 - Rebuild collision error
 - Ropikin - Thu, 14 Mar 2024 - Support Upload Playstore
