@@ -4,6 +4,8 @@
 - Ropikin - Mon, 18 Mar 2024 - Find Bugs
 - Ropikin - Mon, 18 Mar 2024 - Edit Profile icon voice chat
 - Ropikin - Mon, 18 Mar 2024 - Discussion (Note)
+- Tri - Mon, 18 Mar 2024 - Fix Globalchat Logic (on progress)
+- Tri - Mon, 18 Mar 2024 - Fix Profile Photo On Voice Chat
 <br><br>
 
 ### Fri, 15 Mar 2024
@@ -11,8 +13,6 @@
 - Ropikin - Fri, 15 Mar 2024 - Make Banner
 - Ropikin - Fri, 15 Mar 2024 - Find Bugs
 <br><br>
-
-### Fri, 15 Mar 2024
 - Tri - Fri, 15 Mar 2024 - Hide Text Progressive Map above Elevator
 - Tri - Fri, 15 Mar 2024 - Fix Globalchat Logic (on progress)
 <br><br>
@@ -21,8 +21,6 @@
 - Ropikin - Thu, 14 Mar 2024 - Rebuild collision error
 - Ropikin - Thu, 14 Mar 2024 - Support Upload Playstore
 <br><br>
-
-### Thu, 14 Mar 2024
 - Tri - Thu, 14 Mar 2024 - Disable EIK plugin & rebuild
 - Tri - Thu, 14 Mar 2024 - Package apk and upload
 <br><br>
