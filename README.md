@@ -1,5 +1,11 @@
 # Developer Daily Updates
 
+### Fri, 18 Mon 2024
+- Ropikin - Mon, 18 Mar 2024 - Find Bugs
+- Ropikin - Mon, 18 Mar 2024 - Edit Profile icon voice chat
+- Ropikin - Mon, 18 Mar 2024 - Discussion (Note)
+<br><br>
+
 ### Fri, 15 Mar 2024
 - Ropikin - Fri, 15 Mar 2024 - Rebuild Light production
 - Ropikin - Fri, 15 Mar 2024 - Make Banner
