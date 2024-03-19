@@ -6,8 +6,10 @@
 - Ropikin - Tue, 19 Mar 2024 - Edit Profile icon voice chat
 - Ropikin - Tue, 19 Mar 2024 - Discussion (Note)
 <br><br>
+- Tri - Tue, 19 Mar 2024 - Fix Globalchat Logic
+- Tri - Tue, 19 Mar 2024 - Package Development build and Testing
 
-### Fri, 18 Mon 2024
+### Mon, 18 Mar 2024
 - Ropikin - Mon, 18 Mar 2024 - Find Bugs
 - Ropikin - Mon, 18 Mar 2024 - Edit Profile icon voice chat
 - Ropikin - Mon, 18 Mar 2024 - Discussion (Note)
