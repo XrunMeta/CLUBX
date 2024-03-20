@@ -1,10 +1,11 @@
 # Developer Daily Updates
 
 
-### Wed, 19 Mar 2024
-- Tri - Tue, 19 Mar 2024 - Finalize Update Voice Chat
-- Tri - Tue, 19 Mar 2024 - Build and Test. Packaging problem, aab not containing obb. Still trying repackage
+### Wed, 20 Mar 2024
+- Tri - Wed, 20 Mar 2024 - Finalize Update Voice Chat
+- Tri - Wed, 20 Mar 2024 - Build and Test. Packaging problem, aab not containing obb. Still trying repackaging
 <br><Br>
+
 ### Tue, 19 Mon 2024
 - Ropikin - Tue, 19 Mar 2024 - Find Bugs
 - Ropikin - Tue, 19 Mar 2024 - Edit Profile icon voice chat
