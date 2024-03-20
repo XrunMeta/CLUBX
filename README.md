@@ -1,5 +1,11 @@
 # Developer Daily Updates
 
+### Tue, 20 Wed 2024
+- Ropikin - Wed, 20 Mar 2024 - voice test
+- Ropikin - Wed, 20 Mar 2024 - lightmass test on mobile
+- Ropikin - Wed, 20 Mar 2024 - keeping track of some bugs
+
+<br><br>
 
 ### Wed, 20 Mar 2024
 - Tri - Wed, 20 Mar 2024 - Finalize Update Voice Chat
