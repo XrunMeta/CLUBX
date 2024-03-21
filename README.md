@@ -1,5 +1,10 @@
 # Developer Daily Updates
 
+### Daily Report 21 Mar 2024
+- Tri - Thu, 21 Mar 2024 - Apply fixes to new Build
+- Tri - Thu, 21 Mar 2024 - Build, Test, Package distribution, upload to playstore for review
+<br><br>
+
 ### Tue, 20 Wed 2024
 - Ropikin - Wed, 20 Mar 2024 - voice test
 - Ropikin - Wed, 20 Mar 2024 - lightmass test on mobile
