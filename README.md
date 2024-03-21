@@ -1,5 +1,10 @@
 # Developer Daily Updates
 
+### Thu, 21 Thu 2024
+- Ropikin - Thu, 20 Mar 2024 - Flag bug Fixing
+- Ropikin - Thu, 20 Mar 2024 - Phone Number random fixing
+- Ropikin - Thu, 20 Mar 2024 - Email bugs fixing
+
 ### Daily Report 21 Mar 2024
 - Tri - Thu, 21 Mar 2024 - Apply fixes to new Build
 - Tri - Thu, 21 Mar 2024 - Build, Test, Package distribution, upload to playstore for review
