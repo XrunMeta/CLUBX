@@ -1,5 +1,11 @@
 # Developer Daily Updates
 
+### Thu, 22 Fri 2024
+- Ropikin - Fri, 22 Mar 2024 - Voice chat test
+- Ropikin - Fri, 22 Mar 2024 - Collision fixing 
+- Ropikin - Fri, 22 Mar 2024 - Fixing profile user
+<br><br>
+
 ### Daily Report 22 Mar 2024
 - Tri - Fri, 22 Mar 2024 - Update Server logic
 - Tri - Fri, 22 Mar 2024 - Fix Multiplayer Entry Logic
