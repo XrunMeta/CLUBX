@@ -1,5 +1,10 @@
 # Developer Daily Updates
 
+### Daily Report 22 Mar 2024
+- Tri - Fri, 22 Mar 2024 - Update Server logic
+- Tri - Fri, 22 Mar 2024 - Fix Multiplayer Entry Logic
+<br><br>
+
 ### Thu, 21 Thu 2024
 - Ropikin - Thu, 20 Mar 2024 - Flag bug Fixing
 - Ropikin - Thu, 20 Mar 2024 - Phone Number random fixing
