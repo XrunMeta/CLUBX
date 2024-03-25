@@ -1,4 +1,10 @@
 # Developer Daily Updates
+
+### Daily Report 25 Mar 2024
+- Tri - Mon, 25 Mar 2024 - Test clubX mobile
+- Tri - Mon, 25 Mar 2024 - Update setting for Voice Chat
+<br><br>
+
 ### Thu, 25 Mar 2024
 - Ropikin - Mar, 25 Mar 2024 - Test Apk
 - Ropikin - Mar, 25 Mar 2024 - edited VJ Loops with bink
