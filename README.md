@@ -1,5 +1,10 @@
 # Developer Daily Updates
+### Thu, 25 Mar 2024
+- Ropikin - Mar, 25 Mar 2024 - Test Apk
+- Ropikin - Mar, 25 Mar 2024 - edited VJ Loops with bink
+- Ropikin - Mar, 25 Mar 2024 - aplying in unreal engine
 
+<br><br>
 ### Thu, 22 Fri 2024
 - Ropikin - Fri, 22 Mar 2024 - Voice chat test
 - Ropikin - Fri, 22 Mar 2024 - Collision fixing 
