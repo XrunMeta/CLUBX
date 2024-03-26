@@ -1,5 +1,9 @@
 # Developer Daily Updates
 
+### Daily Report
+- Tri - Tue, 26 Mar 2024 - Debuging server logic bug
+<br><br>
+
 ### Daily Report 25 Mar 2024
 - Tri - Mon, 25 Mar 2024 - Test clubX mobile
 - Tri - Mon, 25 Mar 2024 - Update setting for Voice Chat
