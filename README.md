@@ -1,5 +1,9 @@
 # Developer Daily Updates
 
+### Thu, 26 Mar 2024
+- Ropikin - Mar, 26 Mar 2024 - Test voice
+- Ropikin - Mar, 26 Mar 2024 - Rebuild lighitng medium file
+<br><br>
 ### Daily Report
 - Tri - Tue, 26 Mar 2024 - Debuging server logic bug
 <br><br>
