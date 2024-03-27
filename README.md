@@ -1,5 +1,11 @@
 # Developer Daily Updates
 
+### Wed, 27 Mar 2024
+- Ropikin - Wed, 27 Mar 2024 - Selective all material
+- Ropikin - Wed, 27 Mar 2024 - Make square material texture
+- Ropikin - Wed, 27 Mar 2024 - Reduce material texture from 2048 to 1024 one by one
+<br><br>
+
 ### Daily Report 27 Mar 2024
 - Tri - Wed, 27 Mar 2024 - Fix bug Server logic for player entry (10%)
 <br><br>
