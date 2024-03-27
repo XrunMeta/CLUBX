@@ -1,5 +1,10 @@
 # Developer Daily Updates
 
+### Daily Report 27 Mar 2024
+- Tri - Wed, 27 Mar 2024 - Fix bug Server logic for player entry (10%)
+<br><br>
+
+
 ### Thu, 26 Mar 2024
 - Ropikin - Mar, 26 Mar 2024 - Test voice
 - Ropikin - Mar, 26 Mar 2024 - Rebuild lighitng medium file
