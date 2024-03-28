@@ -1,8 +1,8 @@
 # Developer Daily Updates
 
-### Wed, 28 Mar 2024
-- Ropikin - Wed, 28 Mar 2024 - Test Map server
-- Ropikin - Wed, 28 Mar 2024 - Find Bugs in CLUB X
+### Thu, 28 Mar 2024
+- Ropikin - Thu, 28 Mar 2024 - Test Map server
+- Ropikin - Thu, 28 Mar 2024 - Find Bugs in CLUB X
 <br><br>
 
 ### Daily Report 28 Mar 2024
