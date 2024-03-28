@@ -1,5 +1,11 @@
 # Developer Daily Updates
 
+### Daily Report 28 Mar 2024
+- Tri - Thu, 28 Mar 2024 - Update New LED Reference
+- Tri - Thu, 28 Mar 2024 - Bug Fixes: LED not showing, Relogin & Secret Button, Col box
+- Tri - Thu, 28 Mar 2024 - Build, Test, Upload
+<br><br>
+
 ### Wed, 27 Mar 2024
 - Ropikin - Wed, 27 Mar 2024 - Selective all material
 - Ropikin - Wed, 27 Mar 2024 - Make square material texture
