@@ -1,5 +1,10 @@
 # Developer Daily Updates
 
+### Mon, 1 Apr 2024
+- Ropikin - Mon, 1 Apr 2024 - Private test 
+- Ropikin - Mon, 1 Apr 2024 - Test on mobile, find bugs
+<br><br> 
+
 ### Thu, 28 Mar 2024
 - Ropikin - Thu, 28 Mar 2024 - Test Map server
 - Ropikin - Thu, 28 Mar 2024 - Find Bugs in CLUB X
