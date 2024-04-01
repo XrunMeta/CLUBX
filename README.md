@@ -4,6 +4,9 @@
 - Ropikin - Mon, 1 Apr 2024 - Private test 
 - Ropikin - Mon, 1 Apr 2024 - Test on mobile, find bugs
 <br><br> 
+- Tri - Mon, 01 Apr 2024 - Checking Server logic
+- Tri - Mon, 01 Apr 2024 - Rebuild Server fixes
+<br><br>
 
 ### Thu, 28 Mar 2024
 - Ropikin - Thu, 28 Mar 2024 - Test Map server
