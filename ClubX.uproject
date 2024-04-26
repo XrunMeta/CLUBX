@@ -1,10 +1,6 @@
 {
 	"FileVersion": 3,
-<<<<<<< HEAD
-	"EngineAssociation": "{98A2F42E-4143-899F-C725-2EA0273594CC}",
-=======
-	"EngineAssociation": "{5E6F1F5E-4974-BBAC-C4C3-9A962FF06A64}",
->>>>>>> b5e613ffbbcf9c6892c8129dcef8bc3a4f1b5dcf
+	"EngineAssociation": "5.2",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -24,54 +20,54 @@
 		},
 		{
 			"Name": "VaRest",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/e47be161e7a24e928560290abd5dcc4f"
 		},
 		{
 			"Name": "BinkMedia",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "DMXProtocol",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "DMXPixelMapping",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "DMXFixtures",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "DMXEngine",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "Text3D",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "MovieRenderPipeline",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "RuntimeFilesDownloader",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/e7e6df6d6e9c46f0ae35163eab67ff9a"
 		},
 		{
 			"Name": "FileSDK",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/4f737815666c4e7dabf2043fb55a8419"
 		},
 		{
 			"Name": "MobileFSR",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "DTCmd",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/f45396da9bef439f8049d6654f2d6f0b"
 		},
 		{
