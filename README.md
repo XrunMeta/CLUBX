@@ -1,4 +1,14 @@
-# Developer Daily Updates
+# ClubX
+
+ClubX is unreal engine based Virtual Club. 
+
+
+
+
+
+
+# Developer Daily Update
+## after 4/1 24, update moves to issues at xrunmeta.
 
 ### Mon, 1 Apr 2024
 - Ropikin - Mon, 1 Apr 2024 - Private test 
