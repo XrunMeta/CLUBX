@@ -2,9 +2,9 @@
 
 ClubX is unreal engine based Virtual Club. 
 
+# Now, the Clubx public beta test started.
 
-
-
+https://play.google.com/store/apps/details?id=run.xrun.clubx&pli=1
 
 
 # Developer Daily Update
