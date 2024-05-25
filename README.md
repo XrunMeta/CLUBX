@@ -8,6 +8,11 @@ https://play.google.com/store/apps/details?id=run.xrun.clubx&pli=1
 
 
 # Developer Daily Update
+
+### Sun, 25 May 2024
+- some modules are removed by unreal
+- checking healty app.
+
 ## after 4/1 24, update moves to issues at xrunmeta.
 
 ### Mon, 1 Apr 2024
