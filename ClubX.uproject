@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.2",
+	"EngineAssociation": "5.4",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -19,66 +19,9 @@
 			]
 		},
 		{
-			"Name": "VaRest",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/e47be161e7a24e928560290abd5dcc4f"
-		},
-		{
-			"Name": "BinkMedia",
-			"Enabled": false
-		},
-		{
-			"Name": "DMXProtocol",
-			"Enabled": false
-		},
-		{
-			"Name": "DMXPixelMapping",
-			"Enabled": false
-		},
-		{
-			"Name": "DMXFixtures",
-			"Enabled": false
-		},
-		{
-			"Name": "DMXEngine",
-			"Enabled": false
-		},
-		{
-			"Name": "Text3D",
-			"Enabled": false
-		},
-		{
-			"Name": "MovieRenderPipeline",
-			"Enabled": false
-		},
-		{
-			"Name": "RuntimeFilesDownloader",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/e7e6df6d6e9c46f0ae35163eab67ff9a"
-		},
-		{
-			"Name": "FileSDK",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/4f737815666c4e7dabf2043fb55a8419"
-		},
-		{
-			"Name": "MobileFSR",
-			"Enabled": false
-		},
-		{
-			"Name": "DTCmd",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/f45396da9bef439f8049d6654f2d6f0b"
-		},
-		{
-			"Name": "Aarchviz_vol1",
-			"Enabled": false
+			"Name": "EOSIntegrationKit",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/dba0aa05bdd144e69405653a387ad63e"
 		}
-	],
-	"TargetPlatforms": [
-		"Windows",
-		"HoloLens",
-		"Android",
-		"Linux"
 	]
 }

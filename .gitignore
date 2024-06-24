@@ -98,3 +98,7 @@ Startgame.bat
 
 # VSCode Setting
 .vscode
+
+# Ignore Plugins to save spaces
+Plugins/EOSIntegrationKit/*
+Plugins/vc-ue-extensions-main/*
